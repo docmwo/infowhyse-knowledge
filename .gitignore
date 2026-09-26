@@ -1,0 +1,6 @@
+# Interne Quellen (Marketingmaterial, Handbücher, interne Dokumente) – nicht veröffentlichen
+_quellen/
+
+# Lokale Arbeitsdateien
+*.tmp
+.DS_Store

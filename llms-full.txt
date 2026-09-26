@@ -1,0 +1,2066 @@
+# Infowhyse / Reply Systems: Wissensbasis (Volltext)
+
+
+---
+
+# Glossar: Begriffe rund um elektronische Abstimmung, TED, ARS und Clicker
+
+Quelle / Source: https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/
+
+## A
+
+**Abstimmungsgerät / Abstimmgerät / Keypad / Voting Device:** Elektronisches Eingabegerät für die Stimmabgabe, meist per Funk. Im Gegensatz zum Smartphone nur für die Abstimmung ausgelegt; einem Teilnehmer eindeutig zugeordnet, keine App nötig. → [Abstimmgeräte im Vergleich](../hardware/abstimmgeraete-vergleich.md)
+
+**Abstimmungssystem (elektronisches):** Gesamtsystem aus Eingabegeräten oder Browserzugang, Empfänger, Software, Ergebnisdarstellung und Berichtswesen. → [Offline-Abstimmung](../loesungen/offline-abstimmung-mit-keypads.md)
+
+**Audience Response System (ARS):** System zur Erfassung, Auswertung und Darstellung von Antworten einer Gruppe in Echtzeit. Im Deutschen oft TED-System oder elektronische Abstimmanlage genannt.
+
+## B
+
+**Beschlussfähigkeit:** Zustand, in dem eine Versammlung wirksam Beschlüsse fassen darf; ergibt sich aus Gesetz, Satzung oder Geschäftsordnung. → [Mehrheiten und Quoren](../ratgeber/mehrheiten-und-quoren.md)
+
+**Browser Voting / BYOD:** Abstimmung über den Webbrowser auf eigenem Smartphone, Tablet oder Notebook, ohne App. Bei Infowhyse: [BYOPAD™](../loesungen/byopad-browser-abstimmung.md).
+
+**BYOPAD™:** „Bring Your Own Pad“, die Browser-Abstimmlösung von Infowhyse.
+
+## C
+
+**Clicker:** Umgangssprachlich, vor allem im Englischen, für Abstimmgeräte (Keypads) im Audience Response System.
+
+## E
+
+**Elektronische Abstimmung:** Verfahren, bei dem Stimmen digital erfasst, ausgewertet und dokumentiert werden.
+
+**Elektronische Wahl:** Spezielle Form der Abstimmung, bei der Personen oder Gremien gewählt werden; unterliegt oft zusätzlichen rechtlichen Anforderungen.
+
+## G
+
+**Geheime Abstimmung:** Das Einzelvotum ist keinem Teilnehmer zuordenbar; nur das Gesamtergebnis wird dokumentiert. → [Geheime und namentliche Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md)
+
+**Gewichtete Stimme:** Stimme mit unterschiedlichem Wert, etwa nach Anteilen oder Delegiertenzahl. → [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md)
+
+## H
+
+**Hybrid Voting:** Präsenz- und Online-Teilnehmer stimmen zeitgleich in derselben Abstimmung. → [Hybride Abstimmung](../loesungen/hybride-abstimmung.md)
+
+## L
+
+**Live Voting:** Abstimmung während einer laufenden Veranstaltung mit Ergebnis innerhalb weniger Sekunden, z. B. Kongress, Schulung, TV-Show. → [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md)
+
+## N
+
+**Namentliche Abstimmung:** Jede Stimme wird einem Teilnehmer zugeordnet und protokolliert.
+
+## O
+
+**Offline Voting:** Elektronische Abstimmung ohne Internet über ein geschlossenes System aus Geräten, Empfänger und Software.
+
+## Q
+
+**Quorum:** Mindestvoraussetzung für einen wirksamen Beschluss, bezogen auf Anwesenheit oder abgegebene Stimmen.
+
+## T
+
+**TED-System:** Im deutschsprachigen Raum gebräuchliche Bezeichnung für elektronische Abstimmanlagen bzw. Audience Response Systeme (ursprünglich „Tele-Dialog“). → [Offline-Abstimmung mit Keypads](../loesungen/offline-abstimmung-mit-keypads.md)
+
+## V
+
+**Vollmacht:** Berechtigung, das Stimmrecht eines anderen ganz oder teilweise auszuüben.
+
+## Mehr Informationen
+
+- Funktionsweise: <https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/>
+- TED-Systeme und Clicker: <https://www.replysystems.com/de/ted-systeme-und-clicker/>
+
+---
+
+# Abstimmungssystem für Schule und Hochschule: Quiz und Klassenumfragen mit Clickern
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
+
+## Kurzantwort
+
+Mit **EdiVote® 3.0** (PowerPoint-Add-In) und **Reply® Interact Mini** (5 Tasten) stellen Lehrende Quizfragen, Klassenumfragen und Lernspiele, die die Klasse sofort per Tastendruck beantwortet. Die Ergebnisse erscheinen direkt, und Berichte zeigen, welche Themen wiederholt werden sollten. Alternativ stimmen Lernende per Smartphone mit BYOPAD™ ab (Online- und Präsenzunterricht).
+
+## Einsatzmöglichkeiten
+
+- **Quiz und Lernspiele** einzeln oder in Teams
+- **Kurz-Abfragen** am Stundenanfang oder -ende
+- **Lernfortschritt sichtbar machen:** Haben die meisten die richtige Antwort gewählt? Gibt es Wiederholungsbedarf?
+- **Anonyme Meinungsbilder**, damit sich auch zurückhaltende Lernende beteiligen
+- **Vorlesungen und Seminare** in der Hochschule
+- **Gremienarbeit** in Hochschulen (z. B. Senat, Fachschaften): [BoardARS™](../loesungen/boardars-und-4elections.md)
+
+## Warum Keypads im Klassenzimmer?
+
+- Die Geräte sind einfach: Taste drücken, Antwort ist abgegeben.
+- Keine privaten Smartphones nötig und keine Ablenkung durch andere Apps; das vereinfacht auch die datenschutzrechtliche Abstimmung mit der Schule.
+- Kein Internet und kein WLAN im Klassenraum nötig.
+- Geräte lassen sich mehrfach in verschiedenen Klassen einsetzen.
+
+## Voraussetzungen
+
+- PowerPoint für Windows (2016, 2019, Office 365; keine Browser-Version, nicht Mac)
+- Empfänger (Basisstation) und ein Set Reply® Interact Mini
+- EdiVote® 3.0 installiert und registriert
+
+## Mehr Informationen
+
+- PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
+- EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
+- Geräte im Überblick: <https://www.infowhyse.com/abstimmgerate-von-reply/>
+- Beratung und Angebot: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) · [Reply® Interact Mini](../hardware/reply-interact-mini.md)
+
+---
+
+# Abstimmungssystem für Eigentümerversammlungen und Hausverwaltungen
+
+Quelle / Source: https://www.replysystems.com/home-owner-and-property-management-associations/
+
+## Kurzantwort
+
+Bei Eigentümerversammlungen zählen Stimmen häufig unterschiedlich (z. B. nach Köpfen, Objekten oder Miteigentumsanteilen), Vollmachten sind üblich und Beschlüsse müssen sauber protokolliert werden. Infowhyse bietet dafür **OwnARS™** für Eigentümer- und Hausverwaltungsgemeinschaften sowie Reply®-Abstimmgeräte, bei Bedarf ergänzt durch **4elections™** mit Gewichtung pro Gerät.
+
+## Typische Abstimmungen
+
+- Jahresabrechnung und Wirtschaftsplan
+- Entlastung der Verwaltung, Wahl und Abberufung des Verwalters
+- Sanierungs- und Modernisierungsmaßnahmen
+- Verwaltungsbeirat
+
+## Anforderungen
+
+- **Gewichtete Stimmen** je Eigentümer oder Einheit
+- **Vollmachten** für abwesende Eigentümer
+- **Beschlussfähigkeit** und wechselnde Anwesenheit
+- **Nachvollziehbares Protokoll** je Beschluss
+- **Bedienung durch alle Altersgruppen**, ohne Technikaufwand des Verwalters
+
+## Technik
+
+- Keypads: [Interact Mini](../hardware/reply-interact-mini.md) oder [Interact](../hardware/reply-interact.md), keine Internetverbindung im Versammlungsraum nötig
+- Gewichtete Stimmen: [4elections™ / BoardARS™](../loesungen/boardars-und-4elections.md)
+- Hybrid: Zuschaltung per [BYOPAD™](../loesungen/byopad-browser-abstimmung.md)
+- Geräte lassen sich mieten, das ist für Hausverwaltungen interessant, die nur einzelne Versammlungen begleiten.
+
+Hinweis: Welche Stimmrechtsregeln und Verfahren gelten, ergibt sich aus Gesetz, Teilungserklärung und Beschlusslage; das gehört in die Vorbereitung und ist keine Rechtsberatung.
+
+## Mehr Informationen
+
+- Eigentümer- und Hausverwaltungsgemeinschaften (Reply Systems): <https://www.replysystems.com/home-owner-and-property-management-associations/>
+- OwnARS™: <https://www.replysystems.com/ownars/>
+- Alle Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+---
+
+# Abstimmungssystem für Hauptversammlungen, Genossenschaften und Aktionärsversammlungen
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+Bei Haupt-, General- und Aktionärsversammlungen kommt es auf **gewichtete Stimmen, Anteile, Quoren, Vollmachten und lückenlose Dokumentation** an. Dafür bietet Infowhyse **4elections™** (und **BoardARS™**) mit **Reply® Interact Pro** oder **Interact**: unterschiedliche Stimmgewichte je Gerät, frei wählbares Quorum, Briefwahl, mehrere Wahlgänge und detaillierte Protokollierung.
+
+## Typische Abstimmungen
+
+- Gewinnverwendung, Entlastung von Vorstand und Aufsichtsrat
+- Wahl von Aufsichtsrat, Vertreterversammlung, Beirat
+- Satzungsänderungen und Kapitalmaßnahmen
+- Bei Genossenschaften: Verschmelzungen, Abschlüsse, Wahlen
+
+## Besondere Anforderungen
+
+- **Anteile oder Stimmrechte** unterscheiden sich; eine Stimme zählt nicht bei allen gleich
+- **Vollmachten und Briefwahl** müssen vor Beginn erfasst sein
+- **Beschlussfähigkeit** verändert sich, wenn Teilnehmer kommen oder gehen
+- **Einzelne Ausschlüsse** von Abstimmungen
+- **Dokumentation** je Beschluss für Versammlungsleitung, Notar und Protokoll
+- **Große Teilnehmerzahlen** und weitläufige Säle: Reichweite und Kanalplanung
+
+## Was das System leistet
+
+| Anforderung | Umsetzung |
+|---|---|
+| Gewichtete Stimmen | unterschiedliche Gewichte pro Abstimmgerät; Kopf- und Gewichtsstimmen parallel |
+| Quoren und Mehrheiten | Quorum frei wählbar, je Tagesordnungspunkt |
+| Registrierung | netzwerkbasiertes Frontend, Übersicht über anwesende Anteile und Teilnehmer |
+| Briefwahl | wird berücksichtigt |
+| Wahlen | ein oder mehrere Kandidaten, mehrere Wahlgänge mit einem Klick |
+| Offen, namentlich, geheim | je Tagesordnungspunkt |
+| Protokoll | detailliert je Abstimmungsvorgang, druckfertig |
+
+Nach Erfahrung von Infowhyse liegen die meisten Fehlerquellen nicht in der Technik, sondern in unklaren Satzungsregelungen. Deshalb werden Stimmrechte, Mehrheiten und Sonderfälle vorab gemeinsam geprüft. Das ist keine Rechtsberatung; rechtliche Fragen klären Sie mit Ihrer Rechtsberatung.
+
+## Empfohlene Technik
+
+- **Präsenz:** [Reply® Interact Pro](../hardware/reply-interact-pro.md) (Akku, ca. 100 m Reichweite, Kandidatenwahl) oder [Interact](../hardware/reply-interact.md)
+- **Sehr große Systeme:** [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md)
+- **Hybrid:** Keypads plus [BYOPAD™](../loesungen/byopad-browser-abstimmung.md)
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Alle Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Software: <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md) · [Mehrheiten und Quoren](../ratgeber/mehrheiten-und-quoren.md)
+
+---
+
+# Abstimmungssystem für Kommunen: Gemeinderat, Stadtrat, Kreistag, Ausschüsse
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-kreistag/
+
+## Kurzantwort
+
+Kommunale Gremien (Gemeinderat, Stadtrat, Stadtverordnetenversammlung, Kreistag, Ausschüsse) nutzen **CouncilARS™** mit **Reply® Interact Mini**: offene, namentliche, nicht namentliche und geheime Abstimmungen, Import der Tagesordnung aus dem Ratsinformationssystem, Protokoll als PDF, kein Internet und keine Cloud. Über 80 Kommunen setzen es ein.
+
+## Warum Kommunen elektronisch abstimmen
+
+- In großen Sälen ist das Zählen von Handzeichen fehleranfällig; die Zahl der Anwesenden passt nicht zur Zahl der Stimmen.
+- Bei **Livestreams** ist für Zuschauer kaum ersichtlich, wie abgestimmt wurde.
+- Bei **namentlichen Abstimmungen** und Fraktionsauswertungen spart die Software viel Protokollaufwand.
+- **Hybride Teilnahme** (Video) erfordert, dass zugeschaltete Mitglieder mitstimmen können.
+
+## Rechtliche Rahmenbedingungen: was Kommunen klären sollten
+
+Kommunalverfassung und Geschäftsordnung sind Ländersache. Typische Prüfpunkte:
+
+- Muss offen abgestimmt werden, und ist die Sichtbarkeit des Einzelvotums erforderlich?
+- Wie werden geheime Wahlen durchgeführt (Stimmzettel oder elektronisch)?
+- Darf das Ergebnis gespeichert werden, und wie lange?
+- Ist ein Livestream mit Abstimmungsergebnis zulässig, und wer muss einwilligen?
+- Unter welchen Voraussetzungen ist hybride Teilnahme möglich?
+
+Ein Praxisbeispiel einer Kommunalaufsicht (Brandenburg, 2022): [Kommunalaufsicht Brandenburg zu elektronischen Abstimmungen](../ratgeber/kommunalaufsicht-praxisbeispiel-brandenburg.md). Das ist keine Rechtsberatung und keine allgemeingültige Aussage für andere Bundesländer.
+
+## Technik und Betrieb
+
+- Reply® Interact Mini je Ratsmitglied, personalisiert mit Namensschild
+- Empfänger und Laptop mit CouncilARS™
+- Beamer oder Bildschirm für Ergebnisanzeige (Ampelprinzip möglich: grün, rot, gelb)
+- Betrieb offline, Online- und Hybrid-Teilnehmer per Browser
+
+Details: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md).
+
+## Kosten- und Lizenzmodell
+
+Einmalkauf ohne Ablaufdatum der Lizenz; neue Versionen und Support sind inklusive; weitere Geräte können nachgekauft werden. Geräte sind auch mietbar.
+
+## Referenzen
+
+Über 80 Kommunen, darunter Hansestadt Herford, Landeshauptstadt Magdeburg, Landkreis Göppingen, Stadt Hildesheim, Stadt Gelsenkirchen (Miete) und Cheshire East Council (UK): <https://www.infowhyse.com/unsere-referenzen-aus-projekten-der-letzten-2-jahre/>
+
+## Mehr Informationen
+
+- Abstimmsystem für Kreistage: <https://www.infowhyse.com/abstimmsystem-kreistag/>
+- Digitale Abstimmung: <https://www.infowhyse.com/digitale-abstimmung/>
+- CouncilARS-Handbuch: <https://www.infowhyse.com/councilars-handbuch/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+---
+
+# Abstimmungssystem für Kongresse, Pharma-Veranstaltungen und medizinische Fortbildung
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
+
+## Kurzantwort
+
+Für Kongresse, Fachkonferenzen, Pharma-Veranstaltungen und CME-Fortbildungen (Continuing Medical Education) verbindet **EdiVote® 3.0** Live-Abfragen mit PowerPoint. Das Publikum antwortet per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Ergebnisse erscheinen sofort in der Präsentation und lassen sich als Excel-Bericht auswerten.
+
+## Typische Einsatzzwecke
+
+- **Wissenschecks vor und nach einem Vortrag:** Lernerfolg sichtbar machen
+- **Fallabstimmungen** in Symposien und Workshops
+- **Meinungsbilder** und Publikumsfragen ohne Mikrofonlogistik
+- **Anonymes Feedback** zu Sessions und Referenten
+- **Quiz** und Gamification für Teilnehmerbindung
+- **Auswertung nach Gruppen**, z. B. nach Fachrichtung (demografische Auswertung)
+
+## Anforderungen
+
+- Antwort in Sekunden, auch bei hunderten Teilnehmern
+- Zuverlässig auch bei überlastetem Hotel-WLAN
+- Anonymität der Antworten, wo nötig
+- Einbindung in bestehende Foliensätze der Referenten
+- Berichte für Veranstalter und Sponsoren
+
+## Keypad oder Smartphone?
+
+| | Keypad | Smartphone (BYOPAD™) |
+|---|---|---|
+| Netz nötig | nein | ja |
+| Ablenkung | gering | höher |
+| Geräteausgabe | ja | nein |
+| Kosten bei sehr großen Gruppen | Miete | geringer |
+| Online-Teilnehmer | nur mit Zusatzlösung | ja |
+
+Empfehlung: bei Fachkongressen oft gemischt (Keypads im Saal, BYOPAD™ für Online-Teilnehmer). Ausführlich: [Keypad oder Smartphone](../ratgeber/keypad-oder-smartphone.md).
+
+## Praktische Hinweise
+
+- EdiVote® läuft mit PowerPoint für Windows (ab 2016 bis Office 365, keine Browser-Version, nicht Mac); bei Referenten mit Mac-Rechnern rechtzeitig klären.
+- Geräte können für Kongresse **gemietet** werden.
+- Ein Testlauf vor der Veranstaltung reduziert Risiko; wir bereiten Präsentationen und Abläufe gemeinsam mit dem Veranstalter vor.
+
+## Mehr Informationen
+
+- PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
+- EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) · [TV und Live-Events](tv-events-shows.md)
+
+---
+
+# Abstimmungssystem für Schulungen, Coaching, Workshops und Unternehmenspräsentationen
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
+
+## Kurzantwort
+
+Trainer, Coaches und Berater nutzen **EdiVote® 3.0** als PowerPoint-Add-In zusammen mit **Reply®-Abstimmgeräten** für Live-Umfragen, Wissensüberprüfungen, Quiz, Team- und Gruppenauswertungen. Excel-Berichte entstehen automatisch.
+
+## Typische Einsatzfälle
+
+- **Mitarbeiterschulungen:** Erfolgskontrolle und Meinungsfindung
+- **Coaching und Feedbackrunden:** anonyme Bewertungen und Stimmungsabfragen für ehrliches Feedback
+- **Strategie- und Unternehmensworkshops:** Entscheidungsfindung im Team
+- **Konferenzen und Kundenpräsentationen:** direkte Beteiligung des Publikums
+- **Wissensüberprüfung:** Quiz für Einzelne oder Teams
+
+## Warum Abstimmgeräte statt Smartphones?
+
+- **Weniger Ablenkung:** kein Zugriff auf E-Mail, Messenger oder soziale Medien während der Abstimmung
+- **Unabhängig von Internet und WLAN:** kein Risiko durch instabile Netze oder IT-Sicherheitsbeschränkungen beim Kunden
+- **Sofortige, präzise Ergebnisse** ohne Verzögerungen
+- **Einfache Bedienung** ohne Apps und Menüs
+
+Wenn Smartphones bevorzugt werden (z. B. Online-Seminar), steht [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) zur Verfügung.
+
+## Empfohlene Ausstattung
+
+- Kleine Gruppen: [Interact Mini](../hardware/reply-interact-mini.md) (bis 5 Antworten) oder [Interact](../hardware/reply-interact.md) (bis 10 Antworten)
+- Größere Gruppen: Geräte mieten je Termin
+- Software: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md); Hinweis: PowerPoint für Windows
+
+## Mehr Informationen
+
+- PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
+- EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+---
+
+# Abstimmungssystem für TV-Produktionen, Shows und Live-Events
+
+Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
+
+## Kurzantwort
+
+Für interaktive TV-Produktionen, Quizformate und Bühnenshows liefert Infowhyse Funk-Abstimmgeräte und Software für **Live-Voting mit sofortigem Ergebnis**. Das Reply® Mini+ Gen. 2 erfasst Antworten mit einer Zeitauflösung von 0,05 Sekunden („schnellster Finger“) und kann sehr große Gruppen abfragen. Ergebnisse lassen sich auf Leinwand oder LED-Wall visualisieren.
+
+## Typische Einsatzfälle
+
+- Publikumsabstimmungen in Studio-Shows
+- Quizformate mit Reaktionszeit-Wertung
+- Team-Wettbewerbe und Gamification bei Events
+- Publikumsbefragungen und Meinungsbilder auf Bühnen
+- Firmenevents und Produktpräsentationen
+
+## Anforderungen
+
+- **Zeitkritischer Ablauf:** Start und Ende der Abstimmung synchron zu Regie und Präsentation
+- **Zuverlässige Funkstrecke** in Studios mit vielen Funkquellen (Funkmikrofone, WLAN); Frequenzsprungverfahren (FHSS) und Wi-Fi-Vermeidung im Mini+
+- **Eindeutige Teilnehmerzuordnung** bei Teams
+- **Visualisierung** für Leinwand, Studiomonitor, LED-Wall
+
+## Empfohlene Technik
+
+- Große Gruppen und Reaktionszeit: [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md)
+- Standard-Live-Voting: [Reply® Interact](../hardware/reply-interact.md) mit [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md)
+- Zusätzlich Zuschauer zuhause oder vor Ort mit Smartphone: [BYOPAD™](../loesungen/byopad-browser-abstimmung.md)
+- Geräte mieten je Produktion
+
+## Mehr Informationen
+
+- Produktions- und AV-Unternehmen (Reply Systems, englisch): <https://www.replysystems.com/production-audio-visual-companies/>
+- Reply® Mini+: <https://www.replysystems.com/de/reply-miniplus-standard/>
+- Alle Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+---
+
+# Abstimmungssystem für Vereine, Verbände und Gewerkschaften
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+Für Mitglieder- und Delegiertenversammlungen von Vereinen, Verbänden und Gewerkschaften eignen sich **BoardARS™** (Beschlüsse, Wahlen bis 5 Kandidaten) oder **4elections™** (Gewichtungen, mehrere Wahlgänge, Briefwahl) mit **Reply®-Abstimmgeräten**, per Browser (**BYOPAD™**) oder hybrid. Die Geräte lassen sich mieten, sodass auch kleine Vereine sie für einzelne Versammlungen nutzen können.
+
+## Typische Abstimmungen
+
+- Entlastung des Vorstands
+- Wahl von Vorstand, Delegierten, Kassenprüfern
+- Satzungsänderungen (qualifizierte Mehrheiten)
+- Haushalt und Beitragsordnung
+- Anträge aus der Mitgliederschaft
+
+## Was Verbände und Vereine von einem System erwarten
+
+- **Stimmrechte klar geregelt:** wer darf abstimmen, wer wird ausgeschlossen (z. B. Vorstandsmitglieder bei der Entlastung)
+- **Vollmachten und Delegiertenstimmen**, teils mit Gewichtung nach Mitgliederzahl
+- **Geheime Wahlen** bei Personenwahlen, offene Abstimmung bei Sachbeschlüssen
+- **Schnelle, fehlerfreie Auszählung** statt Handzeichen und Stimmzettel
+- **Dokumentation** für Protokoll und Registergericht
+- **Bedienbar für alle Altersgruppen**, auch ohne Smartphone-Erfahrung
+
+## Empfohlene Technik
+
+| Situation | Empfehlung |
+|---|---|
+| Präsenzversammlung, gemischtes Alter, viele Teilnehmer | Keypads (Interact Mini / Interact / Pro), offline |
+| Verteilte Mitglieder, Online-Teilnahme gewünscht | BYOPAD™ (Browser) |
+| Beides in derselben Versammlung | Hybrid: Keypads vor Ort plus BYOPAD™ |
+| Einmalige Versammlung, kein Kaufbedarf | Geräte mieten |
+
+Vorteile von Keypads: keine Ablenkung durch Smartphones, kein Internet nötig, einfache Bedienung, schnelle und fehlerarme Auszählung. Hinweis: Ob eine elektronische, hybride oder rein virtuelle Versammlung zulässig ist, richtet sich nach Gesetz und Satzung; das gehört in die Vorbereitung.
+
+## Referenzen (Auszug)
+
+Laut Infowhyse gehören unter anderem Sportverbände (z. B. Deutscher Schachbund), Jugendorganisationen (z. B. Bund der katholischen Jugend, Bayerisches Jugendrotkreuz), Hilfsorganisationen (Malteser Hilfsdienst) und regionale Sportverbände zu den Kunden. Aktuelle Liste: <https://www.infowhyse.com/referenzen-national-und-international-miete/>
+
+## Häufige Fragen
+
+**Wie viele Geräte brauchen wir?**
+Eines je stimmberechtigtem Teilnehmer bzw. je Delegiertem; bei Vollmachten kann ein Gerät mehrere Stimmen vertreten. Wir beraten anhand Ihrer Teilnehmerliste.
+
+**Können wir Geräte mieten?**
+Ja. <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+
+**Was passiert bei geheimen Wahlen mit den Daten?**
+Es wird nur das Gesamtergebnis gespeichert, keine individuellen Stimmen.
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Alle Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · [Versammlung vorbereiten](../ratgeber/versammlung-vorbereiten-checkliste.md)
+
+---
+
+# Häufige Fragen zu Abstimmungssystemen, Abstimmgeräten und Clickern
+
+Quelle / Source: https://www.infowhyse.com/abstimmloesungen/
+
+## Grundlagen
+
+**Was ist ein TED-System?**
+Ein TED-System ist die im deutschsprachigen Raum gebräuchliche Bezeichnung für ein elektronisches Abstimmungssystem oder Audience Response System (ARS). Es besteht aus Abstimmgeräten (Keypads) oder Browserzugang, einem Empfänger und Software, die Stimmen erfasst, auswertet und dokumentiert. → [Offline-Abstimmung mit Keypads](loesungen/offline-abstimmung-mit-keypads.md)
+
+**Was ist der Unterschied zwischen Keypad, Clicker und Abstimmgerät?**
+Kein fachlicher: Es sind unterschiedliche Bezeichnungen für dasselbe Gerät. „Clicker“ ist vor allem im Englischen üblich.
+
+**Funktioniert eine elektronische Abstimmung ohne Internet?**
+Ja. Reply®-Keypads übertragen per Funk an einen Empfänger am PC; weder Internet noch WLAN sind nötig. Nur die Browserabstimmung (BYOPAD™) benötigt Internet.
+
+**Braucht man eine App?**
+Nein. Keypads brauchen keine App; BYOPAD™ läuft im Browser.
+
+## Technik und Auswahl
+
+**Keypad oder Smartphone?**
+Keypads bei kritischen Abstimmungen, schwachem Netz, gemischten Teilnehmern und wenn Ablenkung stört; Smartphone bei Online-Teilnehmern und kleineren Gruppen; hybrid bei gemischten Veranstaltungen. → [Keypad oder Smartphone](ratgeber/keypad-oder-smartphone.md)
+
+**Welches Abstimmgerät passt zu uns?**
+Interact Mini (5 Tasten) für Kommunen und einfache Abstimmungen, Interact (10 Tasten) für vielseitige Anwendungen, Interact Pro (Akku, ca. 100 m) für große Versammlungen und Wahlen, Mini+ Gen. 2 für sehr große Systeme und Wettbewerbe. → [Vergleich](hardware/abstimmgeraete-vergleich.md)
+
+**Wie viele Teilnehmer sind möglich?**
+Von wenigen bis zu mehreren tausend. Ein Mini+ System unterstützt laut Datenblatt bis zu 15.500 Geräte pro Raum.
+
+**Kann man Präsenz und Online in einer Abstimmung kombinieren?**
+Ja, mit Keypads für Präsenzteilnehmer und BYOPAD™ für Online-Teilnehmer. → [Hybride Abstimmung](loesungen/hybride-abstimmung.md)
+
+## Abstimmungsregeln
+
+**Können gewichtete Stimmen und Vollmachten abgebildet werden?**
+Ja, mit BoardARS™ und 4elections™. → [Gewichtete Stimmen und Vollmachten](ratgeber/gewichtete-stimmen-und-vollmachten.md)
+
+**Können geheime Abstimmungen durchgeführt werden?**
+Ja. Bei geheimen Abstimmungen wird nur das Gesamtergebnis gespeichert. Die rechtliche Zulässigkeit hängt vom Einsatzfall ab. → [Geheime und namentliche Abstimmung](ratgeber/geheime-und-namentliche-abstimmung.md)
+
+**Wer legt Mehrheiten und Quoren fest?**
+Gesetz, Satzung oder Geschäftsordnung. Das System bildet sie ab. → [Mehrheiten und Quoren](ratgeber/mehrheiten-und-quoren.md)
+
+**Ist eine elektronische Abstimmung rechtssicher?**
+Die Software liefert nachvollziehbare Ergebnisse und Protokolle. Ob das Verfahren zulässig ist, richtet sich nach Gesetz, Satzung und Geschäftsordnung. Infowhyse berät zur technischen Umsetzung, aber nicht rechtlich.
+
+## Kosten und Bezug
+
+**Kann man Abstimmgeräte mieten?**
+Ja. → [Mieten oder kaufen](ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+
+**Fallen laufende Lizenzkosten an?**
+Softwarelizenzen wie CouncilARS™ sind Einmalkäufe und laufen nicht ab. Updates und Support sind im ersten Jahr enthalten, danach ist die Software-Maintenance optional.
+
+**Wie bekomme ich ein Angebot?**
+Über <https://www.infowhyse.com/kontakt-zu-infowhyse/>. Hilfreiche Angaben: Veranstaltungsart, Teilnehmerzahl, Abstimmungsarten, Präsenz/Online/Hybrid, Termin.
+
+## Branchen
+
+[Kommunen: Gemeinderat, Kreistag](branchen/kommunen-gemeinderat-kreistag.md) · [Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Hauptversammlungen und Genossenschaften](branchen/genossenschaften-und-hauptversammlungen.md) · [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [Schulung und Coaching](branchen/schulung-coaching-training.md) · [Bildung](branchen/bildung-schulen-hochschulen.md) · [TV und Events](branchen/tv-events-shows.md)
+
+## Mehr Informationen
+
+- Infowhyse: <https://www.infowhyse.com/abstimmloesungen/>
+- Reply Systems: <https://www.replysystems.com/de/ted-systeme-und-clicker/>
+
+---
+
+# Abstimmgeräte im Vergleich: Reply® Interact Mini, Interact, Interact Pro und Mini+
+
+Quelle / Source: https://www.infowhyse.com/abstimmgerate-von-reply/
+
+## Kurzantwort
+
+Infowhyse liefert aktuell vier Reply®-Abstimmgeräte. Für **kommunale Gremien und einfache Abstimmungen** genügt das *Interact Mini* (5 Tasten). Für **Versammlungen, Schulungen und Quiz** mit mehr Antwortoptionen ist das *Interact* (10 Tasten) passend. Für **große Hauptversammlungen und Wahlen** empfiehlt sich das *Interact Pro* (Akku, ca. 100 m). Das *Mini+ Gen. 2* ist für **sehr große Systeme und Wettbewerbe** gedacht.
+
+## Vergleichstabelle
+
+| | Interact Mini | Interact | Interact Pro | Mini+ Gen. 2 |
+|---|---|---|---|---|
+| Hersteller-Typ | IN1100 | IN2100 | IN4100 | WRS7100 |
+| Tasten | 5 | 10 | 10 | 14 |
+| Display | LCD, 1 Zeichen | 5 Zeichen | Matrix-LCD | LED-Bestätigung |
+| Funk | 2,4 GHz | 2,4 GHz | 2,4 GHz | 2,4 GHz FHSS |
+| Reichweite | ca. 80 m | ca. 75 m | ca. 100 m | Innenraum ca. 90 × 90 m |
+| Strom | Batterie, ca. 250 h | Batterie, ca. 2 Jahre | Akku, ca. 90 h | Knopfzelle, ca. 25.000 Antworten |
+| Geschwindigkeit | 100 Stimmen/s | 100 Stimmen/s | 100 Stimmen/s | 200 Geräte/s |
+| Besonderheiten | farbige Ja/Nein/Enth.-Tasten | Wahlmodus, ID-Anmeldung, freie Zahleneingabe | Kandidatenwahl, Batch-Abstimmung, Nachricht ans Gerät | Speed Scoring 50 ms, bis 15.500 Geräte pro Raum |
+| Garantie | 2 Jahre | 2 Jahre | 2 Jahre | 2 Jahre |
+
+## Entscheidungshilfe
+
+| Ihr Fall | Empfehlung |
+|---|---|
+| Gemeinderat, Stadtrat, Kreistag | Interact Mini (Standard bei CouncilARS™) |
+| Verein, Verband, Genossenschaft bis mittlere Größe | Interact Mini oder Interact |
+| Große Hauptversammlung, Delegiertenversammlung, Wahlen mit Kandidaten | Interact Pro |
+| Schule, Hochschule, Seminar, Quiz | Interact Mini (bis 5 Antworten) oder Interact |
+| Mehr als 10 Antwortoptionen, sehr große Systeme, Reaktionszeit-Wertung | Mini+ Gen. 2 |
+| Teilnehmer sollen eigene Smartphones nutzen | [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
+| Präsenz und Online gemischt | Keypads plus BYOPAD™: [Hybrid](../loesungen/hybride-abstimmung.md) |
+
+## Mehr Informationen
+
+- Abstimmgeräte von Reply: <https://www.infowhyse.com/abstimmgerate-von-reply/>
+- TED-Systeme und Clicker: <https://www.replysystems.com/de/ted-systeme-und-clicker/>
+- Mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Kaufanfrage: <https://www.replysystems.com/de/kaufanfrage/>
+
+Modelle im Detail: [Interact Mini](reply-interact-mini.md) · [Interact](reply-interact.md) · [Interact Pro](reply-interact-pro.md) · [Mini+ Gen. 2](reply-mini-plus-gen2.md)
+
+---
+
+# Reply® Interact Mini – Abstimmgerät mit 5 Tasten
+
+Quelle / Source: https://www.replysystems.com/de/reply-interact-mini-de/
+
+## Kurzantwort
+
+Das Reply® Interact Mini ist ein kreditkartengroßes Funk-Abstimmgerät mit **5 Eingabetasten** und LCD-Display. Es eignet sich für alle Sitzungen und Versammlungen, bei denen höchstens 5 Antwortmöglichkeiten benötigt werden (z. B. Ja / Nein / Enthaltung, A–E, Quiz). Auf dem Display sieht jeder Teilnehmer, ob seine Stimme erfolgreich übertragen wurde und was er eingegeben hat.
+
+## Technische Daten
+
+| Merkmal | Wert |
+|---|---|
+| Tasten | 5 (Eingabewerte 1–5 bzw. A–E), farbig hervorgehobene Tasten für Ja / Nein / Enthaltung |
+| Display | LCD mit einstelliger Anzeige |
+| Übertragung | Funk (RF), 2,4 GHz |
+| Reichweite | ca. 80 m Radius |
+| Laufzeit | ca. 250 Stunden |
+| Geschwindigkeit | 100 Stimmen pro Sekunde |
+| Kanäle | bis zu 80 |
+| Anzeigen | niedriger Batteriestand, Signalstärke |
+| Antworttypen | Einfachauswahl, Mehrfachauswahl, Prioritäts-Ranking, Ja/Nein, Richtig/Falsch |
+| Material / Garantie | ABS-Kunststoff, 2 Jahre Garantie |
+
+Hersteller-Kurzübersicht: Reply® Interact Mini IN1100.
+
+## Wofür wird es eingesetzt?
+
+- **Kommunale Gremien:** Das Interact Mini ist das Standardgerät für CouncilARS™ (Gemeinderat, Stadtrat, Kreistag).
+- **Mitgliederversammlungen:** Mit BoardARS™ oder 4elections™ für Beschlüsse und Wahlen bis zu 5 Kandidaten.
+- **Schulen, Hochschulen, Schulungen:** Quiz, Klassenumfragen und Wissensabfragen mit EdiVote® 3.0.
+- **Unternehmen:** einfache Meinungsbilder und Basisabstimmungen.
+
+Wenn mehr als 5 Antwortoptionen nötig sind, siehe [Reply® Interact](reply-interact.md) mit 10 Tasten.
+
+## Häufige Fragen
+
+**Braucht das Gerät Internet oder WLAN?**
+Nein. Die Übertragung läuft per Funk zu einem Empfänger am PC.
+
+**Kann jeder Teilnehmer sehen, dass seine Stimme angekommen ist?**
+Ja, das Display bestätigt die Eingabe.
+
+**Ist es auch mietbar?**
+Ja, siehe [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md).
+
+## Mehr Informationen
+
+- Reply® Interact Mini bei Reply Systems: <https://www.replysystems.com/de/reply-interact-mini-de/>
+- Abstimmgeräte von Reply bei Infowhyse: <https://www.infowhyse.com/abstimmgerate-von-reply/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Angebot anfragen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.md)
+
+---
+
+# Reply® Interact Pro – wiederaufladbares Abstimmgerät für große Versammlungen
+
+Quelle / Source: https://www.replysystems.com/de/reply-interact-pro-de/
+
+## Kurzantwort
+
+Das Reply® Interact Pro ist ein Abstimmgerät im Kreditkartenformat mit **wiederaufladbarem Akku**, **Matrix-LCD-Display** und rund **100 m Reichweite**. Es ist für große Veranstaltungen ausgelegt, laut Hersteller-Präsentation auch für Meetings mit mehr als 1.000 Teilnehmern, und eignet sich besonders für Aktionärs- und Hauptversammlungen, Gewerkschafts- und Verbandsversammlungen sowie alle Arten von Kandidatenwahlen.
+
+## Technische Daten
+
+| Merkmal | Wert |
+|---|---|
+| Tasten / Eingabewerte | 10 (1–10 bzw. A–J), Tasten für Ja / Nein / Enthaltung hervorgehoben |
+| Display | Matrix-LCD |
+| Stromversorgung | wiederaufladbare Batterie, ca. 90 Stunden dauerhafte Abstimmzeit, Ladezustandsanzeige |
+| Übertragung | Funk (RF), 2,4 GHz |
+| Reichweite | ca. 100 m Radius |
+| Geschwindigkeit | 100 Stimmen pro Sekunde |
+| Kanäle | bis zu 32 |
+| Anzeigen | Batterieladezustand, Signalstärke |
+| Besondere Funktionen | Kandidatenwahl, Anmeldung per OK-Taste oder mit Benutzer-ID, Batch-Abstimmung (Evaluierungsbögen), Nachricht an das Gerät während einer Abstimmung |
+| Material / Garantie | ABS-Kunststoff, 2 Jahre Garantie |
+
+Hersteller-Kurzübersicht: Reply® Interact Pro IN4100.
+
+## Wann ist der Pro die richtige Wahl?
+
+- Hauptversammlungen und Mitgliederversammlungen mit vielen Teilnehmern
+- Wahlen mit Kandidatenlisten und mehreren Wahlgängen
+- Veranstaltungen, bei denen Geräte mehrfach hintereinander eingesetzt werden (Akku statt Einwegbatterie)
+- Weitläufige Säle, in denen die höhere Reichweite zählt
+
+Für einfachere Anwendungen genügen [Reply® Interact](reply-interact.md) oder [Reply® Interact Mini](reply-interact-mini.md).
+
+## Mehr Informationen
+
+- Reply® Interact Pro bei Reply Systems: <https://www.replysystems.com/de/reply-interact-pro-de/>
+- Abstimmgeräte von Reply bei Infowhyse: <https://www.infowhyse.com/abstimmgerate-von-reply/>
+- Mitgliederversammlungen digitalisieren: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Angebot anfragen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.md)
+
+---
+
+# Reply® Interact – Abstimmgerät mit 10 Tasten
+
+Quelle / Source: https://www.replysystems.com/de/reply-interact-de/
+
+## Kurzantwort
+
+Das Reply® Interact ist ein kompaktes, leichtes Funk-Abstimmgerät mit **10 Tasten** und **5-stelligem Display**. Es deckt die meisten Anwendungen ab: Versammlungen, Schulungen, Gruppendiskussionen, Klassenarbeiten, Quiz und Wahlen. Es bietet mehr Funktionen als das Interact Mini, etwa Anmeldung mit eindeutiger ID, freie Zahleneingabe und Wahlmodus.
+
+## Technische Daten
+
+| Merkmal | Wert |
+|---|---|
+| Tasten / Eingabewerte | 10 (1–10 bzw. A–J), Tasten für Ja / Nein / Enthaltung farblich hervorgehoben |
+| Display | 5-stellig |
+| Übertragung | Funk (RF), 2,4 GHz |
+| Reichweite | ca. 75 m Radius |
+| Batterielebensdauer | ca. 2 Jahre |
+| Geschwindigkeit | 100 Stimmen pro Sekunde |
+| Kanäle | bis zu 80 |
+| Anzeigen | niedriger Batteriestand, Signalstärke; 5-Zeichen-Rückmeldung an das Gerät |
+| Antworttypen | Einfach- und Mehrfachauswahl, Prioritäts-Ranking, Ja/Nein, Richtig/Falsch, freie numerische Eingabe |
+| Weitere Funktionen | Wahlmodus, Anmeldung mit eindeutiger ID, eingeschränkte Offline-Abstimmung |
+| Material / Garantie | ABS-Kunststoff, 2 Jahre Garantie |
+
+Hersteller-Kurzübersicht: Reply® Interact IN2100.
+
+## Wann Interact statt Interact Mini oder Pro?
+
+- **Mehr als 5 Antwortoptionen** oder freie Zahleneingabe nötig → Interact statt Interact Mini.
+- **Sehr große Veranstaltungen, Wahlen mit Kandidatenlisten, wiederaufladbarer Akku gewünscht** → [Reply® Interact Pro](reply-interact-pro.md).
+
+## Mehr Informationen
+
+- Reply® Interact bei Reply Systems: <https://www.replysystems.com/de/reply-interact-de/>
+- Abstimmgeräte von Reply bei Infowhyse: <https://www.infowhyse.com/abstimmgerate-von-reply/>
+- Software dazu (EdiVote®, BoardARS™, 4elections™): <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
+- Angebot anfragen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.md)
+
+---
+
+# Reply® Mini+ (Generation 2) – Abstimmgerät für sehr große Systeme und Wettbewerbe
+
+Quelle / Source: https://www.replysystems.com/de/reply-miniplus-standard/
+
+## Kurzantwort
+
+Das Reply® Mini+ (2. Generation, Modell **WRS7100**) ist ein leichtes Funk-Keypad mit **14 Tasten** für sehr große Systeme: Eine Basisstation verwaltet bis zu 500 Geräte pro Kanal, im Standard bis zu 15.500 Geräte pro Raum. Es eignet sich für Großveranstaltungen, Wettbewerbe mit Reaktionszeit-Wertung und Anwendungen, in denen viele Tasten oder mehrstellige Eingaben nötig sind.
+
+## Technische Daten (laut Hersteller-Datenblatt)
+
+| Merkmal | Wert |
+|---|---|
+| Tasten | 14 Tasten für Mehrfachauswahl und mehrstellige Eingaben, zusätzlich „Send“, „Raised Hand“ und „Link“ |
+| Anzeige | grüne und rote LED als Bestätigung der Eingabe |
+| Funk | 2,4 GHz Frequenzsprungverfahren (FHSS), Wi-Fi-Vermeidung, patentiertes Antwort-Verifizierungsprotokoll |
+| Reichweite | für Innenräume von ca. 300 × 300 Fuß (ca. 90 × 90 m) ausgelegt; abhängig von Raum und Störquellen |
+| Kapazität | 500 Geräte pro Kanal-Kennung an einer Basisstation; 31 Kennungen = 15.500 Geräte pro Raum (Standard); Arena-Konfiguration bis zu 18.000 Nutzer je Veranstaltungsort |
+| Geschwindigkeit | 200 Geräte pro Sekunde; mehrere Basisstationen parallel erfassen bis zu 37.500 Geräte in unter 5 Sekunden |
+| Reaktionszeit | „Speed Scoring“ mit 0,05 Sekunden Auflösung (schnellster Finger) |
+| Stromversorgung | eine austauschbare Lithium-Knopfzelle, ca. 25.000 Antworten |
+| Größe / Gewicht | ca. 7,6 × 3,8 × 1 cm, ca. 23 g |
+| Basisstation | WRS970 (USB oder Ethernet) oder WRS971 (USB-Stick) |
+| Zertifizierung | FCC, IC, CE; RoHS- und WEEE-konform |
+| Garantie | 2 Jahre |
+
+## Wann passt das Mini+?
+
+- Sehr große Systeme mit mehreren tausend Geräten
+- Wettbewerbe und Quizformate, bei denen die Antwortgeschwindigkeit gewertet wird
+- Anwendungen mit vielen Antwortmöglichkeiten
+
+Für klassische Versammlungen und Gremien genügen meist [Reply® Interact](reply-interact.md) oder [Interact Pro](reply-interact-pro.md).
+
+## Mehr Informationen
+
+- Reply® Mini+ bei Reply Systems: <https://www.replysystems.com/de/reply-miniplus-standard/>
+- Software für TED-Abstimmungen: <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
+- Angebot anfragen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.md)
+
+---
+
+# BoardARS™ und 4elections™ – Abstimmung und Wahlen für Versammlungen
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+**BoardARS™** und **4elections™** sind Abstimmungs- und Wahlsoftware von Infowhyse für Vorstands-, Mitglieder-, General- und Hauptversammlungen. Beide arbeiten mit Reply®-Abstimmgeräten (offline, ohne Internet), per Browser ([BYOPAD™](byopad-browser-abstimmung.md)) oder hybrid und liefern druckfertige Protokolle. Sie verwalten Anwesenheit, Stimmrechte, Vollmachten, Gewichtungen und Quoren.
+
+## BoardARS™
+
+Für strukturierte Abstimmungen in Vorstandssitzungen und Versammlungen:
+
+- **Offene und geheime Abstimmungen:** Bei geheimen Abstimmungen werden nur Gesamtergebnisse gespeichert, keine individuellen Daten.
+- **Stimmrechtsverwaltung und Stimmübergabe** (Vollmachten); Stimmrechte lassen sich zuweisen und entziehen.
+- **Anwesenheit** live erfassen, bearbeiten und visualisieren.
+- **Kopfstimmen und gewichtete Stimmen** werden parallel angezeigt.
+- **Stimmenauszählung** inklusive Enthaltungen.
+- **Wahlen** für bis zu 5 Kandidaten (mit Reply® Interact Mini).
+- **Wortmeldungen und Anträge** über das Abstimmgerät erfassen; Anträge manuell oder per Import, auch kurzfristig.
+- **Berichte:** pro Beschluss eine Excel-Datei, optional Screenshot des Ergebnisses.
+- **Betriebsarten:** offline (Reply® Interact Mini), online (Browser, BYOPAD™), hybrid.
+
+## 4elections™
+
+Für Hauptversammlungen und Wahlen mit komplexeren Anforderungen:
+
+- **Freie Wahl des Quorums** zur Festlegung der erforderlichen Mehrheit
+- **Unterschiedliche Gewichte pro Abstimmgerät** (z. B. nach Anteilen)
+- **Netzwerkbasiertes Registrierungs-Frontend**, Übersicht, wie viele Anteile oder Teilnehmer anwesend sind
+- **Briefwahl** berücksichtigen
+- **Offene, namentliche oder geheime Abstimmung**
+- **Wahlen:** ein oder mehrere Kandidaten, Quoren automatisch anwenden, mehrere Wahlrunden mit einem Klick
+- **Detaillierte Protokollierung** jedes Abstimmungsvorgangs
+- **Vorschau der Ergebnisse** für Wahlleiter oder Vorstand, transparente Darstellung für die Teilnehmer
+- **Berichte** direkt nach Ende der Wahl, druckfertig im Rich-Text-Format, ohne Datenbank und ohne Wartezeit
+
+Einsatz mit Reply® Interact Mini, Interact oder [Interact Pro](../hardware/reply-interact-pro.md).
+
+## Wann passt was?
+
+| Situation | Empfehlung |
+|---|---|
+| Vorstandssitzung, Vereinsversammlung mit Ja/Nein/Enthaltung, gelegentlich Wahl | BoardARS™ |
+| Hauptversammlung mit Anteilen, gewichteten Stimmen, Briefwahl, mehreren Wahlgängen | 4elections™ |
+| Präsentation mit Live-Umfragen, Quiz | [EdiVote® 3.0](edivote-powerpoint-abstimmung.md) |
+| Kommunales Gremium | [CouncilARS™](councilars-kommunale-abstimmung.md) |
+
+Im Zweifel beraten wir gerne anhand Ihrer Satzung.
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Software für TED-Abstimmungen: <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
+- Beratung und Angebot: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Branche Vereine und Verbände](../branchen/vereine-und-verbaende.md) · [Genossenschaften und Aktiengesellschaften](../branchen/genossenschaften-und-hauptversammlungen.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md)
+
+---
+
+# Reply® BYOPAD™ 3.0 – Abstimmen per Smartphone im Browser
+
+Quelle / Source: https://www.infowhyse.com/hybride-abstimmungen/
+
+## Kurzantwort
+
+**Reply® BYOPAD™ 3.0** („Bring Your Own Pad“) ist die browserbasierte Abstimmungslösung von Infowhyse: Teilnehmer stimmen mit Smartphone, Tablet oder Notebook ab, **ohne App, ohne Download und ohne Installation**. Sie funktioniert bei Präsenz-, Online- und hybriden Veranstaltungen, alleine oder zusammen mit Reply®-Keypads.
+
+## So funktioniert es
+
+1. Der Moderator startet in EdiVote® ein BYOPAD-Session mit einem **Event-Code**.
+2. Teilnehmer rufen die Abstimmungsseite (`byopad.online`) auf und geben den Event-Code ein, alternativ per QR-Code.
+3. Fragen erscheinen auf dem Gerät, die Stimmen werden sofort erfasst und in der Präsentation visualisiert.
+
+Der Betrieb setzt eine Internetverbindung von Moderator und Teilnehmern voraus.
+
+## Session-Typen
+
+- **Anonym** ohne Passwort
+- **Anonym mit Session-Passwort**
+- **Identifizierte Anmeldung** mit individuellem Passwort je Teilnehmer (Passwortliste als CSV)
+
+## Anzeigemodi
+
+- **Virtuelles Tastenfeld** (vollständig, entspricht dem Reply® Interact) oder als Ja/Nein/Enthaltung-Tastenfeld
+- **Live-Modus:** Frage und Antwortoptionen werden auf dem Smartphone angezeigt
+
+## Funktionen (mit EdiVote® Pro 3.0)
+
+Lizenzierung nach Teilnehmerzahl (Keypad-Kapazität); Rankings, Ratings und freie Zahleneingabe; Ja/Nein/Enthaltung-Anträge mit Regeln und gewichteten Abstimmungen; Kandidatenwahlen; demografische Daten und Punktevergabe; Excel-Berichte; moderierte und unmoderierte Textfunktion; mehr als 10 Antwortoptionen. Bei Nutzung mit CouncilARS™ oder BoardARS™ stehen nicht alle diese Funktionen zur Verfügung, da diese Programme eigene Funktionen mitbringen.
+
+## Datenschutz
+
+Keine Nutzerregistrierung nötig, keine Speicherung unnötiger personenbezogener Daten. Die Browserstimmen laufen über einen Server; die Sitzungsdaten werden nach der Sitzung gelöscht, die Ergebnisse und Berichte liegen auf dem PC des Veranstalters.
+
+## Hybrid: Keypads plus Smartphones
+
+BYOPAD™ 3.0 lässt sich mit Reply® Interact Mini, Interact, Interact Pro und Mini+ kombinieren, sodass Präsenzteilnehmer mit Geräten und Online-Teilnehmer per Browser in **einer** Abstimmung stimmen. Siehe [Hybride Abstimmung](hybride-abstimmung.md).
+
+## Wann Keypads, wann BYOPAD?
+
+- BYOPAD: kleine bis mittlere Gruppen, Online-Zuschaltung, keine Geräteausgabe gewünscht, geringere Kosten
+- Keypads: kritische Abstimmungen, schwaches Netz, heterogene Teilnehmer, keine Ablenkung
+
+Ausführlich: [Keypad oder Smartphone](../ratgeber/keypad-oder-smartphone.md).
+
+## Mehr Informationen
+
+- Hybride Abstimmungen bei Infowhyse: <https://www.infowhyse.com/hybride-abstimmungen/>
+- BYOPAD™ bei Reply Systems: <https://www.replysystems.com/de/reply-byopad/>
+- Produktseite: <https://www.byopad.com>
+- Demo und Angebot: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+---
+
+# CouncilARS™ – Abstimmungssystem für Gemeinderat, Stadtrat und Kreistag
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-kreistag/
+
+## Kurzantwort
+
+**CouncilARS™** ist die Abstimmungssoftware von Infowhyse für Gemeinderäte, Stadträte, Kreistage und Ausschüsse. Sie unterstützt **offene, namentliche, nicht namentliche und geheime Abstimmungen**, arbeitet **ohne Internet und ohne Cloud** lokal auf einem Windows-PC und ist in über **80 Kommunen** im Einsatz. Die Stimmabgabe erfolgt per Funk mit Reply®-Abstimmgeräten (Standard: [Reply® Interact Mini](../hardware/reply-interact-mini.md)), online per Browser oder hybrid.
+
+## Das Problem, das CouncilARS löst
+
+In größeren Sitzungssälen ist das Abstimmungsergebnis per Handzeichen schwer festzustellen: Mitglieder verlassen unbemerkt den Saal, heben die Hand nicht sichtbar oder vergessen abzustimmen. Am Ende passt die Zahl der Anwesenden nicht zur Summe der Stimmen. Bei Livestreams kommt hinzu, dass für Zuschauer kaum nachvollziehbar ist, wie einzelne Mitglieder abgestimmt haben. CouncilARS macht das Ergebnis für Ratsmitglieder, Zuhörer und Livestream-Zuschauer transparent sichtbar.
+
+## Funktionen
+
+- **Abstimmungsarten:** offen, namentlich, nicht namentlich, geheim
+- **Betriebsarten:** Präsenz (Funk-Abstimmgeräte), online (Browser, [BYOPAD™](byopad-browser-abstimmung.md)), hybrid
+- **Import der Tagesordnung:** Beschlussvorlagen-Überschriften aus Somacos und SD.NET; Import per Word-Dokument für Allris und More-Rubin (weitere Systeme laut Website: SessionNet)
+- **Wortmeldungen und Anträge** lassen sich über die Abstimmgeräte erfassen
+- **Berichte:** Screenshot, PDF und Textdatei; das Gesamtergebnis wird immer protokolliert. Optional werden Fraktionsverhalten (nicht bei geheimen Abstimmungen) und individuelles Abstimmverhalten (nur bei namentlichen Abstimmungen) festgehalten.
+- **Stimmänderung** während der laufenden Abstimmung möglich, optional mit Bestätigung per SEND-Taste
+- **Visualisierung:** Ergebnisse in Echtzeit auf Beamer oder Bildschirm, auch für den Livestream
+
+## Datenschutz und Technik
+
+- Keine Cloud-Anbindung: Alle Daten liegen nur auf dem PC oder Laptop der Verwaltung.
+- Keine Internetverbindung bei Abstimmgeräten nötig (Internet nur für die Browserabstimmung).
+- Keine PC-Bindung der Lizenz: Installation und Registrierung auf beliebig vielen Rechnern.
+- Jederzeit erweiterbar: zusätzliche Geräte können einzeln nachgekauft werden.
+
+Zum Thema Datenspeicherung und Livestream: [Praxisbeispiel Kommunalaufsicht Brandenburg](../ratgeber/kommunalaufsicht-praxisbeispiel-brandenburg.md).
+
+## Lizenz und Service
+
+- Einmalkauf; die Softwarelizenz läuft nicht ab.
+- Neue Versionen und Support sind inklusive; Details zur Software-Maintenance (Updates, Support) auf Anfrage.
+- Kein Callcenter: Kunden haben einen direkten Ansprechpartner.
+- Handbuch und Versionshinweise sind öffentlich einsehbar.
+
+## Was wird benötigt?
+
+- CouncilARS™-Lizenz
+- Reply® Interact Mini Abstimmgeräte (eines je stimmberechtigtem Mitglied)
+- Empfänger (Basisstation)
+- optional Transportkoffer
+- Windows-PC oder Laptop
+
+## Referenzen
+
+Über 80 Kommunen und Organisationen, darunter Hansestadt Herford, Landeshauptstadt Magdeburg, Landkreis Göppingen, Stadt Hildesheim und Cheshire East Council (UK). Stimme aus der Praxis (Hansestadt Herford): Die erste Sitzung mit digitaler Abstimmung habe überzeugt, sowohl die Handhabung in der Sitzung als auch die Bedienung durch die Ratsmitglieder funktioniere reibungslos. Referenzliste: <https://www.infowhyse.com/unsere-referenzen-aus-projekten-der-letzten-2-jahre/>
+
+## Häufige Fragen
+
+**Können wir CouncilARS auch hybrid nutzen, wenn Ratsmitglieder per Video zugeschaltet sind?**
+Ja. Zugeschaltete Mitglieder stimmen per Browser ab, ihre Stimmen fließen in dasselbe Ergebnis ein. Ob und unter welchen Voraussetzungen hybride Teilnahme zulässig ist, regeln Kommunalverfassung und Geschäftsordnung des jeweiligen Landes.
+
+**Ist eine geheime Wahl mit CouncilARS möglich?**
+Ja, geheime Abstimmungen werden unterstützt; dabei wird nur das Gesamtergebnis gespeichert. Ob für Wahlen zusätzliche Verfahren nötig sind, hängt vom Landesrecht ab (siehe Praxisbeispiel).
+
+**Gibt es die Geräte auch zur Miete?**
+Ja, Reply®-Abstimmgeräte werden auch vermietet, siehe [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md). Für Fragen zum Einsatz in Ihrem Gremium nutzen Sie den Kontakt unten.
+
+## Mehr Informationen
+
+- Abstimmsystem für Kreistage: <https://www.infowhyse.com/abstimmsystem-kreistag/>
+- Digitale Abstimmung in Kommunen: <https://www.infowhyse.com/digitale-abstimmung/>
+- CouncilARS-Handbuch: <https://www.infowhyse.com/councilars-handbuch/>
+- Versionshinweise: <https://www.infowhyse.com/councilars-versionshinweise/>
+- CouncilARS bei Reply Systems: <https://www.replysystems.com/de/councilars-software/>
+- Beratung und Angebot: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Branche Kommunen](../branchen/kommunen-gemeinderat-kreistag.md) · [Namentliche und geheime Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md)
+
+---
+
+# EdiVote® 3.0 – Abstimmung und Quiz direkt in PowerPoint
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
+
+## Kurzantwort
+
+**EdiVote® 3.0** ist ein PowerPoint-Add-In von Infowhyse für interaktive Präsentationen. Fragen werden direkt in die Folien eingebaut; das Publikum antwortet per Reply®-Abstimmgerät oder Smartphone ([BYOPAD™](byopad-browser-abstimmung.md)), und die Ergebnisse erscheinen live in der Präsentation. Unterstützt wird Microsoft PowerPoint für Windows ab Version 2016 bis Office 365 (nicht die reine Browser-Variante und nicht Office für Mac).
+
+## Funktionen
+
+- **Abstimmungsarten:** Teilnehmerantworten, Multiple Choice, Ranking, Bewertungen, freie numerische Eingabe
+- **Quiz** für einzelne Teilnehmer oder Teams, mit Punktevergabe und Team-Rangliste
+- **Teilnehmergruppen** und demografische Auswertung
+- **Erweiterte Microsoft-Excel-Berichte** mit Einblicken und Analysen
+- **Nahtlose Integration:** Fragen sind Folien; die Präsentation läuft wie gewohnt, ein Farbpunkt zeigt, ob die Abstimmung offen (grün) oder geschlossen (blau) ist
+- Kompatibel mit allen Reply® Interact-Geräten sowie [BYOPAD™](byopad-browser-abstimmung.md) 3.0
+- **Demo-Modus** (Authoring) mit bis zu 5 Keypads zum Ausprobieren
+
+## Typische Einsatzfälle
+
+- Vorträge, Kongresse, Fachkonferenzen: Publikumsfragen, Meinungsbilder
+- Medizinische Fortbildung (CME): Wissensabfragen, Lernerfolg sichtbar machen
+- Schulungen, Coaching und Beratung: Feedbackrunden, anonyme Stimmungsabfragen, Strategieworkshops
+- Unterricht in Schule und Hochschule: Quiz, Klassenumfragen, Lernstandserhebung
+- Hauptversammlungen und Entscheidungsunterstützung: Beschlüsse und Kandidatenwahlen
+
+## Warum Keypads statt Smartphones im Vortrag?
+
+- keine Ablenkung durch E-Mails und Messenger
+- unabhängig von Internet und WLAN
+- sofortige Ergebnisse ohne Verbindungsprobleme
+- einfache Bedienung ohne Apps und Menüs
+
+Siehe auch [Keypad oder Smartphone](../ratgeber/keypad-oder-smartphone.md).
+
+## Mehr Informationen
+
+- EdiVote® bei Infowhyse: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
+- EdiVote® Pro bei Reply Systems: <https://www.replysystems.com/de/edivote-pro-software/>
+- Geräte: <https://www.infowhyse.com/abstimmgerate-von-reply/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Branche Kongresse und Pharma](../branchen/kongresse-pharma-cme.md) · [Schulung, Coaching, Training](../branchen/schulung-coaching-training.md) · [Bildung](../branchen/bildung-schulen-hochschulen.md)
+
+---
+
+# Hybride Abstimmung: Präsenz- und Online-Teilnehmer in einem Ergebnis
+
+Quelle / Source: https://www.infowhyse.com/hybride-abstimmungen/
+
+## Kurzantwort
+
+Bei einer hybriden Abstimmung stimmen Teilnehmer vor Ort mit **Reply® Interact**-Geräten ab und Online-Teilnehmer per Browser mit **Reply® BYOPAD™**. Beide Gruppen fließen in **dasselbe Ergebnis** mit denselben Stimmrechten ein. Die Stimmen der Geräte laufen über einen Empfänger an den PC, Browserstimmen über einen Server; nach der Abstimmung erscheinen die Ergebnisse live am Beamer. Nach der Sitzung werden die Sitzungsdaten gelöscht.
+
+## Anforderungen an eine saubere Hybridabstimmung
+
+- **Eine gemeinsame Teilnehmerverwaltung** für Präsenz und Online
+- **Identische Stimmrechte und Regeln** für beide Gruppen
+- **Ein zusammengeführtes Ergebnis**, nicht zwei getrennte Auswertungen
+- **Nachvollziehbare Dokumentation** (Anwesenheit, Ergebnis, ggf. namentlich)
+- **Datenschutz:** BYOPAD™ braucht keine App und keine Registrierung; verschlüsselte Übertragung; keine unnötigen personenbezogenen Daten
+
+## Typische Herausforderungen
+
+| Problem | Gegenmaßnahme |
+|---|---|
+| Unterschiedliche Netzwerkqualität bei Online-Teilnehmern | Testlauf vorab, Zugangshinweise vor der Versammlung versenden |
+| Zwei Gruppen registrieren | Ein Registrierungsprozess; Zugangscode oder Gerät wird dem Stimmrecht zugeordnet |
+| Vollmachten für Online- und Präsenzteilnehmer | Zentral in der Software verwalten, nicht während der Sitzung ändern |
+| Ist hybride Teilnahme zulässig? | Gesetz, Satzung und Geschäftsordnung vorab prüfen |
+
+## Wann passt Hybrid, wann nicht?
+
+- **Passt:** Verbände und Vereine mit verteilten Mitgliedern, Kommunen mit Videozuschaltung, Unternehmen mit mehreren Standorten.
+- **Weniger passend:** Sehr sicherheitskritische Wahlen in unbekannter Netzumgebung. Dafür kann eine reine Präsenzabstimmung mit Funkgeräten robuster sein ([Keypad oder Smartphone](../ratgeber/keypad-oder-smartphone.md)).
+
+## Welche Software?
+
+- Vereine, Verbände, Hauptversammlungen: [BoardARS™ und 4elections™](boardars-und-4elections.md)
+- Kommunale Gremien: [CouncilARS™](councilars-kommunale-abstimmung.md)
+- Präsentationen und Schulungen: [EdiVote® 3.0](edivote-powerpoint-abstimmung.md)
+
+## Mehr Informationen
+
+- Hybride Abstimmungen bei Infowhyse: <https://www.infowhyse.com/hybride-abstimmungen/>
+- BYOPAD™: <https://www.replysystems.com/de/reply-byopad/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [BYOPAD™](byopad-browser-abstimmung.md) · [Praxisbeispiel Kommunalaufsicht](../ratgeber/kommunalaufsicht-praxisbeispiel-brandenburg.md)
+
+---
+
+# Offline-Abstimmung mit Keypads: TED-System ohne Internet
+
+Quelle / Source: https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/
+
+## Kurzantwort
+
+Ein **TED-System** (Tele-Dialog; heute allgemein Synonym für elektronische Abstimmanlage, Audience Response System oder „Clicker“) besteht aus Funk-Abstimmgeräten, einer Basisstation (Empfänger) und Software auf einem PC. Es arbeitet **ohne Internet und ohne WLAN**: Die Stimmen laufen per Funk zur Basisstation, von dort auf den PC, der das Ergebnis sofort anzeigt.
+
+## So funktioniert es
+
+1. **Teilnehmer geben ihre Stimme** am Reply®-Abstimmgerät ab. Eine Taste genügt; die zuletzt gedrückte Taste zählt, mehrfaches Drücken derselben Taste ändert nichts.
+2. **Die Daten werden verschlüsselt per Funk** an die Reply®-Basisstation übertragen. Das Gerät erhält eine Bestätigung, dass die Eingabe angekommen ist.
+3. **Die Basisstation leitet die Antworten an die Software** auf dem PC weiter, die das Ergebnis sofort für Moderator oder Gruppe anzeigt (Beamer, Bildschirm).
+
+Ergebnisse lassen sich darstellen als Gesamtergebnis der Gruppe, Einzelantworten, demografische Auswertung, Punktestand oder Team-Ranking.
+
+## Warum offline?
+
+Bei rechtlich relevanten oder zeitkritischen Abstimmungen zählen Zuverlässigkeit, Datenschutz und Verfügbarkeit:
+
+- unabhängig von WLAN, Mobilfunk und IT-Richtlinien des Veranstaltungsorts
+- keine Ablenkung durch Smartphones (E-Mail, Messenger)
+- keine Daten in der Cloud: Alle Daten liegen nur auf dem PC des Veranstalters
+- einfache Bedienung für alle Altersgruppen, keine App, kein Konto
+
+## Sicherheit
+
+Die Reply® Interact-Geräte nutzen ein proprietäres Funkprotokoll mit eigener Verschlüsselung und Integritätsprüfung. Die kurze Funkreichweite begrenzt die Wirkung auf den Veranstaltungsraum. Kein Funkverfahren ist prinzipiell unangreifbar; das Ziel ist, das Abfangen oder Fälschen von Signalen so schwer wie möglich zu machen. Mehr zum Thema: [Sicherheit und Datenschutz](../ratgeber/sicherheit-und-datenschutz.md).
+
+## Grenzen
+
+- Geräte müssen ausgegeben, zugeordnet und wieder eingesammelt werden.
+- Remote-Teilnehmer sind nur mit Zusatzlösung möglich ([Hybrid](hybride-abstimmung.md)).
+- Größere Teilnehmerzahlen erfordern passende Basisstationen und Kanalplanung (Beratung).
+
+## Wann offline, wann online?
+
+Siehe Entscheidungshilfe: [Keypad oder Smartphone](../ratgeber/keypad-oder-smartphone.md). Geräte im Überblick: [Abstimmgeräte im Vergleich](../hardware/abstimmgeraete-vergleich.md).
+
+## Mehr Informationen
+
+- Funktionsweise der TED-Abstimmung: <https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/>
+- TED-Systeme und Clicker: <https://www.replysystems.com/de/ted-systeme-und-clicker/>
+- Abstimmgeräte von Reply: <https://www.infowhyse.com/abstimmgerate-von-reply/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+---
+
+# Abstimmgeräte mieten oder kaufen? Entscheidungshilfe
+
+Quelle / Source: https://www.replysystems.com/de/abstimmgeraete-mieten/
+
+## Kurzantwort
+
+**Mieten** lohnt sich bei einzelnen oder seltenen Veranstaltungen (z. B. eine Jahreshauptversammlung, ein Kongress, eine TV-Produktion). **Kaufen** lohnt sich, wenn die Geräte regelmäßig gebraucht werden (z. B. Gremiensitzungen, laufende Schulungen). Infowhyse bietet Reply®-Abstimmgeräte zur Miete und zum Kauf an; Preise werden je nach Anzahl und Zeitraum angeboten.
+
+## Kriterien
+
+| Frage | Tendenz Miete | Tendenz Kauf |
+|---|---|---|
+| Wie oft pro Jahr? | 1–3 Mal | regelmäßig, z. B. monatliche Sitzungen |
+| Wie viele Geräte? | sehr viele, aber selten | Grundausstattung, laufend erweiterbar |
+| Wer betreut die Technik? | externe Betreuung gewünscht | eigenes Personal vorhanden |
+| Lagerung und Pflege | soll entfallen | ist kein Problem |
+| Planbarkeit der Kosten | pro Veranstaltung | einmalige Investition |
+
+## Was bei Kauf zu beachten ist
+
+- Software (z. B. CouncilARS™, BoardARS™, EdiVote®) wird als Lizenz gekauft; die Lizenz läuft nicht ab.
+- Updates und Support sind im ersten Jahr enthalten; danach ist die Software-Maintenance optional. Details erfragen.
+- Geräte können jederzeit einzeln nachgekauft werden, wenn das Gremium wächst.
+- Ersatzgeräte und Transportkoffer einplanen.
+
+## Was bei Miete zu beachten ist
+
+- Zeitpunkt und Dauer, Anlieferung und Rückgabe klären.
+- Ein Testlauf vor der Veranstaltung ist sinnvoll, Einweisung der Moderation ebenfalls.
+- Bei Bedarf Betreuung vor Ort (Techniker) buchen.
+
+## Diese Angaben helfen für ein Angebot
+
+- Veranstaltungsart und Datum
+- Anzahl der stimmberechtigten Teilnehmer, Anzahl Vollmachten
+- Art der Abstimmungen (offen, geheim, namentlich, Wahlen, gewichtet)
+- Präsenz, online oder hybrid
+- Raum und Ausstattung (Beamer, Netz)
+- Gewünschte Berichte und Dokumentation
+
+## Mehr Informationen
+
+- Abstimmgeräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Kaufanfrage: <https://www.replysystems.com/de/kaufanfrage/>
+- Referenzen (Miete national und international): <https://www.infowhyse.com/referenzen-national-und-international-miete/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Abstimmgeräte im Vergleich](../hardware/abstimmgeraete-vergleich.md) · [Checkliste: Anbieter auswählen](anbieter-auswaehlen-checkliste.md)
+
+---
+
+# Checkliste: Den richtigen Anbieter für ein Abstimmungssystem auswählen
+
+Quelle / Source: https://www.infowhyse.com/abstimmloesungen/
+
+## Kurzantwort
+
+Ein Abstimmungssystem sollte nicht nach dem Gerät, sondern nach dem **Abstimmungsprozess** ausgewählt werden: Wer darf abstimmen, wie werden Stimmen gewichtet, welche Mehrheiten gelten, wie wird dokumentiert, und was passiert bei Ausfall? Die folgenden Fragen eignen sich auch für Ausschreibungen und Angebotsvergleiche.
+
+## Fragen an das System
+
+**Fachliche Funktionen**
+- [ ] Offene, namentliche und geheime Abstimmungen je Tagesordnungspunkt?
+- [ ] Gewichtete Stimmen, Vollmachten, Ausschluss einzelner Teilnehmer?
+- [ ] Beliebige Mehrheiten und Quoren, je Antrag einstellbar?
+- [ ] Wahlen mit mehreren Kandidaten und Wahlgängen?
+- [ ] Anwesenheit und Beschlussfähigkeit live nachvollziehbar?
+- [ ] Änderung der Stimme während der Abstimmung möglich, mit klarer Regel?
+
+**Technik und Ausfallsicherheit**
+- [ ] Funktioniert es ohne Internet und WLAN?
+- [ ] Was passiert bei Stromausfall, Geräteausfall, Verbindungsabbruch?
+- [ ] Ersatzgeräte und Betreuung am Veranstaltungstag?
+- [ ] Reichweite und Kapazität passend zu Saal und Teilnehmerzahl?
+- [ ] Präsenz, online und hybrid in **einem** Ergebnis?
+
+**Datenschutz und Sicherheit**
+- [ ] Wo liegen die Daten (lokal, Cloud, Server)?
+- [ ] Werden bei geheimen Abstimmungen nur Gesamtergebnisse gespeichert?
+- [ ] Wie lange werden Sitzungsdaten aufbewahrt, und wie werden sie gelöscht?
+- [ ] Verschlüsselung der Funk- bzw. Browserübertragung?
+
+**Dokumentation**
+- [ ] Protokoll je Beschluss, druckfertig (PDF, Excel)?
+- [ ] Namentliche Ergebnisse exportierbar?
+
+**Betreuung und Kosten**
+- [ ] Persönlicher Ansprechpartner statt anonymer Hotline?
+- [ ] Vorbereitung, Testlauf, Schulung inklusive?
+- [ ] Kostenmodell klar: Kauf, Miete, laufende Lizenz, Wartung?
+- [ ] Erweiterbarkeit bei wachsendem Bedarf?
+
+## Wie Infowhyse diese Punkte adressiert
+
+- **Ohne Internet und ohne Cloud** mit Reply®-Funk-Abstimmgeräten; Browserabstimmung ergänzend
+- **Vorbereitung im Projekt:** Satzung, Stimmrechte, Mehrheiten, Testlauf, direkte Ansprechpartner
+- **Einmalkauf** der Software, Updates und Support im ersten Jahr enthalten, Miete möglich
+- **Dokumentation:** PDF, Excel, Text, Screenshot je nach Software
+- Mehr als 20 Jahre Erfahrung, Reply®-Technologie seit 1990, laut Reply Systems über 6 Millionen produzierte Keypads
+
+## Mehr Informationen
+
+- Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Referenzen: <https://www.infowhyse.com/unsere-referenzen-aus-projekten-der-letzten-2-jahre/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Versammlung vorbereiten](versammlung-vorbereiten-checkliste.md) · [Keypad oder Smartphone](keypad-oder-smartphone.md)
+
+---
+
+# Geheime, offene und namentliche Abstimmung elektronisch durchführen
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-kreistag/
+
+## Kurzantwort
+
+Bei **namentlichen** Abstimmungen wird jede Stimme dem Teilnehmer zugeordnet und dokumentiert. Bei **geheimen** Abstimmungen wird nur das Gesamtergebnis gespeichert, das Einzelvotum ist nicht rekonstruierbar. **Offen** heißt, das Abstimmverhalten ist sichtbar (z. B. Ampelanzeige), muss aber nicht ins Protokoll. Elektronische Systeme wie CouncilARS™ und BoardARS™ unterstützen alle Varianten je Tagesordnungspunkt.
+
+## Die Varianten
+
+| Variante | Einzelvotum sichtbar | Einzelvotum protokolliert | Typische Anwendung |
+|---|---|---|---|
+| Offen | ja, während der Abstimmung | optional | Sachbeschlüsse in Gremien |
+| Namentlich | ja | ja | Kommunale Gremien, Beschlüsse mit Dokumentationspflicht |
+| Nicht namentlich | nein | nein, nur Gesamtergebnis (in CouncilARS) | Standardabstimmung ohne Einzelzuordnung |
+| Geheim | nein | nein, nur Gesamtergebnis | Personenwahlen, Vorstandswahlen, sensible Beschlüsse |
+
+## Anforderungen
+
+**Namentlich:** eindeutige Identifikation jedes Teilnehmers, korrekte Stimmrechte und Vollmachten, lückenlose Protokollierung. CouncilARS™ kann zusätzlich das Fraktionsverhalten protokollieren (nicht bei geheimen Abstimmungen).
+
+**Geheim:** anonymisierte Stimmen, nachvollziehbares Gesamtergebnis, Schutz personenbezogener Daten. Bei geheimen Abstimmungen speichern BoardARS™ und CouncilARS™ nur das Gesamtergebnis.
+
+## Wichtig bei Wahlen
+
+Ob und wie eine **geheime Wahl** elektronisch zulässig ist, ist rechtlich geregelt und unterscheidet sich je nach Organisation und Land. Bei Kommunalgremien kann z. B. die auf der Wand sichtbare Ergebnisanzeige mit dem Wahlgeheimnis kollidieren. Ein Praxisbeispiel finden Sie im [Beitrag zur Kommunalaufsicht Brandenburg](kommunalaufsicht-praxisbeispiel-brandenburg.md).
+
+## Best Practice
+
+Schon in der Vorbereitung festlegen, welche Tagesordnungspunkte geheim oder namentlich abgestimmt werden und welche Berichte danach benötigt werden. So vermeiden Sie Fehlkonfigurationen während der Sitzung.
+
+## Mehr Informationen
+
+- Abstimmsystem für Kreistage (namentliche Abstimmung): <https://www.infowhyse.com/abstimmsystem-kreistag/>
+- Vorstandssitzungen und Versammlungen (geheime Abstimmung): <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md) · [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md)
+
+---
+
+# Gewichtete Stimmen und Vollmachten bei elektronischen Abstimmungen
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+**Gewichtete Stimmen** bedeuten, dass nicht jede Stimme den gleichen Wert hat, etwa nach Anteilen, Delegiertenzahlen oder gesetzlichen Vorgaben. **Vollmachten** berechtigen eine Person, das Stimmrecht einer anderen ganz oder teilweise auszuüben. Beides muss vor der Abstimmung eindeutig hinterlegt sein. Abstimmungssysteme wie 4elections™ und BoardARS™ verwalten Gewichte pro Abstimmgerät und weisen Stimmen dem Bevollmächtigten zu.
+
+## Gewichtete Stimmen
+
+**Wo sie vorkommen:** Hauptversammlungen (Anteile), Genossenschaften, Eigentümerversammlungen (Miteigentumsanteile), Verbände mit Delegiertenstimmen.
+
+**Was das System leisten muss:**
+- unterschiedliche Gewichte pro Gerät oder Teilnehmer
+- Anzeige von Kopfstimmen und gewichteten Stimmen nebeneinander (BoardARS™)
+- Änderungen nachvollziehbar dokumentieren
+- Gewichtung vor der Veranstaltung testen
+
+## Vollmachten
+
+**Ob und wie viele Vollmachten zulässig sind, regelt Gesetz oder Satzung.** Das System bildet das Ergebnis dieser Regelung ab.
+
+**Typischer Ablauf:**
+1. Vollmacht erfassen und Gültigkeit prüfen
+2. Dem Bevollmächtigten zuordnen
+3. Bei Gewichten berücksichtigen
+4. Für den Abschlussbericht dokumentieren
+
+**Typische Fehler:** fehlende Satzungsprüfung, doppelte Zuordnung derselben Vollmacht, nicht aktualisierte Teilnehmerdaten, unvollständige Dokumentation.
+
+## Praxisregel
+
+Vollmachten und Gewichte gehören in die Vorbereitung, nicht in die laufende Versammlung. Änderungen mitten in der Sitzung erhöhen das Fehlerrisiko und verzögern den Ablauf.
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Mehrheiten und Quoren](mehrheiten-und-quoren.md) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)
+
+---
+
+# Keypad oder Smartphone? Abstimmgeräte und Browser-Voting im Vergleich
+
+Quelle / Source: https://www.infowhyse.com/abstimmloesungen/
+
+## Kurzantwort
+
+**Keypads** (Funk-Abstimmgeräte, Clicker) sind die bessere Wahl bei rechtlich relevanten Abstimmungen, schwachem Netz, heterogenen Teilnehmern und wenn Ablenkung vermieden werden soll. **Smartphone-Abstimmung** (Browser, BYOD) ist die bessere Wahl bei Online-Teilnehmern, kleineren Gruppen und wenn keine Geräte ausgegeben werden sollen. Bei gemischten Veranstaltungen ist die **Kombination** (hybrid) üblich.
+
+## Vergleich
+
+| Kriterium | Keypad (z. B. Reply® Interact) | Smartphone (z. B. Reply® BYOPAD™) |
+|---|---|---|
+| Internet / WLAN nötig | nein, Funk zum PC | ja, für Moderator und Teilnehmer |
+| Ablenkung | gering | E-Mail, Messenger und Benachrichtigungen möglich |
+| Bedienung | Taste drücken, für alle Altersgruppen | Browser öffnen, Code eingeben |
+| Installation | keine | keine App nötig, Browser genügt |
+| Geräteausgabe | ja, Ausgabe und Rückgabe | nein |
+| Zuordnung zum Stimmrecht | Gerät wird bei Registrierung zugeordnet | Zugangscode/Passwort je Teilnehmer |
+| Online-Teilnehmer | nicht ohne Zusatzlösung | ja |
+| Kosten bei sehr vielen Teilnehmern | Geräte kaufen oder mieten | meist geringer |
+| Datenhaltung | nur auf dem PC des Veranstalters | Browserstimmen laufen über einen Server; Sitzungsdaten werden nach der Sitzung gelöscht |
+
+## Entscheidungshilfe
+
+**Keypads wählen, wenn …**
+- die Abstimmung rechtlich relevant ist (Beschlüsse, Wahlen, Kommunalgremien)
+- das Netz im Saal unzuverlässig oder gesperrt ist (Hotel, Behörde, Werksgelände)
+- die Zielgruppe sehr gemischt ist (auch ältere Mitglieder)
+- Teilnehmer nicht durch Smartphones abgelenkt werden sollen (Vorträge, Schulungen)
+- Daten den Raum nicht verlassen sollen
+
+**Smartphones wählen, wenn …**
+- Teilnehmer online zugeschaltet sind
+- die Gruppe klein oder der Einsatz informell ist
+- keine Geräte ausgegeben werden können oder sollen
+- schnelle Einrichtung wichtiger ist als maximale Ausfallsicherheit
+
+**Hybrid wählen, wenn …**
+- Präsenz- und Online-Teilnehmer in derselben Abstimmung stimmen sollen: [Hybride Abstimmung](../loesungen/hybride-abstimmung.md)
+
+## Häufige Fehler
+
+- Smartphone-Abstimmung ohne Netzwerktest im Saal einplanen
+- Zugangscodes für sensible Sitzungen zu einfach wählen; besser Session-Passwort oder individuelle Passwörter verwenden
+- Keypads ohne Zuordnung zum Teilnehmer ausgeben
+
+## Mehr Informationen
+
+- Abstimmlösungen im Überblick: <https://www.infowhyse.com/abstimmloesungen/>
+- Hybride Abstimmungen: <https://www.infowhyse.com/hybride-abstimmungen/>
+- TED-Systeme und Clicker: <https://www.replysystems.com/de/ted-systeme-und-clicker/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Offline-Abstimmung mit Keypads](../loesungen/offline-abstimmung-mit-keypads.md) · [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) · [Abstimmgeräte im Vergleich](../hardware/abstimmgeraete-vergleich.md)
+
+---
+
+# Praxisbeispiel: Was eine Kommunalaufsicht zu elektronischen Abstimmungsgeräten sagt
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-kreistag/
+
+> **Hinweis:** Dies ist die Zusammenfassung einer einzelnen Stellungnahme zu einem konkreten Sachverhalt in **Brandenburg** (BbgKVerf). Sie ist keine Rechtsberatung und nicht auf andere Bundesländer übertragbar. Kommunalverfassung und Geschäftsordnung Ihres Landes und Ihres Gremiums sind maßgeblich.
+
+## Ausgangslage
+
+Eine Stadtverwaltung wollte ihrer Stadtverordnetenversammlung elektronische Abstimmungsgeräte vorschlagen, weil die Feststellung des Abstimmungsergebnisses im großen Saal zunehmend schwierig wurde: Verordnete verließen unbemerkt den Raum, hoben die Hand nicht sichtbar oder vergaßen abzustimmen. Geplant war:
+
+- personalisierte Geräte mit fünf Tasten (Ja, Nein, Enthaltung und zwei weitere), Verbindung zu einer Software auf einem separaten Laptop
+- Projektion des namentlichen Ergebnisses per Beamer, mit Ampelfarben (grün, rot, gelb), nur bis zum nächsten Tagesordnungspunkt
+- keine Übernahme des namentlichen Ergebnisses in die Niederschrift, nur Zahlen der Ja-, Nein- und Enthaltungsstimmen
+- Speicherung der Ergebnisse bis zur nächsten Sitzung, analog zur Tonaufzeichnung
+- Livestream in zwei Kameraperspektiven, ohne Aufzeichnung
+- Teilnahme einzelner Verordneter per Video mit elektronischer Mitabstimmung
+
+Die Verwaltung stellte der Kommunalaufsicht des Landkreises dazu mehrere Fragen.
+
+## Antworten der Kommunalaufsicht (Zusammenfassung)
+
+1. **Grundsätzlich zulässig:** Der Einsatz elektronischer Abstimmungsgeräte könne zugestimmt werden, wenn die genannten Rahmenbedingungen eingehalten werden.
+2. **Offene Abstimmung:** Die Anzeige des Ergebnisses sei aus Sicht der Aufsicht zwingend erforderlich, um dem Grundsatz der offenen Abstimmung zu entsprechen.
+3. **Geheime Wahlen:** Für geheime Wahlen würde diese Visualisierung gegen die Geheimheit der Wahl verstoßen. Bei geheimen Wahlen sei daher das übliche Verfahren mit Stimmzetteln anzuwenden, oder es sei eine Briefwahl im Nachgang durchzuführen.
+4. **Speicherung:** Nach dem Wortlaut der Kommunalverfassung seien nur Tonaufzeichnungen zur Erleichterung der Niederschrift gestattet. Eine Speicherung der Abstimmungsergebnisse sei nicht zulässig und nicht erforderlich, wenn die Vorsitzende das Ergebnis verkündet und dies auf der Tonaufzeichnung festgehalten wird.
+5. **Livestream:** Ein ungespeicherter Livestream sei zulässig, wenn die Geschäftsordnung dies regelt oder alle anwesenden Mitglieder zustimmen. Die kurzfristige Übertragung des Abstimmungsergebnisses sei zulässig; im Interesse der Transparenz (und für gehörlose Nutzer) werde empfohlen, das Ergebnis auch im Livestream zu zeigen. Für Beschäftigte der Verwaltung, die mit erfasst werden, seien schriftliche Einwilligungen ratsam, ebenso für Einwohner, deren Wortbeitrag übertragen wird.
+6. **Hybride Teilnahme:** Der Grundsatz der Präsenzsitzung bleibe bestehen; die Teilnahme per Video sei auf begründeten Antrag möglich. Eine Höchstzahl per Quorum könne nicht festgesetzt werden; Näheres kann die Geschäftsordnung regeln.
+
+## Was Gremien daraus mitnehmen können
+
+- **Rechtsgrundlage vorab klären:** Kommunalverfassung und Geschäftsordnung des Landes und des Gremiums prüfen, bevor ein System eingeführt wird.
+- **Datenspeicherung:** Vorab festlegen, welche Daten die Software speichert und wie lange; die Einstellung der Software an die Rechtslage anpassen.
+- **Geheime Wahlen** getrennt von offenen Abstimmungen planen.
+- **Livestream und Datenschutz** mit Einwilligungen absichern.
+- **Hybride Teilnahme** über die Geschäftsordnung regeln.
+
+## Mehr Informationen
+
+- CouncilARS™ für kommunale Gremien: <https://www.infowhyse.com/abstimmsystem-kreistag/>
+- Digitale Abstimmung in Kommunen: <https://www.infowhyse.com/digitale-abstimmung/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md) · [Branche Kommunen](../branchen/kommunen-gemeinderat-kreistag.md) · [Geheime und namentliche Abstimmung](geheime-und-namentliche-abstimmung.md)
+
+---
+
+# Mehrheiten, Quoren und Beschlussfähigkeit bei elektronischen Abstimmungen
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+Welche **Mehrheit** für einen Antrag nötig ist und ab wann eine Versammlung **beschlussfähig** ist, ergibt sich aus Gesetz, Satzung oder Geschäftsordnung, nicht aus der Software. Ein gutes Abstimmungssystem lässt Mehrheiten und Quoren **je Tagesordnungspunkt** einstellen und zeigt die Beschlussfähigkeit laufend an.
+
+## Begriffe
+
+| Begriff | Bedeutung |
+|---|---|
+| Beschlussfähigkeit | Zustand, in dem eine Versammlung wirksam Beschlüsse fassen darf; hängt z. B. von Anwesenden, Stimmrechten, Vollmachten und Ausschlüssen ab |
+| Quorum | Mindestvoraussetzung für einen wirksamen Beschluss, bezogen auf Anwesenheit oder Zahl der abgegebenen Stimmen |
+| Einfache Mehrheit | mehr Ja- als Nein-Stimmen; Enthaltungen zählen je nach Regelung nicht mit |
+| Absolute Mehrheit | mehr als die Hälfte aller Stimmberechtigten oder Anwesenden |
+| Qualifizierte Mehrheit / Zweidrittelmehrheit | erhöhte Mehrheit, z. B. für Satzungsänderungen |
+| Einstimmigkeit | alle abgegebenen Stimmen sind Ja |
+
+Ob Enthaltungen mitgezählt werden, ist einer der häufigsten Streitpunkte und muss vorab festgelegt sein.
+
+## Worauf Sie achten sollten
+
+- Für **jeden Antrag** kann eine andere Mehrheit gelten; nicht pauschal „einfache Mehrheit“ einstellen.
+- Beschlussfähigkeit **vor jeder relevanten Abstimmung** prüfen, besonders wenn Teilnehmer kommen oder gehen.
+- Mehrheiten und Quoren **in der Vorbereitung** hinterlegen; Änderungen in der laufenden Versammlung erhöhen das Fehlerrisiko.
+- Gewichtungen und Vollmachten fließen in die Mehrheitsberechnung ein ([Gewichtete Stimmen](gewichtete-stimmen-und-vollmachten.md)).
+
+## Typische Fehler
+
+- Satzung falsch interpretiert
+- Einheitliche Mehrheit für alle Anträge
+- Änderungen erst während der Versammlung
+- Enthaltungen nicht geklärt
+
+Das ist keine Rechtsberatung. Bei Unsicherheit klären Sie die Auslegung vorab mit Ihrer Rechtsberatung. Wir richten die Abstimmung anschließend entsprechend Ihren Vorgaben ein.
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [4elections™ (frei wählbares Quorum)](../loesungen/boardars-und-4elections.md) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)
+
+---
+
+# Sicherheit und Datenschutz bei elektronischen Abstimmungen
+
+Quelle / Source: https://www.infowhyse.com/hybride-abstimmungen/
+
+## Kurzantwort
+
+Bei Infowhyse laufen Präsenzabstimmungen per **verschlüsseltem Funk ohne Internet**, die Daten liegen **lokal auf dem PC des Veranstalters**, es gibt **keine Cloud-Anbindung** (CouncilARS™). Bei Browserabstimmung (BYOPAD™) laufen die Stimmen über einen Server und werden nach der Sitzung gelöscht. Bei geheimen Abstimmungen wird nur das Gesamtergebnis gespeichert. Absolute Sicherheit gibt es bei keinem Verfahren; entscheidend sind ein passendes Konzept und saubere Organisation.
+
+## Funk-Abstimmgeräte (Reply® Interact)
+
+- **Proprietäres Funkprotokoll** mit eigener Verschlüsselung und Integritätsprüfung; nur mit den passenden Parametern (Modulation, Adresse, Format) lassen sich Signale lesen oder erzeugen.
+- **Kurze Reichweite:** das Signal wirkt im Wesentlichen nur im Veranstaltungsraum.
+- **Bestätigung an das Gerät:** Teilnehmer sehen, dass ihre Stimme angekommen ist.
+- **Ehrliche Einordnung:** Jede Verschlüsselung kann grundsätzlich mit genügend Aufwand gebrochen werden; das Ziel ist, Abfangen und Fälschen so schwer wie möglich zu machen.
+- **Reply® Mini+ Gen. 2:** Frequenzsprungverfahren (FHSS), Wi-Fi-Vermeidung, patentiertes Antwort-Verifizierungsprotokoll.
+
+## Browserabstimmung (BYOPAD™)
+
+- Keine App, keine Nutzerregistrierung
+- Verschlüsselte Übertragung; Stimmen laufen über einen Server; Sitzungsdaten werden nach der Sitzung gelöscht
+- **Event-Codes nicht erratbar wählen** und bei sensiblen Sitzungen ein Session-Passwort oder individuelle Passwörter je Teilnehmer nutzen
+- Session-Typen: anonym, anonym mit Passwort, identifiziert mit individuellem Passwort
+
+## Datenhaltung
+
+| Frage | Antwort |
+|---|---|
+| Wo liegen die Daten bei Keypad-Abstimmungen? | nur auf dem PC des Veranstalters |
+| Cloud? | nein (CouncilARS™) |
+| Internet nötig? | nein bei Keypads; ja bei Browserabstimmung |
+| Geheime Abstimmung | nur Gesamtergebnis wird gespeichert |
+| Namentliche Abstimmung | Einzelvoten werden protokolliert |
+| Aufbewahrung und Löschung | vom Veranstalter nach Datenschutzvorgaben zu regeln |
+
+## Empfehlungen für Veranstalter
+
+- Vor der Sitzung festlegen, welche Daten gespeichert und wie lange sie aufbewahrt werden.
+- Personenbezogene Daten (Namen, Stimmrechte) nur in dem Umfang erfassen, der nötig ist.
+- Bei Livestreams die Einwilligungen der Betroffenen klären.
+- Geräte und Zugangsdaten nicht öffentlich sichtbar machen.
+
+Rechtliche Bewertung (DSGVO, Kommunalrecht, Vereinsrecht) ist Sache des Veranstalters und seiner Rechtsberatung.
+
+## Mehr Informationen
+
+- Hybride Abstimmungen und Datenschutz: <https://www.infowhyse.com/hybride-abstimmungen/>
+- Funktionsweise: <https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/>
+- Datenschutzerklärung: <https://www.infowhyse.com/datenschutzerklaerung/>
+
+Verwandt: [Offline-Abstimmung](../loesungen/offline-abstimmung-mit-keypads.md) · [Geheime und namentliche Abstimmung](geheime-und-namentliche-abstimmung.md)
+
+---
+
+# Elektronische Abstimmung vorbereiten: Checkliste für Versammlungsleitung und Verwaltung
+
+Quelle / Source: https://www.infowhyse.com/abstimmloesungen/
+
+## Kurzantwort
+
+Eine elektronische Abstimmung entscheidet sich nicht am Veranstaltungstag, sondern in der Vorbereitung. Die größten Fehlerquellen sind selten technisch, sondern unklare Abläufe, falsch ausgelegte Satzungen und fehlende Organisation. Klären Sie **Stimmrechte, Vollmachten, Mehrheiten, Registrierung und Dokumentation** vor der Versammlung und führen Sie einen **Testlauf** durch.
+
+## Checkliste
+
+### 1. Regeln klären (Wochen vorher)
+- [ ] Wer ist stimmberechtigt? Gibt es unterschiedliche Stimmgewichte?
+- [ ] Sind Vollmachten oder Stimmrechtsübertragungen zulässig, in welchem Umfang?
+- [ ] Welche Mehrheiten gelten für welchen Tagesordnungspunkt (einfach, absolut, qualifiziert)?
+- [ ] Wie ist die Beschlussfähigkeit definiert?
+- [ ] Müssen einzelne Personen bei bestimmten Punkten von der Abstimmung ausgeschlossen werden?
+- [ ] Welche Abstimmungen erfolgen geheim, welche namentlich?
+- [ ] Ist Hybrid oder Online zulässig (Gesetz, Satzung, Geschäftsordnung)?
+
+### 2. Inhalte vorbereiten
+- [ ] Tagesordnung und Anträge anlegen oder importieren
+- [ ] Fragestellungen eindeutig formulieren (Ja/Nein/Enthaltung, Auswahl)
+- [ ] Kandidatenlisten und Wahlmodus (Wahlgänge, Stichwahl) festlegen
+
+### 3. Teilnehmer und Registrierung
+- [ ] Teilnehmerverzeichnis mit Stimmrechten und Gewichten
+- [ ] Vollmachten vor der Versammlung erfassen und prüfen
+- [ ] Geräteausgabe oder Zugangscodes organisieren
+- [ ] Kurze Einweisung der Teilnehmer planen
+
+### 4. Technik
+- [ ] Raum, Beamer, Empfängerposition und Reichweite prüfen
+- [ ] Ersatzgeräte und Ersatzbatterien einplanen
+- [ ] Bei Hybrid: Netzwerk und Zugangsdaten testen
+- [ ] Testlauf mit Moderation und Protokollführung
+
+### 5. Am Veranstaltungstag
+- [ ] Geräte vor Beginn testen
+- [ ] Beschlussfähigkeit vor jeder relevanten Abstimmung prüfen, besonders wenn Teilnehmer kommen oder gehen
+- [ ] Änderungen bei Vollmachten oder Stimmrechten möglichst nicht mitten in der Versammlung
+
+### 6. Nach der Veranstaltung
+- [ ] Bericht speichern (PDF, Excel, Text)
+- [ ] Ergebnis in das Protokoll übernehmen
+- [ ] Sitzungsdaten gemäß Datenschutz löschen oder archivieren
+
+## Typische Fehler
+
+- Satzung nicht vorab geprüft, Mehrheiten falsch angelegt
+- Einheitliche Mehrheit für alle Anträge verwendet
+- Vollmachten erst in der Versammlung bearbeitet
+- Geräte ohne Zuordnung ausgegeben
+- Funkempfänger ungünstig platziert
+- Teilnehmer nicht über den Ablauf informiert
+- Änderungen nicht dokumentiert
+
+## Mehr Informationen
+
+- Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Versammlungen digital begleiten: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Gewichtete Stimmen und Vollmachten](gewichtete-stimmen-und-vollmachten.md) · [Mehrheiten und Quoren](mehrheiten-und-quoren.md)
+
+---
+
+# Über Infowhyse GmbH und Reply Systems: Anbieter von Abstimmungslösungen
+
+Quelle / Source: https://www.infowhyse.com/
+
+## Kurzantwort
+
+Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter Anbieter von Lösungen für **elektronische Abstimmungen**, Audience Response Systeme (ARS, TED), Live-Voting und interaktive Veranstaltungen. Infowhyse liefert nicht nur Abstimmgeräte, sondern komplette Abstimmungslösungen aus Hardware, Software, Projektplanung und Veranstaltungsbetreuung. **Reply Systems** (replysystems.com) ist die zu Infowhyse gehörende Marke für Keypads und Software, mit englischsprachigem Auftritt für den internationalen Markt.
+
+## Auf einen Blick
+
+| | |
+|---|---|
+| Unternehmen | Infowhyse GmbH, Pfingstweide 24, 61169 Friedberg (Hessen), Deutschland |
+| Register | Amtsgericht Friedberg, HRB 6030 |
+| Erfahrung | seit mehr als 20 Jahren; Reply®-Technologie seit 1990 |
+| Marken | Reply®, EdiVote® (eingetragene Marken der Infowhyse GmbH); BoardARS™, CouncilARS™, 4elections™, BYOPAD™, OwnARS™ |
+| Kontakt | +49 6031 1881280 · info@infowhyse.com · <https://www.infowhyse.com/kontakt-zu-infowhyse/> |
+| Websites | <https://www.infowhyse.com> (Deutsch) · <https://www.replysystems.com> (Deutsch/Englisch) |
+
+## Was Infowhyse anbietet
+
+**Hardware**
+- [Reply® Interact Mini](hardware/reply-interact-mini.md), [Interact](hardware/reply-interact.md), [Interact Pro](hardware/reply-interact-pro.md) und [Mini+ Gen. 2](hardware/reply-mini-plus-gen2.md): [Vergleich](hardware/abstimmgeraete-vergleich.md)
+- Kauf und [Miete](ratgeber/abstimmgeraete-mieten-oder-kaufen.md)
+
+**Software**
+- [CouncilARS™](loesungen/councilars-kommunale-abstimmung.md) für Kommunen
+- [BoardARS™ und 4elections™](loesungen/boardars-und-4elections.md) für Versammlungen und Wahlen
+- [EdiVote® 3.0](loesungen/edivote-powerpoint-abstimmung.md) für PowerPoint
+- [BYOPAD™ 3.0](loesungen/byopad-browser-abstimmung.md) für Smartphone- und Browserabstimmung
+- OwnARS™ für [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md)
+
+**Beratung und Betreuung**
+- Analyse der Veranstaltung und Klärung von Stimmrechten, Mehrheiten, Vollmachten, Satzung
+- Vorbereitung von Präsentationen und Abstimmungen, Testläufe, Einweisung
+- Betreuung am Veranstaltungstag, persönliche Ansprechpartner statt Hotline
+- Dokumentation: Berichte, Protokolle, Exporte
+
+## Für wen?
+
+[Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Genossenschaften und Hauptversammlungen](branchen/genossenschaften-und-hauptversammlungen.md) · [Kommunen](branchen/kommunen-gemeinderat-kreistag.md) · [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [Schulung und Coaching](branchen/schulung-coaching-training.md) · [Bildung](branchen/bildung-schulen-hochschulen.md) · [TV und Events](branchen/tv-events-shows.md)
+
+## Philosophie
+
+Wir verkaufen keine Abstimmungsgeräte, wir entwickeln und begleiten Abstimmungslösungen. Eine professionelle Abstimmung beginnt lange vor der ersten Stimmabgabe: mit der Klärung, wer stimmberechtigt ist, welche Mehrheiten gelten und welche Dokumentation benötigt wird. Ziel ist, dass sich Veranstalter auf ihre Veranstaltung konzentrieren können, während der Abstimmungsprozess zuverlässig, nachvollziehbar und technisch einwandfrei funktioniert.
+
+## Mehr Informationen
+
+- Infowhyse: <https://www.infowhyse.com/>
+- Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Referenzen: <https://www.infowhyse.com/unsere-referenzen-aus-projekten-der-letzten-2-jahre/>
+- Reply Systems: <https://www.replysystems.com/de/ueber-uns/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+---
+
+# About Reply Systems and Infowhyse: audience response systems and voting keypads
+
+Quelle / Source: https://www.replysystems.com/about-us/
+
+## Short answer
+
+**Reply Systems** is the English-language brand of **Infowhyse GmbH** (Friedberg, Hesse, Germany) for wireless **voting keypads (clickers)** and **audience response and voting software**. The solutions are used for annual general meetings (AGMs), board and member meetings, council voting, conferences, training, classrooms and interactive TV and stage events. Reply® technology has been used by customers since 1990; Reply Systems states that more than 6 million keypads have been produced with Reply® technology.
+
+## Key facts
+
+| | |
+|---|---|
+| Company | Infowhyse GmbH, Pfingstweide 24, 61169 Friedberg (Hesse), Germany |
+| Trademarks | Reply® and EdiVote® are registered trademarks of Infowhyse GmbH |
+| Websites | <https://www.replysystems.com> (English/German) · <https://www.infowhyse.com> (German) |
+| Contact | +49 6031 1881280 · info@infowhyse.com |
+| Scale | systems from 5 to several thousand keypads |
+
+## What is offered
+
+**Keypads:** [Reply® Interact Mini, Interact, Interact Pro and Mini+ Gen. 2](products/reply-keypads-overview.md)
+
+**Software**
+- [BoardARS™ and 4elections™](solutions/board-meetings-and-agms.md) for board meetings, member meetings, AGMs and elections
+- [CouncilARS™](solutions/council-voting.md) for councils and committees
+- [EdiVote® 3.0](solutions/education-and-training.md) for PowerPoint-based audience response, quizzes, training and education
+- [Reply® BYOPAD™ 3.0](solutions/hybrid-voting-byopad.md) for browser and smartphone voting
+- OwnARS™ for home-owner and property management associations
+
+**Service:** purchase and rental, preparation and testing, onsite support, personal contacts instead of a call centre.
+
+## Approach
+
+Infowhyse sees itself as a solution provider for complete voting processes, not just a supplier of devices. A professional vote starts long before the first button is pressed: who may vote, how votes are weighted, which majorities apply, how results are documented.
+
+## More information
+
+- Reply Systems: <https://www.replysystems.com/about-us/>
+- The Reply advantage: <https://www.replysystems.com/reply-technology-advantages/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+Related: [Guide: audience response systems](guides/audience-response-systems-guide.md) · [FAQ](faq.md)
+
+---
+
+# FAQ: voting keypads, clickers and audience response systems
+
+Quelle / Source: https://www.replysystems.com/
+
+**What is an audience response system?**
+A system that collects votes or answers from a group in real time using keypads or smartphones, a receiver and software. → [Guide](guides/audience-response-systems-guide.md)
+
+**What is the difference between a keypad and a clicker?**
+None: both terms describe the same voting device.
+
+**Do keypads need internet or Wi-Fi?**
+No. They transmit by radio to a receiver on the PC. Only browser voting (BYOPAD™) needs internet.
+
+**Keypads or smartphones?**
+Keypads for critical votes, weak networks and focus; smartphones for remote participants; hybrid for both. → [Comparison](guides/keypads-vs-smartphones.md)
+
+**Which keypad should I choose?**
+Interact Mini (5 buttons) for councils and classrooms, Interact (10) for versatile use, Interact Pro (rechargeable, about 100 m) for large AGMs and elections, Mini+ Gen. 2 for very large systems and competitions. → [Overview](products/reply-keypads-overview.md)
+
+**Can votes be weighted and proxies handled?**
+Yes, with BoardARS™ and 4elections™. → [Board meetings and AGMs](solutions/board-meetings-and-agms.md)
+
+**Are secret ballots possible?**
+Yes; only totals are stored for secret votes. Whether a procedure is legally valid depends on your statutes and applicable law.
+
+**Can I combine on-site and remote voting?**
+Yes, with keypads plus BYOPAD™. → [Hybrid voting](solutions/hybrid-voting-byopad.md)
+
+**Can I rent keypads?**
+Yes: <https://www.replysystems.com/rent-keypads/>. Purchase: <https://www.replysystems.com/buy-a-voting-system/>.
+
+**Are there recurring licence fees?**
+Software licences are one-off purchases and do not expire. Updates and support are included in the first year; renewal of the maintenance programme is optional.
+
+**Is it legally compliant?**
+The software produces traceable results and reports. Whether a voting method is permitted is governed by law, statutes and rules of procedure. This is not legal advice.
+
+**Where can I get a quote?**
+<https://www.replysystems.com/contact-us/>. Helpful details: event type, number of voters, voting types, on-site/online/hybrid, date.
+
+## More information
+
+- Reply Systems: <https://www.replysystems.com/>
+- Keypads and clickers: <https://www.replysystems.com/reply-keypads-and-clickers/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+---
+
+# Glossary: audience response, keypads, clickers and electronic voting terms
+
+Quelle / Source: https://www.replysystems.com/how-it-works/
+
+**Audience response system (ARS):** system that collects and displays answers or votes from a group in real time. → [Guide](guides/audience-response-systems-guide.md)
+
+**BYOD / BYOPAD™:** participants use their own smartphone, tablet or laptop to vote. BYOPAD™ is Reply's browser-based tool. → [BYOPAD](solutions/hybrid-voting-byopad.md)
+
+**Clicker:** informal term for a voting keypad.
+
+**Hybrid voting:** on-site and remote participants vote in the same vote with one result.
+
+**Keypad (voting device):** handheld wireless device for casting votes; linked to one participant; no app needed. → [Keypads](products/reply-keypads-overview.md)
+
+**Named vote:** each vote is assigned to a participant and recorded.
+
+**Proxy:** authorisation for a person to exercise another person's voting right, in whole or in part.
+
+**Quorum:** minimum requirement (attendance or votes cast) for a valid resolution.
+
+**Secret ballot:** individual votes cannot be traced; only the overall result is recorded.
+
+**TED system:** German term for an electronic voting system or ARS.
+
+**Weighted vote:** a vote that counts differently, for example by shares or number of delegates.
+
+## More information
+
+- How it works: <https://www.replysystems.com/how-it-works/>
+- Keypads and clickers: <https://www.replysystems.com/reply-keypads-and-clickers/>
+
+---
+
+# What is an audience response system (ARS)? Voting keypads and clickers explained
+
+Quelle / Source: https://www.replysystems.com/how-it-works/
+
+## Short answer
+
+An **audience response system (ARS)** captures, transmits, evaluates and displays answers or votes from a group in real time. Typical systems use **wireless keypads ("clickers")**, a receiver (base station) and software on a PC. In German-speaking countries the same technology is called a TED system or electronic voting system. Modern systems can also accept votes from smartphones via a browser.
+
+## Components
+
+1. **Input devices:** keypads (clickers) or browser access on smartphones, tablets and laptops
+2. **Receiver / base station** connected to the PC by USB or Ethernet
+3. **Software** to manage participants, voting rights, weights, questions and reports (for example EdiVote®, BoardARS™, CouncilARS™)
+4. **Result display** on a projector, screen or LED wall
+5. **Reports** in formats such as Excel, PDF or text
+
+## How it works
+
+1. Participants answer using their keypad.
+2. The response is sent by radio (encrypted) to the base station and the keypad receives a confirmation.
+3. The base station passes the data to the software, which shows the result immediately.
+
+No internet connection is needed for keypad voting.
+
+## Typical uses
+
+- **Formal votes:** AGMs, board and member meetings, council sessions, elections
+- **Live polling and feedback:** conferences, events, meetings
+- **Training and education:** quizzes, knowledge checks, classroom voting
+- **Entertainment:** TV shows, game formats, stage events
+
+## Keypads or smartphones?
+
+Keypads are preferred for critical votes, weak networks, mixed audiences and to avoid distraction. Smartphones suit remote participants and smaller groups. Hybrid combines both. See [Keypads vs smartphones](keypads-vs-smartphones.md).
+
+## Choosing a system
+
+- Formal voting? You need voting rights, proxies, weighted votes, majorities and reports: [BoardARS™ and 4elections™](../solutions/board-meetings-and-agms.md), [CouncilARS™](../solutions/council-voting.md).
+- Presentations and training? [EdiVote® 3.0](../solutions/education-and-training.md).
+- Remote participants? [BYOPAD™](../solutions/hybrid-voting-byopad.md).
+- Which keypad? [Keypad overview](../products/reply-keypads-overview.md).
+
+## More information
+
+- How it works: <https://www.replysystems.com/how-it-works/>
+- Benefits: <https://www.replysystems.com/benefits/>
+- Applications: <https://www.replysystems.com/application/>
+- Keypads and clickers: <https://www.replysystems.com/reply-keypads-and-clickers/>
+- Audience response software: <https://www.replysystems.com/audience-response-software/>
+- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Buy a voting system: <https://www.replysystems.com/buy-a-voting-system/>
+
+---
+
+# Voting keypads vs smartphones: which is better for your event?
+
+Quelle / Source: https://www.replysystems.com/reply-technology-advantages/
+
+## Short answer
+
+Use **keypads** for formal or critical votes, weak or restricted networks, mixed-age audiences, and when distraction must be avoided. Use **smartphones** (Reply® BYOPAD™) for remote participants and smaller or informal events. Use **both** (hybrid) when on-site and remote participants vote together.
+
+## Comparison
+
+| Criterion | Keypads (Reply® Interact) | Smartphones (Reply® BYOPAD™) |
+|---|---|---|
+| Internet / Wi-Fi | not needed, radio to PC | required for presenter and audience |
+| Distraction | low | email, messaging and notifications |
+| Ease of use | press a button, all ages | open browser, enter event code |
+| App install | none | none, runs in the browser |
+| Device handout | yes | no |
+| Remote participants | not without add-on | yes |
+| Data | stays on the organiser's PC | votes pass through a server; session data deleted after the session |
+| Cost for very large groups | buy or rent devices | typically lower |
+
+## Recommendations
+
+**Choose keypads when** votes are legally relevant (resolutions, elections, council votes), the network is unreliable or locked down, participants are mixed in age and tech skills, or focus matters (presentations, training).
+
+**Choose smartphones when** people join online, groups are small, or handing out devices is impractical.
+
+**Choose hybrid when** presence and remote participants must vote in one result: see [Hybrid voting with BYOPAD](../solutions/hybrid-voting-byopad.md).
+
+## Common mistakes
+
+- Planning smartphone voting without testing the venue network
+- Using easy-to-guess event codes for sensitive sessions (use a session password or individual passwords)
+- Handing out keypads without linking them to participants
+
+## More information
+
+- Reply technology advantages: <https://www.replysystems.com/reply-technology-advantages/>
+- BYOPAD™: <https://www.replysystems.com/byopad/>
+- Keypads: <https://www.replysystems.com/reply-keypads-and-clickers/>
+
+Related: [Audience response systems explained](audience-response-systems-guide.md) · [Keypad overview](../products/reply-keypads-overview.md)
+
+---
+
+# Reply® voting keypads compared: Interact Mini, Interact, Interact Pro and Mini+ Gen. 2
+
+Quelle / Source: https://www.replysystems.com/reply-keypads-and-clickers/
+
+## Short answer
+
+Four Reply® keypads are currently available. **Interact Mini** (5 buttons) suits councils, schools and simple votes. **Interact** (10 buttons) covers meetings, training, quizzes and elections. **Interact Pro** (rechargeable, about 100 m range) is made for large AGMs and elections. **Mini+ Gen. 2** (14 buttons) serves very large systems and competitions.
+
+## Comparison
+
+| | Interact Mini | Interact | Interact Pro | Mini+ Gen. 2 |
+|---|---|---|---|---|
+| Model | IN1100 | IN2100 | IN4100 | WRS7100 |
+| Buttons | 5 | 10 | 10 | 14 |
+| Display | LCD, 1 character | 5 characters | matrix LCD | LED confirmation |
+| Radio | 2.4 GHz | 2.4 GHz | 2.4 GHz | 2.4 GHz FHSS |
+| Range | about 80 m | about 75 m | about 100 m | indoor, about 90 × 90 m |
+| Power | battery, about 250 h | battery, about 2 years | rechargeable, about 90 h | coin cell, about 25,000 responses |
+| Speed | 100 votes/s | 100 votes/s | 100 votes/s | 200 keypads/s |
+| Highlights | colour-coded Yes/No/Abstain | election mode, ID login, free numeric entry | candidate elections, batch voting, message to device | speed scoring 50 ms, up to 15,500 per room |
+| Warranty | 2 years | 2 years | 2 years | 2 years |
+
+## Which keypad?
+
+| Your use | Recommendation |
+|---|---|
+| Town hall, council, committee | Interact Mini (standard with CouncilARS™) |
+| Classroom, seminar | Interact Mini or Interact |
+| Association or member meeting | Interact Mini or Interact |
+| Large AGM, delegate assembly, candidate elections | Interact Pro |
+| Very large systems, many answer options, fastest-finger quiz | Mini+ Gen. 2 |
+
+All Interact models work with EdiVote® 3.0. Keypads can be combined with Reply® BYOPAD™ for hybrid meetings. Mini+ figures are taken from the manufacturer datasheet.
+
+## More information
+
+- Keypads and clickers: <https://www.replysystems.com/reply-keypads-and-clickers/>
+- Interact Mini: <https://www.replysystems.com/reply-interact-mini/>
+- Interact: <https://www.replysystems.com/reply-interact/>
+- Interact Pro: <https://www.replysystems.com/reply-interact-pro/>
+- Mini+: <https://www.replysystems.com/reply-miniplus/>
+- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Buy: <https://www.replysystems.com/buy-a-voting-system/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+---
+
+# Voting system for AGMs, board meetings and member assemblies: BoardARS and 4elections
+
+Quelle / Source: https://www.replysystems.com/digitise-your-board-votes-board-meetings-and-agms-with-boardars/
+
+## Short answer
+
+**BoardARS™** and **4elections™** are voting and election software from Infowhyse for board meetings, member assemblies and AGMs. They work with **Reply® keypads** (offline, no internet), via browser (**BYOPAD™**) or hybrid, manage attendance, voting rights, proxies, weights and quorums, and produce print-ready reports.
+
+## BoardARS™
+
+- Open and secret ballots (secret ballots store totals only)
+- Voting rights administration and proxy transfer
+- Live attendance tracking, editing and visualisation
+- Head-count and weighted votes shown side by side
+- Vote counting including abstentions
+- Elections for up to 5 candidates (with Interact Mini)
+- Requests to speak and motions captured on the keypad; proposals typed in or imported
+- Excel report for each resolution, optional screenshot
+- Modes: offline (keypads), online (browser), hybrid
+
+## 4elections™
+
+- Free choice of quorum to set the required majority
+- Different weights per keypad
+- Network-based registration front end and overview of shares or participants present
+- Postal vote handling
+- Open, named or secret voting
+- Elections with one or several candidates, quorums applied automatically, several rounds with one click
+- Detailed logging of each voting event
+- Result preview for the returning officer, transparent display for participants
+- Print-ready reports in Rich Text Format right after the election, no database needed
+
+## Which one?
+
+| Situation | Suggestion |
+|---|---|
+| Board or association meeting with Yes/No/Abstain and occasional elections | BoardARS™ |
+| AGM with shares, weighted votes, postal votes, multiple election rounds | 4elections™ |
+
+Recommended keypads: [Interact Pro](../products/reply-keypads-overview.md) for large meetings; Interact Mini or Interact for smaller ones.
+
+## Preparation matters
+
+Most problems come from unclear statutes, not technology. Clarify voting rights, proxies, majorities and quorums, and run a test before the meeting. This is not legal advice.
+
+## More information
+
+- BoardARS™: <https://www.replysystems.com/digitise-your-board-votes-board-meetings-and-agms-with-boardars/>
+- Audience response software: <https://www.replysystems.com/audience-response-software/>
+- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+Related: [Hybrid voting](hybrid-voting-byopad.md) · [Keypad overview](../products/reply-keypads-overview.md)
+
+---
+
+# Electronic voting for town halls, city councils and committees: CouncilARS
+
+Quelle / Source: https://www.replysystems.com/town-hall-and-city-councils/
+
+## Short answer
+
+**CouncilARS™** is Infowhyse's voting software for city councils, district councils and municipal committees. It supports **open, named, unnamed and secret votes**, runs **locally on a Windows PC without internet or cloud**, and is used by more than **80 municipalities**. Councillors vote with **Reply® Interact Mini** keypads, via browser or in hybrid mode.
+
+## Why councils vote electronically
+
+- Counting raised hands in large chambers is error-prone.
+- Livestream viewers cannot easily see how members voted.
+- Named votes and group (party) voting are documented automatically.
+- Remote councillors can vote with the same result.
+
+## Features
+
+- Voting types: open, named, unnamed, secret
+- Modes: on site (keypads), online (browser), hybrid
+- Agenda import from council information systems (for example Somacos, SD.NET, Allris and More-Rubin)
+- Requests to speak and motions via keypads
+- Reports: screenshot, PDF and text file; the overall result is always recorded; party-group behaviour (not for secret votes) and individual votes (named votes only) can be recorded
+- Votes can be changed while voting is open, optional confirmation with SEND
+- No cloud: all data stays on the PC or laptop
+- No internet needed with keypads; the licence is not bound to one PC
+
+## What you need
+
+CouncilARS™ licence, Reply® Interact Mini keypads (one per member), a receiver, a Windows PC; optional carry case. Internet only for browser voting.
+
+## Licensing and support
+
+One-off purchase, no expiry of the licence. Updates and support are included in the first year through the software maintenance programme; renewal is optional. A direct contact person instead of a hotline. Keypads can be added one at a time.
+
+## References
+
+Cheshire East Council (UK), Hansestadt Herford, Landeshauptstadt Magdeburg, Landkreis Göppingen, Stadt Hildesheim and others.
+
+## More information
+
+- Town halls and city councils: <https://www.replysystems.com/town-hall-and-city-councils/>
+- CouncilARS™: <https://www.replysystems.com/councilars/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+Related: [Keypad overview](../products/reply-keypads-overview.md) · [Hybrid voting](hybrid-voting-byopad.md)
+
+---
+
+# Audience response for training, classrooms and conferences: EdiVote 3.0 for PowerPoint
+
+Quelle / Source: https://www.replysystems.com/edivote-pro/
+
+## Short answer
+
+**EdiVote® 3.0** is a PowerPoint add-in that turns slides into live votes, quizzes and polls. Participants answer with **Reply® keypads** or **smartphones (BYOPAD™)**, and results appear in the presentation immediately. It works with Microsoft PowerPoint for Windows from version 2016 up to Office 365 (not the browser-only version and not Office for Mac).
+
+## Features
+
+- Voting types: participant answers, multiple choice, ranking, ratings, free numeric entry
+- Quizzes for individuals or teams
+- Participant groups and demographics
+- Advanced Microsoft Excel reports
+- Full PowerPoint integration; a demo (authoring) mode supports up to 5 keypads
+- Compatible with all Reply® Interact keypads and BYOPAD™ 3.0
+
+## Typical uses
+
+- **Classrooms and universities:** quizzes, learning games, quick class polls; reports show what students know and what needs revision
+- **Corporate training, coaching and consulting:** live polls, knowledge checks, anonymous feedback, strategy workshops
+- **Conferences and medical education (CME):** audience questions, knowledge checks, opinion polls
+- **Decision support at meetings and shareholder resolutions**
+
+## Why keypads in training?
+
+No distraction from email or messengers, no dependence on internet or Wi-Fi, instant and precise results, simple to use.
+
+## Recommended keypads
+
+[Reply® Interact Mini](../products/reply-keypads-overview.md) (up to 5 answers, ideal for classrooms) or Interact (up to 10 answers).
+
+## More information
+
+- EdiVote® Pro: <https://www.replysystems.com/edivote-pro/>
+- Audience response software: <https://www.replysystems.com/audience-response-software/>
+- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+Related: [Keypads vs smartphones](../guides/keypads-vs-smartphones.md)
+
+---
+
+# Hybrid voting and smartphone voting with Reply BYOPAD 3.0
+
+Quelle / Source: https://www.replysystems.com/byopad/
+
+## Short answer
+
+**Reply® BYOPAD™ 3.0** ("Bring Your Own Pad") is a browser-based voting tool: participants vote on smartphone, tablet or laptop **without an app, download or installation**. It works on site, remotely or **hybrid** together with Reply® keypads, so on-site and remote participants vote into **one result**.
+
+## How it works
+
+1. The presenter starts a BYOPAD session in EdiVote® and sets an **event code**.
+2. Participants open the voting page (`byopad.online`) and enter the code, or scan a QR code.
+3. Questions appear on their device; votes are captured and displayed instantly.
+
+Internet access is required for presenter and participants.
+
+## Session types and modes
+
+- Anonymous, anonymous with session password, or identified login with individual passwords (CSV list)
+- Virtual keypad mode (full keypad or Yes/No/Abstain) or live mode showing question and answers on the phone
+
+## Works with
+
+EdiVote® Pro 3.0 (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro, Mini+ and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there.
+
+## Data protection
+
+No user registration, no unnecessary personal data. Browser votes pass through a server, and session data is deleted after the session. Results and reports remain on the organiser's PC. Use hard-to-guess event codes and passwords for sensitive sessions.
+
+## When to use keypads instead
+
+See [Keypads vs smartphones](../guides/keypads-vs-smartphones.md).
+
+## More information
+
+- BYOPAD™: <https://www.replysystems.com/byopad/>
+- Product site: <https://www.byopad.com>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+Related: [Board meetings and AGMs](board-meetings-and-agms.md) · [Council voting](council-voting.md)
