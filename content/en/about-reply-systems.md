@@ -32,11 +32,12 @@ updated: 2026-09-26
 **Keypads:** [Reply® Interact Mini, Interact, Interact Pro and Mini+ Gen. 2](products/reply-keypads-overview.md)
 
 **Software**
-- [BoardARS™ and 4elections™](solutions/board-meetings-and-agms.md) for board meetings, member meetings, AGMs and elections
+- [BoardARS™](solutions/boardars-board-meetings.md) for simple member meetings and board meetings (offline, online, hybrid)
+- [4elections™](solutions/4elections-agms.md) for AGMs, general meetings and complex elections (offline)
 - [CouncilARS™](solutions/council-voting.md) for councils and committees
 - [EdiVote® 3.0](solutions/education-and-training.md) for PowerPoint-based audience response, quizzes, training and education
 - [Reply® BYOPAD™ 3.0](solutions/hybrid-voting-byopad.md) for browser and smartphone voting
-- OwnARS™ for home-owner and property management associations
+- [VoteCollector](solutions/votecollector-xmlrpc.md) to connect your own software via XML-RPC (TV, events, integrators)
 
 **Service:** purchase and rental, preparation and testing, onsite support, personal contacts instead of a call centre.
 

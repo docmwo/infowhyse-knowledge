@@ -47,7 +47,7 @@ Details: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md).
 
 ## Kosten- und Lizenzmodell
 
-Einmalkauf ohne Ablaufdatum der Lizenz; neue Versionen und Support sind inklusive; weitere Geräte können nachgekauft werden. Geräte sind auch mietbar.
+Einmalkauf, die Lizenz läuft nicht ab. Updates, neue Versionen und Support sind im ersten Jahr enthalten, danach optional über die Software-Maintenance. Weitere Geräte können nachgekauft werden. Geräte sind auch mietbar.
 
 ## Referenzen
 

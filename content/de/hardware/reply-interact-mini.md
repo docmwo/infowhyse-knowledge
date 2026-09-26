@@ -36,7 +36,7 @@ Hersteller-Kurzübersicht: Reply® Interact Mini IN1100.
 ## Wofür wird es eingesetzt?
 
 - **Kommunale Gremien:** Das Interact Mini ist das Standardgerät für CouncilARS™ (Gemeinderat, Stadtrat, Kreistag).
-- **Mitgliederversammlungen:** Mit BoardARS™ oder 4elections™ für Beschlüsse und Wahlen bis zu 5 Kandidaten.
+- **Mitgliederversammlungen:** Mit BoardARS™ für Beschlüsse und Einzelwahlen bis 5 Personen; mit 4elections™ für komplexere Wahlen.
 - **Schulen, Hochschulen, Schulungen:** Quiz, Klassenumfragen und Wissensabfragen mit EdiVote® 3.0.
 - **Unternehmen:** einfache Meinungsbilder und Basisabstimmungen.
 

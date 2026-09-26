@@ -74,6 +74,49 @@ Quelle / Source: https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/
 
 ---
 
+# Abstimmungssystem für Betriebsräte, Personalräte, Betriebs- und Mitarbeiterversammlungen
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+Für Betriebsrats- und Personalratssitzungen, Betriebs- und Personalversammlungen sowie Mitarbeiterversammlungen eignet sich **BoardARS™** mit **Reply®-Abstimmgeräten** für Beschlüsse und Anträge, und **EdiVote® 3.0** für anonyme Stimmungsbilder und Live-Umfragen in Präsentationen. Beide funktionieren ohne Internet, was auch bei Werksgelände- und Firmennetzen mit Beschränkungen praktisch ist. Standorte lassen sich per BYOPAD™ zuschalten.
+
+## Typische Einsatzfälle
+
+- **Beschlüsse in Betriebs- und Personalratssitzungen:** Ergebnis und Anwesenheit dokumentiert
+- **Betriebsversammlungen und Personalversammlungen:** Abstimmung über Anträge, Meinungsbilder
+- **Mitarbeiterversammlungen und Townhalls:** anonyme Fragen zur Stimmung, Priorisierung von Themen
+- **Mitarbeitervertretungen** (z. B. in kirchlichen und sozialen Einrichtungen) und Jugend- und Auszubildendenvertretungen
+- **Standortübergreifende Sitzungen** mit zugeschalteten Mitgliedern
+
+## Anforderungen
+
+- **Anonymität** bei Stimmungsabfragen und geheimen Abstimmungen
+- **Nachvollziehbarkeit** bei Beschlüssen
+- **Unabhängigkeit von IT-Richtlinien und WLAN** des Unternehmens
+- **Einfache Bedienung** ohne Schulungsaufwand
+- **Datenschutz:** Ergebnisse bleiben lokal, bei geheimen Abstimmungen nur Gesamtergebnisse
+
+## Empfohlene Technik
+
+| Situation | Empfehlung |
+|---|---|
+| Sitzung mit Beschlüssen | [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) mit [Interact Mini](../hardware/reply-interact-mini.md) |
+| Betriebsversammlung mit Anträgen | BoardARS™ mit Interact oder Interact Pro |
+| Live-Stimmungsbild in der Präsentation | [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) |
+| Mehrere Standorte | BoardARS™ mit [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Schulung, Coaching, Training](schulung-coaching-training.md) · [Sicherheit und Datenschutz](../ratgeber/sicherheit-und-datenschutz.md)
+
+---
+
 # Abstimmungssystem für Schule und Hochschule: Quiz und Klassenumfragen mit Clickern
 
 Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
@@ -89,7 +132,7 @@ Mit **EdiVote® 3.0** (PowerPoint-Add-In) und **Reply® Interact Mini** (5 Taste
 - **Lernfortschritt sichtbar machen:** Haben die meisten die richtige Antwort gewählt? Gibt es Wiederholungsbedarf?
 - **Anonyme Meinungsbilder**, damit sich auch zurückhaltende Lernende beteiligen
 - **Vorlesungen und Seminare** in der Hochschule
-- **Gremienarbeit** in Hochschulen (z. B. Senat, Fachschaften): [BoardARS™](../loesungen/boardars-und-4elections.md)
+- **Gremienarbeit** in Hochschulen (z. B. Senat, Fachschaften): [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md)
 
 ## Warum Keypads im Klassenzimmer?
 
@@ -115,44 +158,48 @@ Verwandt: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) · [Rep
 
 ---
 
-# Abstimmungssystem für Eigentümerversammlungen und Hausverwaltungen
+# Abstimmungssystem für Bürgerbeteiligung, Einwohnerversammlungen und Meinungsbilder
 
-Quelle / Source: https://www.replysystems.com/home-owner-and-property-management-associations/
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
 
 ## Kurzantwort
 
-Bei Eigentümerversammlungen zählen Stimmen häufig unterschiedlich (z. B. nach Köpfen, Objekten oder Miteigentumsanteilen), Vollmachten sind üblich und Beschlüsse müssen sauber protokolliert werden. Infowhyse bietet dafür **OwnARS™** für Eigentümer- und Hausverwaltungsgemeinschaften sowie Reply®-Abstimmgeräte, bei Bedarf ergänzt durch **4elections™** mit Gewichtung pro Gerät.
+Bei Bürgerversammlungen, Einwohnerversammlungen, Bürgerräten, Planungsworkshops und Bürgerdialogen machen **Live-Umfragen** Meinungen sofort sichtbar, ohne dass sich einzelne Personen exponieren müssen. Mit **EdiVote® 3.0** in PowerPoint stellen Moderatoren Fragen, die Anwesenden antworten anonym per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Die Ergebnisse erscheinen live und lassen sich **nach Gruppen** (z. B. Altersklasse oder Ortsteil) auswerten.
 
-## Typische Abstimmungen
+## Typische Einsatzfälle
 
-- Jahresabrechnung und Wirtschaftsplan
-- Entlastung der Verwaltung, Wahl und Abberufung des Verwalters
-- Sanierungs- und Modernisierungsmaßnahmen
-- Verwaltungsbeirat
+- Einwohner- und Bürgerversammlungen zu Bauvorhaben, Verkehr, Haushalt
+- Beteiligungsverfahren und Bürgerräte
+- Klausurtagungen und Workshops von Rat und Verwaltung
+- Priorisierung von Projekten (Ranking und Punktevergabe)
+- Stimmungsbilder bei Veranstaltungen von Kommunen, Verbänden und Initiativen
 
 ## Anforderungen
 
-- **Gewichtete Stimmen** je Eigentümer oder Einheit
-- **Vollmachten** für abwesende Eigentümer
-- **Beschlussfähigkeit** und wechselnde Anwesenheit
-- **Nachvollziehbares Protokoll** je Beschluss
-- **Bedienung durch alle Altersgruppen**, ohne Technikaufwand des Verwalters
+- **Anonymität und niedrige Hemmschwelle:** jeder kann ehrlich antworten
+- **Sofortige Sichtbarkeit** der Ergebnisse für das Plenum
+- **Auswertung nach Gruppen**, z. B. demografische Merkmale (Cross-Tab)
+- **Einfache Bedienung** für alle Altersgruppen
+- **Hybrid:** Zuschaltung von Menschen, die nicht vor Ort sein können
 
-## Technik
+## Empfohlene Technik
 
-- Keypads: [Interact Mini](../hardware/reply-interact-mini.md) oder [Interact](../hardware/reply-interact.md), keine Internetverbindung im Versammlungsraum nötig
-- Gewichtete Stimmen: [4elections™ / BoardARS™](../loesungen/boardars-und-4elections.md)
-- Hybrid: Zuschaltung per [BYOPAD™](../loesungen/byopad-browser-abstimmung.md)
-- Geräte lassen sich mieten, das ist für Hausverwaltungen interessant, die nur einzelne Versammlungen begleiten.
+| Situation | Empfehlung |
+|---|---|
+| Präsenzveranstaltung, gemischtes Publikum | [Reply® Interact Mini](../hardware/reply-interact-mini.md) oder [Interact](../hardware/reply-interact.md) mit [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) |
+| Online oder hybrid | [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
+| Große Veranstaltung mit vielen Gästen | Geräte mieten |
 
-Hinweis: Welche Stimmrechtsregeln und Verfahren gelten, ergibt sich aus Gesetz, Teilungserklärung und Beschlusslage; das gehört in die Vorbereitung und ist keine Rechtsberatung.
+Hinweis: Meinungsbilder sind nicht repräsentativ und ersetzen keine rechtlich vorgeschriebene Abstimmung (z. B. Bürgerentscheid).
 
 ## Mehr Informationen
 
-- Eigentümer- und Hausverwaltungsgemeinschaften (Reply Systems): <https://www.replysystems.com/home-owner-and-property-management-associations/>
-- OwnARS™: <https://www.replysystems.com/ownars/>
-- Alle Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
+- Hybride Abstimmungen: <https://www.infowhyse.com/hybride-abstimmungen/>
+- BYOPAD™: <https://www.replysystems.com/de/reply-byopad/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Kommunen](kommunen-gemeinderat-kreistag.md) · [Schulung, Coaching, Training](schulung-coaching-training.md)
 
 ---
 
@@ -162,7 +209,7 @@ Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 
 ## Kurzantwort
 
-Bei Haupt-, General- und Aktionärsversammlungen kommt es auf **gewichtete Stimmen, Anteile, Quoren, Vollmachten und lückenlose Dokumentation** an. Dafür bietet Infowhyse **4elections™** (und **BoardARS™**) mit **Reply® Interact Pro** oder **Interact**: unterschiedliche Stimmgewichte je Gerät, frei wählbares Quorum, Briefwahl, mehrere Wahlgänge und detaillierte Protokollierung.
+Bei Haupt-, General- und Aktionärsversammlungen kommt es auf **gewichtete Stimmen, Anteile, Quoren, Vollmachten und lückenlose Dokumentation** an. Dafür bietet Infowhyse **4elections™** mit **Reply® Interact Pro** oder **Interact**: mehrere unterschiedliche Stimmgewichte je Gerät, frei wählbares Quorum, Briefwahl, komplexe Wahlen mit mehreren Wahlgängen und detaillierte Protokollierung. 4elections™ arbeitet rein offline. Für einfachere Versammlungen (auch hybrid) gibt es BoardARS™.
 
 ## Typische Abstimmungen
 
@@ -198,7 +245,7 @@ Nach Erfahrung von Infowhyse liegen die meisten Fehlerquellen nicht in der Techn
 
 - **Präsenz:** [Reply® Interact Pro](../hardware/reply-interact-pro.md) (Akku, ca. 100 m Reichweite, Kandidatenwahl) oder [Interact](../hardware/reply-interact.md)
 - **Sehr große Systeme:** [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md)
-- **Hybrid:** Keypads plus [BYOPAD™](../loesungen/byopad-browser-abstimmung.md)
+- **Hybrid:** 4elections™ arbeitet rein offline. Wenn Online-Teilnehmer per [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) zugeschaltet werden sollen, ist das mit [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) möglich; bei komplexen Anforderungen lassen Sie sich bitte beraten.
 
 ## Mehr Informationen
 
@@ -207,7 +254,168 @@ Nach Erfahrung von Infowhyse liegen die meisten Fehlerquellen nicht in der Techn
 - Software: <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md) · [Mehrheiten und Quoren](../ratgeber/mehrheiten-und-quoren.md)
+Verwandt: [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) · [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md) · [Mehrheiten und Quoren](../ratgeber/mehrheiten-und-quoren.md)
+
+---
+
+# Abstimmungssystem für Jagdgenossenschaften, Wasser- und Bodenverbände und andere Flächenverbände
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+In Jagdgenossenschaften, Wasser- und Bodenverbänden, Realgemeinden, Teilnehmergemeinschaften und ähnlichen Verbänden zählt häufig nicht nur die Zahl der Anwesenden, sondern auch die **vertretene Fläche**. Dafür ist ein System nötig, das **Kopfstimmen und gewichtete Stimmen parallel** auswertet. **BoardARS™** zeigt beide nebeneinander an und ordnet jedem Abstimmgerät ein Gewicht zu (z. B. Hektar). Bei mehreren Gewichtungen oder komplexen Quoren kommt [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) infrage.
+
+## Warum das für diese Verbände wichtig ist
+
+- Beschlüsse hängen oft an einer **doppelten Mehrheit** (Mehrheit der Mitglieder und Mehrheit der Fläche). Was gilt, regeln Gesetz und Satzung.
+- **Vollmachten** sind üblich, weil viele Eigentümer nicht persönlich erscheinen.
+- Die Auszählung per Handzeichen und Stimmzettel mit Flächenberechnung ist **aufwendig und fehleranfällig**.
+- Ergebnisse müssen **nachvollziehbar dokumentiert** werden.
+
+## Wie es funktioniert
+
+1. Vorab: Teilnehmer, Fläche bzw. Gewicht und Vollmachten hinterlegen.
+2. Bei der Registrierung erhält jeder Teilnehmer ein Abstimmgerät, das mit seinem Gewicht verknüpft ist.
+3. Nach der Abstimmung erscheinen **Kopf- und Flächenergebnis** getrennt und nebeneinander.
+4. Das Protokoll wird als Excel-Datei ausgegeben.
+
+Empfohlene Geräte: [Reply® Interact Mini](../hardware/reply-interact-mini.md) oder [Interact](../hardware/reply-interact.md); Geräte lassen sich mieten. Kein Internet nötig, auch in Dorfgemeinschaftshäusern und Gaststätten.
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md)
+
+---
+
+# Abstimmungssystem für Jurys, Wettbewerbe und Preisgerichte: Bewertung per Tastendruck
+
+Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
+
+## Kurzantwort
+
+Jurys bewerten Beiträge, Kandidaten oder Projekte oft mit Punkten, Noten oder Rangfolgen und wollen das Ergebnis sofort, fair und dokumentiert. Mit **Reply®-Abstimmgeräten** und **EdiVote® 3.0** geben Jurymitglieder ihre Bewertung per Tastendruck ab, unabhängig voneinander und ohne Beeinflussung durch die anderen. EdiVote® unterstützt **Bewertungen, Rankings, Multiple Choice und freie numerische Eingabe**, wertet Gruppen aus und erzeugt Excel-Berichte. Für individuelle Wertungsregeln oder eigene Grafik gibt es den [VoteCollector](../loesungen/votecollector-schnittstelle.md).
+
+## Typische Einsatzfälle
+
+- **Fachjurys und Preisgerichte** (Architektur-, Design-, Ideen- und Forschungswettbewerbe)
+- **Awards und Preisverleihungen** mit Jury- und Publikumswertung
+- **Talent- und Gesangswettbewerbe**, Tanz- und Musikwettbewerbe
+- **Pitch-Events und Start-up-Wettbewerbe** mit Bewertungskriterien
+- **Wissenschaftliche Postersessions und Preisvergabe** bei Kongressen
+- **Schul- und Jugendwettbewerbe**
+
+## Anforderungen
+
+- **Unabhängige Einzelbewertung:** Niemand sieht vorab, wie die anderen bewerten.
+- **Mehrere Kriterien** je Beitrag, einheitliche Skala
+- **Sofortiges, nachvollziehbares Ergebnis:** Summen, Durchschnitt, Rangfolge
+- **Anonymität oder namentliche Dokumentation**, je nach Regelwerk
+- **Protokoll** für Veranstalter und Ausschreibung
+- **Jury plus Publikum:** getrennte Wertung und optionale Zusammenführung
+
+## Technik
+
+| Situation | Empfehlung |
+|---|---|
+| Jury von wenigen Personen | [Reply® Interact](../hardware/reply-interact.md) (10 Tasten, bis 10er-Skala) oder Interact Mini (5er-Skala) |
+| Publikumsvoting parallel | Keypads oder [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
+| Show mit eigener Grafik und Wertungsregeln | [VoteCollector](../loesungen/votecollector-schnittstelle.md) |
+| Geheime Einzelwahl unter Kandidaten (bis 5) | [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) |
+
+## Mehr Informationen
+
+- PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
+- EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [TV und Live-Events](tv-events-shows.md) · [Orchester und Kulturbetriebe](orchester-theater-kulturbetriebe.md) · [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md)
+
+---
+
+# Abstimmungssystem für Kammern, Versorgungswerke und Vertreterversammlungen
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+Kammern (Industrie-, Handwerks-, Ärzte-, Apotheker-, Rechtsanwaltskammern u. a.), Versorgungswerke, Kassenvereinigungen und ähnliche Organisationen der Selbstverwaltung tagen in **Vollversammlungen, Delegierten- und Vertreterversammlungen** mit Anträgen, Wahlen und Haushaltsbeschlüssen. Dafür eignen sich **BoardARS™** (Standardversammlungen) oder **[4elections™](../loesungen/4elections-hauptversammlung-wahlen.md)** (komplexe Wahlen, freie Quoren, mehrere Gewichtungen) mit **Reply®-Abstimmgeräten**. Bei zugeschalteten Mitgliedern hilft BYOPAD™ (mit BoardARS™).
+
+## Typische Abstimmungen
+
+- Wahl von Präsidium, Vorstand, Ausschüssen, Delegierten
+- Haushaltsplan, Beitragsordnung, Satzungs- und Wahlordnungsänderungen
+- Entlastung von Präsidium und Geschäftsführung
+- Anträge aus der Mitgliedschaft
+
+## Anforderungen
+
+- **Wahlberechtigte und Stimmrechte** nach Wahlgruppen, teils mit Gewichtung
+- **Geheime Wahlen** mit mehreren Wahlgängen, freie Quoren
+- **Große Versammlungen** mit mehreren hundert Teilnehmern
+- **Nachweis und Protokoll** für Rechtsaufsicht und Mitglieder
+- **Zuverlässigkeit** unabhängig vom Netz im Tagungshaus
+
+## Empfohlene Technik
+
+| Situation | Empfehlung |
+|---|---|
+| Vollversammlung mit Anträgen und Einzelwahlen | BoardARS™ mit [Interact](../hardware/reply-interact.md) oder [Interact Pro](../hardware/reply-interact-pro.md) |
+| Wahlen mit mehreren Wahlgängen und Quoren, mehrere Wahlgruppen | 4elections™ (offline) |
+| Zugeschaltete Mitglieder | BoardARS™ mit [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Digitale Abstimmungen und elektronische Wahlen (4elections): <https://www.ted-kaufen.de/digitale-abstimmungen/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Vereine und Verbände](vereine-und-verbaende.md) · [Genossenschaften und Hauptversammlungen](genossenschaften-und-hauptversammlungen.md) · [Mehrheiten und Quoren](../ratgeber/mehrheiten-und-quoren.md)
+
+---
+
+# Abstimmungssystem für Kirchen, Kirchengemeinden und Synoden
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+Für Kirchengemeinderat, Pfarrgemeinderat, Kirchenvorstand, Gemeindeversammlung, Dekanats- und Kirchenkreisversammlungen sowie Synoden eignet sich **BoardARS™** mit **Reply®-Abstimmgeräten**. Die Geräte sind ohne App und ohne Technikkenntnisse bedienbar, was bei Gremien mit sehr unterschiedlichem Alter wichtig ist. Geheime Abstimmungen, Einzelwahlen bis 5 Personen, Stimmrechtsverwaltung und Protokolle werden unterstützt; Online-Teilnehmer lassen sich per BYOPAD™ zuschalten.
+
+## Typische Abstimmungen
+
+- Wahl von Gemeinde- und Pfarrgemeinderäten, Kirchenvorständen, Delegierten
+- Haushaltspläne, Stellenbesetzungen, Bauvorhaben
+- Beschlüsse in Synoden und Dekanatsversammlungen
+- Gemeindeversammlungen mit Meinungsbildern
+
+## Anforderungen
+
+- **Einfachste Bedienung** für alle Altersgruppen, große Tasten, Bestätigung der Stimme
+- **Geheime Abstimmung** bei Personenwahlen
+- **Unabhängigkeit vom Netz** in Gemeindehäusern und Kirchen mit schwacher Verbindung
+- **Beschlussfähigkeit und Anwesenheit** nachvollziehbar
+- **Kosten im Blick:** Geräte können für einzelne Versammlungen gemietet werden
+
+## Empfohlene Technik
+
+- Gemeinde- und Gremiensitzungen: [Reply® Interact Mini](../hardware/reply-interact-mini.md), BoardARS™
+- Größere Synoden und Versammlungen: [Interact](../hardware/reply-interact.md) oder [Interact Pro](../hardware/reply-interact-pro.md)
+- Zuschaltung Abwesender: [BYOPAD™](../loesungen/byopad-browser-abstimmung.md)
+- Zu den Kunden von Infowhyse gehören laut Referenzliste auch kirchliche Jugendverbände: <https://www.infowhyse.com/referenzen-national-und-international-miete/>
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Vereine und Verbände](vereine-und-verbaende.md)
 
 ---
 
@@ -249,7 +457,7 @@ Details: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md).
 
 ## Kosten- und Lizenzmodell
 
-Einmalkauf ohne Ablaufdatum der Lizenz; neue Versionen und Support sind inklusive; weitere Geräte können nachgekauft werden. Geräte sind auch mietbar.
+Einmalkauf, die Lizenz läuft nicht ab. Updates, neue Versionen und Support sind im ersten Jahr enthalten, danach optional über die Software-Maintenance. Weitere Geräte können nachgekauft werden. Geräte sind auch mietbar.
 
 ## Referenzen
 
@@ -318,6 +526,89 @@ Verwandt: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) · [TV 
 
 ---
 
+# Abstimmungssystem für Orchester, Theater und Kulturbetriebe: Probespiel, Orchesterversammlung, Ensemble
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+Sinfonieorchester, Opernhäuser, Theater und andere Kulturbetriebe entscheiden regelmäßig in Gremien: bei **Probespielen** (Jurys bewerten Kandidaten), in der **Orchesterversammlung** (Wahl von Orchestervorstand und Vertretern, Beschlüsse) und in Ensembleversammlungen. Mit **Reply®-Abstimmgeräten** und **BoardARS™** lässt sich das **diskret, schnell und dokumentiert** erledigen: Jeder stimmt für sich per Tastendruck, geheime Abstimmungen speichern nur das Gesamtergebnis, und das Protokoll entsteht automatisch.
+
+## Typische Einsatzfälle
+
+- **Probespiel:** Die Jury gibt nach jeder Runde ihr Votum ab (Weiterkommen, Ablehnung, Bewertung), unabhängig voneinander und ohne Beeinflussung durch andere Jurymitglieder.
+- **Orchesterversammlung:** Wahl des Orchestervorstands, von Vertretern und Delegierten; Beschlüsse zu Anträgen
+- **Ensemble- und Betriebsversammlungen** in Theatern und Opernhäusern
+- **Auswahlverfahren** für Stellen, Stipendien und Preise ([Jurys und Wettbewerbe](jurys-wettbewerbe-preisgerichte.md))
+- **Vereinsversammlungen** von Fördervereinen und Chören ([Vereine und Verbände](vereine-und-verbaende.md))
+
+## Warum Keypads hier passen
+
+- **Diskretion:** Keine Zurufe, kein Handzeichen, keine Beeinflussung
+- **Unabhängig von WLAN und Netz** in Probesälen, Foyers und Konzerthäusern
+- **Sofortiges Ergebnis** für Jurysprecher oder Versammlungsleitung
+- **Kein Smartphone-Lärm oder Bildschirmlicht** im Probespielraum
+- Geräte lassen sich mieten, wenn nur wenige Probespiele oder Versammlungen im Jahr anstehen
+
+## Empfohlene Technik
+
+- Wenige Jurymitglieder, geheime Einzelwahl unter bis zu 5 Personen: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) mit [Reply® Interact Mini](../hardware/reply-interact-mini.md)
+- Bewertungen mit Skala: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) mit [Interact](../hardware/reply-interact.md)
+- Orchesterversammlung: BoardARS™, Interact Mini oder Interact
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Geheime und namentliche Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md)
+
+---
+
+# Abstimmungssystem für Parteien, Parteitage und Delegiertenversammlungen
+
+Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
+
+## Kurzantwort
+
+Für Parteitage, Kreis-, Orts- und Landesversammlungen sowie andere Delegiertenversammlungen eignet sich **BoardARS™** mit **Reply®-Abstimmgeräten**: schnelle Abstimmung über Anträge, Ausgabe des Abstimmverhaltens, Stimmrechtsverwaltung, Einzelwahlen mit bis zu 5 Personen und ein Protokoll je Beschluss. Bei sehr großen Parteitagen mit komplexen Wahlen, mehreren Wahlgängen und unterschiedlichen Quoren kommt [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) in Frage (rein offline). Online oder hybrid ist mit BoardARS™ und BYOPAD™ möglich.
+
+## Typische Abstimmungen
+
+- Anträge (Satzung, Programm, Sachanträge) und Änderungsanträge
+- Wahl von Vorständen, Delegierten und Kandidatenlisten
+- Entlastung, Haushalt, Geschäftsordnungsanträge
+- Beschlussfähigkeit und Anwesenheit bei wechselnder Teilnehmerzahl
+
+## Anforderungen
+
+- **Delegiertenlisten und Stimmrechte** vorab hinterlegt, Anwesenheit live sichtbar
+- **Zeitdruck:** viele Anträge in kurzer Zeit, Ergebnisse in Sekunden
+- **Geheime und offene Abstimmung** je Tagesordnungspunkt
+- **Nachvollziehbares Protokoll** für die Versammlungsleitung und das Tagungspräsidium
+- **Einfache Bedienung** für Delegierte aller Altersgruppen
+
+## Empfohlene Technik
+
+| Situation | Empfehlung |
+|---|---|
+| Präsenzparteitag, viele Anträge | Reply® Interact oder [Interact Pro](../hardware/reply-interact-pro.md), BoardARS™ |
+| Kleinere Versammlungen (Ortsverband, Kreisverband) | [Interact Mini](../hardware/reply-interact-mini.md), BoardARS™, ggf. gemietet |
+| Delegierte zugeschaltet | BoardARS™ mit [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) (hybrid) |
+| Große Wahlen mit mehreren Wahlgängen | 4elections™ (offline) |
+
+## Mehr Informationen
+
+- Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
+- Digitale Abstimmungen bei Mitgliederversammlungen (4elections): <https://www.ted-kaufen.de/digitale-abstimmungen/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Vereine und Verbände](vereine-und-verbaende.md) · [Geheime und namentliche Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md)
+
+---
+
 # Abstimmungssystem für Schulungen, Coaching, Workshops und Unternehmenspräsentationen
 
 Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
@@ -343,6 +634,10 @@ Trainer, Coaches und Berater nutzen **EdiVote® 3.0** als PowerPoint-Add-In zusa
 
 Wenn Smartphones bevorzugt werden (z. B. Online-Seminar), steht [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) zur Verfügung.
 
+## Unterweisungen und Compliance-Schulungen
+
+Für verpflichtende Unterweisungen (z. B. Arbeitssicherheit, Compliance, Datenschutz) lassen sich Wissensfragen einbauen. Mit Anmeldung über eindeutige Geräte-ID oder individuelle Zugangsdaten (BYOPAD™) ist nachvollziehbar, wer teilgenommen und wie geantwortet hat; der Excel-Bericht dient als Nachweis. Ob ein Nachweis ausreicht, richtet sich nach der jeweiligen Vorschrift.
+
 ## Empfohlene Ausstattung
 
 - Kleine Gruppen: [Interact Mini](../hardware/reply-interact-mini.md) (bis 5 Antworten) oder [Interact](../hardware/reply-interact.md) (bis 10 Antworten)
@@ -358,42 +653,108 @@ Wenn Smartphones bevorzugt werden (z. B. Online-Seminar), steht [BYOPAD™](../l
 
 ---
 
-# Abstimmungssystem für TV-Produktionen, Shows und Live-Events
+# Abstimmungssystem für TV-Produktionen, Shows und Live-Events: mit VoteCollector und XML-RPC
 
 Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
 
 ## Kurzantwort
 
-Für interaktive TV-Produktionen, Quizformate und Bühnenshows liefert Infowhyse Funk-Abstimmgeräte und Software für **Live-Voting mit sofortigem Ergebnis**. Das Reply® Mini+ Gen. 2 erfasst Antworten mit einer Zeitauflösung von 0,05 Sekunden („schnellster Finger“) und kann sehr große Gruppen abfragen. Ergebnisse lassen sich auf Leinwand oder LED-Wall visualisieren.
+Für TV-Produktionen, Shows, Galas und Bühnenevents gibt es bei Infowhyse zwei Wege: **fertige Software** wie [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) mit Reply®-Keypads, oder den **[VoteCollector](../loesungen/votecollector-schnittstelle.md)** für Produktionen, die bereits eigene Abstimmungs- oder Grafiksoftware einsetzen: Der VoteCollector (Software) wird per **XML-RPC** gesteuert und liefert die **Rohdaten** der Abstimmung zurück, die in der eigenen Software weiterverarbeitet werden. Die Funkgeräte arbeiten ohne WLAN und sind für sehr schnelle Erfassung ausgelegt.
+
+## Zwei Wege im Vergleich
+
+| | Fertige Software (z. B. EdiVote®) | VoteCollector mit eigener Software |
+|---|---|---|
+| Für wen | Veranstalter und Dienstleister, die eine schlüsselfertige Lösung wollen | Produktionsfirmen, Grafik- und Software-Teams mit eigener Umgebung |
+| Ablauf | Fragen in PowerPoint, Ergebnis direkt in der Präsentation | Steuerung per XML-RPC, Rohdaten zurück an das eigene System |
+| Ausgabe | Ergebnisgrafik der Software, Excel-Berichte | eigene Grafik, eigene Regelwerke, eigene Auswertung |
+| Aufwand | gering | Integrationsaufwand, dafür maximale Freiheit |
 
 ## Typische Einsatzfälle
 
-- Publikumsabstimmungen in Studio-Shows
-- Quizformate mit Reaktionszeit-Wertung
-- Team-Wettbewerbe und Gamification bei Events
-- Publikumsbefragungen und Meinungsbilder auf Bühnen
-- Firmenevents und Produktpräsentationen
+- **Publikumsabstimmung im Studio oder in der Halle:** Das Saalpublikum entscheidet per Tastendruck, das Ergebnis läuft als Grafik in die Sendung.
+- **Quizformate mit Zeitwertung:** Das [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md) erfasst Antworten mit 0,05 Sekunden Auflösung („schnellster Finger“) und kann sehr große Gruppen abfragen.
+- **Team-Wettbewerbe und Gamification** bei Firmenevents und Produktpräsentationen
+- **Awards und Wettbewerbe:** Publikumspreis parallel zur Jury ([Jurys und Wettbewerbe](jurys-wettbewerbe-preisgerichte.md))
+- **Galas und Charity-Events** mit Live-Abfragen und Meinungsbildern
 
-## Anforderungen
+## Anforderungen an Technik und Ablauf
 
-- **Zeitkritischer Ablauf:** Start und Ende der Abstimmung synchron zu Regie und Präsentation
-- **Zuverlässige Funkstrecke** in Studios mit vielen Funkquellen (Funkmikrofone, WLAN); Frequenzsprungverfahren (FHSS) und Wi-Fi-Vermeidung im Mini+
-- **Eindeutige Teilnehmerzuordnung** bei Teams
-- **Visualisierung** für Leinwand, Studiomonitor, LED-Wall
+- **Zeitkritische Abläufe:** Start und Ende der Abstimmung müssen zu Regie, Moderation und Grafik passen.
+- **Zuverlässige Funkstrecke:** Studios und Hallen sind voll mit Funkmikrofonen, WLAN und Kamerafunk. Das Mini+ nutzt Frequenzsprungverfahren (FHSS) und Wi-Fi-Vermeidung.
+- **Eindeutige Zuordnung** bei Teams und Einzelwertung
+- **Rohdaten oder fertige Grafik:** je nach Produktionsumgebung
+- **Testlauf** vor der Sendung oder Veranstaltung
 
-## Empfohlene Technik
+## Geräte
 
 - Große Gruppen und Reaktionszeit: [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md)
-- Standard-Live-Voting: [Reply® Interact](../hardware/reply-interact.md) mit [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md)
-- Zusätzlich Zuschauer zuhause oder vor Ort mit Smartphone: [BYOPAD™](../loesungen/byopad-browser-abstimmung.md)
-- Geräte mieten je Produktion
+- Standard-Live-Voting mit bis zu 10 Antworten: [Reply® Interact](../hardware/reply-interact.md)
+- Einfache Ja/Nein- und Auswahlfragen: [Reply® Interact Mini](../hardware/reply-interact-mini.md)
+- Der VoteCollector unterstützt die Interact-Serie, Reply® Plus und Mini+.
+- Geräte lassen sich **mieten** und kaufen; Reply Systems arbeitet mit Vertriebs- und Mietpartnern in über 20 Ländern zusammen.
 
 ## Mehr Informationen
 
 - Produktions- und AV-Unternehmen (Reply Systems, englisch): <https://www.replysystems.com/production-audio-visual-companies/>
 - Reply® Mini+: <https://www.replysystems.com/de/reply-miniplus-standard/>
-- Alle Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Anfrage zum VoteCollector und zu Produktionen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [VoteCollector](../loesungen/votecollector-schnittstelle.md) · [Kongresse und Pharma](kongresse-pharma-cme.md) · [Übersicht der Branchen](uebersicht-branchen.md)
+
+---
+
+# Welches Abstimmungssystem für welche Branche? Übersicht nach Einsatzfall
+
+Quelle / Source: https://www.infowhyse.com/abstimmloesungen/
+
+## Kurzantwort
+
+Formelle Abstimmungen und Wahlen (Versammlungen, Gremien) laufen mit **BoardARS™**, **4elections™** oder **CouncilARS™**. Präsentationen, Quiz, Bewertungen und Live-Umfragen laufen mit **EdiVote® 3.0**. Produktionen mit eigener Software nutzen den **VoteCollector**. Als Eingabe dienen **Reply®-Keypads** (offline), **BYOPAD™** (Browser) oder beides (hybrid). Die Tabelle zeigt, was für welchen Einsatzfall passt.
+
+## Formelle Abstimmungen und Wahlen
+
+| Einsatzfall | Software | Technik | Seite |
+|---|---|---|---|
+| Gemeinderat, Stadtrat, Kreistag, Ausschüsse | CouncilARS™ | Interact Mini, offline, online, hybrid | [Kommunen](kommunen-gemeinderat-kreistag.md) |
+| Vereine, Verbände, Gewerkschaften | BoardARS™ (komplex: 4elections™) | Interact Mini / Interact / Pro; hybrid mit BYOPAD™ | [Vereine und Verbände](vereine-und-verbaende.md) |
+| Parteien, Parteitage, Delegierte | BoardARS™ (große Wahlen: 4elections™) | Interact / Pro | [Parteien](parteien-und-delegiertenversammlungen.md) |
+| Kirchen, Synoden, Gemeinderäte | BoardARS™ | Interact Mini / Interact | [Kirchen](kirchen-und-religionsgemeinschaften.md) |
+| Betriebsräte, Personalräte, Betriebsversammlungen | BoardARS™, EdiVote® | Interact Mini / Interact | [Betriebsräte](betriebsraete-und-mitarbeiterversammlungen.md) |
+| Hauptversammlung, Generalversammlung, AGM | 4elections™ | Interact Pro, offline | [Hauptversammlungen](genossenschaften-und-hauptversammlungen.md) |
+| Kammern, Versorgungswerke, Vertreterversammlungen | BoardARS™ oder 4elections™ | Interact / Pro | [Kammern](kammern-und-selbstverwaltung.md) |
+| Jagdgenossenschaften, Wasser- und Bodenverbände | BoardARS™ (Kopf- und Flächenstimmen) | Interact Mini / Interact | [Flächenverbände](jagdgenossenschaften-und-flaechenverbaende.md) |
+| Orchester, Theater, Probespiel | BoardARS™, EdiVote® | Interact Mini / Interact | [Kultur](orchester-theater-kulturbetriebe.md) |
+
+## Präsentationen, Bewertungen, Events
+
+| Einsatzfall | Software | Technik | Seite |
+|---|---|---|---|
+| Kongresse, Pharma, CME | EdiVote® 3.0 | Interact, BYOPAD™ | [Kongresse](kongresse-pharma-cme.md) |
+| Schulung, Coaching, Workshops | EdiVote® 3.0 | Interact Mini / Interact | [Schulung](schulung-coaching-training.md) |
+| Schule, Hochschule | EdiVote® 3.0 | Interact Mini | [Bildung](bildung-schulen-hochschulen.md) |
+| Bürgerbeteiligung, Einwohnerversammlungen | EdiVote® 3.0 | Keypads oder BYOPAD™ | [Bürgerbeteiligung](buergerbeteiligung-und-meinungsbilder.md) |
+| Jurys, Wettbewerbe, Awards | EdiVote® 3.0, VoteCollector | Interact, Mini+ | [Jurys](jurys-wettbewerbe-preisgerichte.md) |
+| TV, Shows, Live-Events | EdiVote® 3.0 oder VoteCollector | Mini+ / Interact | [TV und Events](tv-events-shows.md) |
+
+## Wie Sie entscheiden
+
+1. **Formell oder informell?** Beschlüsse und Wahlen brauchen Stimmrechte, Mehrheiten und Protokoll (BoardARS™, 4elections™, CouncilARS™). Umfragen und Quiz brauchen Interaktion (EdiVote® 3.0).
+2. **Wie komplex ist die Regel?** Eine Gewichtung und Einzelwahl bis 5 Personen: BoardARS™. Mehrere Gewichtungen, komplexe Wahlen, freie Quoren: 4elections™.
+3. **Wo sind die Teilnehmer?** Vor Ort: Keypads (offline). Verteilt oder online: BYOPAD™. Beides: hybrid mit BoardARS™, CouncilARS™ oder EdiVote®.
+4. **Eigene Software vorhanden?** Dann den [VoteCollector](../loesungen/votecollector-schnittstelle.md) per XML-RPC anbinden.
+5. **Kauf oder Miete?** [Entscheidungshilfe](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md).
+
+Ihre Branche fehlt? Sprechen Sie uns an: Für viele weitere Einsatzfälle lässt sich die vorhandene Technik anpassen.
+
+## Mehr Informationen
+
+- Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
+- Anwendungsbereiche bei Reply Systems (englisch): <https://www.replysystems.com/application/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Abstimmgeräte im Vergleich](../hardware/abstimmgeraete-vergleich.md) · [Checkliste Anbieter auswählen](../ratgeber/anbieter-auswaehlen-checkliste.md)
 
 ---
 
@@ -403,7 +764,7 @@ Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 
 ## Kurzantwort
 
-Für Mitglieder- und Delegiertenversammlungen von Vereinen, Verbänden und Gewerkschaften eignen sich **BoardARS™** (Beschlüsse, Wahlen bis 5 Kandidaten) oder **4elections™** (Gewichtungen, mehrere Wahlgänge, Briefwahl) mit **Reply®-Abstimmgeräten**, per Browser (**BYOPAD™**) oder hybrid. Die Geräte lassen sich mieten, sodass auch kleine Vereine sie für einzelne Versammlungen nutzen können.
+Für Mitglieder- und Delegiertenversammlungen von Vereinen, Verbänden und Gewerkschaften eignen sich **BoardARS™** (einfache Abstimmungen, Einzelwahl bis 5 Personen, auch online per **BYOPAD™** oder hybrid) oder **4elections™** (komplexe Wahlen, Quoren, mehrere Gewichtungen, nur offline) mit **Reply®-Abstimmgeräten**. Die Geräte lassen sich mieten, sodass auch kleine Vereine sie für einzelne Versammlungen nutzen können.
 
 ## Typische Abstimmungen
 
@@ -426,9 +787,9 @@ Für Mitglieder- und Delegiertenversammlungen von Vereinen, Verbänden und Gewer
 
 | Situation | Empfehlung |
 |---|---|
-| Präsenzversammlung, gemischtes Alter, viele Teilnehmer | Keypads (Interact Mini / Interact / Pro), offline |
-| Verteilte Mitglieder, Online-Teilnahme gewünscht | BYOPAD™ (Browser) |
-| Beides in derselben Versammlung | Hybrid: Keypads vor Ort plus BYOPAD™ |
+| Präsenzversammlung, gemischtes Alter, viele Teilnehmer | Keypads (Interact Mini / Interact / Pro), offline; bei komplexen Wahlen und Gewichtungen 4elections™ |
+| Verteilte Mitglieder, Online-Teilnahme gewünscht | BYOPAD™ (Browser) mit BoardARS™ |
+| Beides in derselben Versammlung | Hybrid: Keypads vor Ort plus BYOPAD™ (BoardARS™) |
 | Einmalige Versammlung, kein Kaufbedarf | Geräte mieten |
 
 Vorteile von Keypads: keine Ablenkung durch Smartphones, kein Internet nötig, einfache Bedienung, schnelle und fehlerarme Auszählung. Hinweis: Ob eine elektronische, hybride oder rein virtuelle Versammlung zulässig ist, richtet sich nach Gesetz und Satzung; das gehört in die Vorbereitung.
@@ -455,7 +816,7 @@ Es wird nur das Gesamtergebnis gespeichert, keine individuellen Stimmen.
 - Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · [Versammlung vorbereiten](../ratgeber/versammlung-vorbereiten-checkliste.md)
+Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) · [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · [Versammlung vorbereiten](../ratgeber/versammlung-vorbereiten-checkliste.md)
 
 ---
 
@@ -494,7 +855,7 @@ Ja, mit Keypads für Präsenzteilnehmer und BYOPAD™ für Online-Teilnehmer. �
 ## Abstimmungsregeln
 
 **Können gewichtete Stimmen und Vollmachten abgebildet werden?**
-Ja, mit BoardARS™ und 4elections™. → [Gewichtete Stimmen und Vollmachten](ratgeber/gewichtete-stimmen-und-vollmachten.md)
+Ja. BoardARS™ bildet eine Gewichtung ab, 4elections™ mehrere Gewichtungen (nur offline). → [Gewichtete Stimmen und Vollmachten](ratgeber/gewichtete-stimmen-und-vollmachten.md)
 
 **Können geheime Abstimmungen durchgeführt werden?**
 Ja. Bei geheimen Abstimmungen wird nur das Gesamtergebnis gespeichert. Die rechtliche Zulässigkeit hängt vom Einsatzfall ab. → [Geheime und namentliche Abstimmung](ratgeber/geheime-und-namentliche-abstimmung.md)
@@ -518,7 +879,10 @@ Softwarelizenzen wie CouncilARS™ sind Einmalkäufe und laufen nicht ab. Update
 
 ## Branchen
 
-[Kommunen: Gemeinderat, Kreistag](branchen/kommunen-gemeinderat-kreistag.md) · [Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Hauptversammlungen und Genossenschaften](branchen/genossenschaften-und-hauptversammlungen.md) · [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [Schulung und Coaching](branchen/schulung-coaching-training.md) · [Bildung](branchen/bildung-schulen-hochschulen.md) · [TV und Events](branchen/tv-events-shows.md)
+Eine Übersicht mit Software- und Technikempfehlung je Einsatzfall finden Sie unter [Welches Abstimmungssystem für welche Branche?](branchen/uebersicht-branchen.md). Beispiele: [Kommunen](branchen/kommunen-gemeinderat-kreistag.md) · [Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Parteien](branchen/parteien-und-delegiertenversammlungen.md) · [Hauptversammlungen und Genossenschaften](branchen/genossenschaften-und-hauptversammlungen.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [TV und Events](branchen/tv-events-shows.md)
+
+**Kann ich eigene Software mit den Abstimmgeräten nutzen?**
+Ja, über den [VoteCollector](loesungen/votecollector-schnittstelle.md): Er wird per XML-RPC gesteuert und liefert Rohdaten zurück.
 
 ## Mehr Informationen
 
@@ -600,7 +964,7 @@ Hersteller-Kurzübersicht: Reply® Interact Mini IN1100.
 ## Wofür wird es eingesetzt?
 
 - **Kommunale Gremien:** Das Interact Mini ist das Standardgerät für CouncilARS™ (Gemeinderat, Stadtrat, Kreistag).
-- **Mitgliederversammlungen:** Mit BoardARS™ oder 4elections™ für Beschlüsse und Wahlen bis zu 5 Kandidaten.
+- **Mitgliederversammlungen:** Mit BoardARS™ für Beschlüsse und Einzelwahlen bis 5 Personen; mit 4elections™ für komplexere Wahlen.
 - **Schulen, Hochschulen, Schulungen:** Quiz, Klassenumfragen und Wissensabfragen mit EdiVote® 3.0.
 - **Unternehmen:** einfache Meinungsbilder und Basisabstimmungen.
 
@@ -758,62 +1122,122 @@ Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.
 
 ---
 
-# BoardARS™ und 4elections™ – Abstimmung und Wahlen für Versammlungen
+# 4elections™ – Abstimmungs- und Wahlsoftware für Hauptversammlungen, Generalversammlungen und AGMs
+
+Quelle / Source: https://www.infowhyse.com/
+
+## Kurzantwort
+
+**4elections™** ist die Abstimmungs- und Wahlsoftware von Infowhyse für **Generalversammlungen, AGMs und Aktionärsversammlungen** sowie für alle Versammlungen mit **komplexen Wahlen, freien Quoren, verschiedenen Wahlmodi und mehr als einer Gewichtung**. Sie arbeitet **rein offline** mit Reply®-Abstimmgeräten (Interact Mini, Interact, Interact Pro). Für einfachere Versammlungen und hybride Abstimmungen gibt es [BoardARS™](boardars-abstimmung-mitgliederversammlung.md).
+
+## Für wen?
+
+- Hauptversammlungen, Generalversammlungen, Aktionärsversammlungen (AGMs)
+- Genossenschaften und Verbände mit Anteils- oder Delegiertenstimmen
+- Alle Anwendungsfälle von BoardARS™, wenn die Regeln komplexer werden (Gewichtungen, Wahlmodi, Quoren)
+
+## Funktionen
+
+- **Freie Wahl des Quorums** zur Festlegung der erforderlichen Mehrheit
+- **Unterschiedliche Gewichte pro Abstimmgerät**, mehr als eine Gewichtung möglich
+- **Wahlen:** ein oder mehrere Kandidaten, verschiedene Wahlmodi, Quoren automatisch anwenden, mehrere Wahlrunden mit einem Klick
+- **Netzwerkbasiertes Registrierungs-Frontend** und Übersicht, wie viele Anteile oder Teilnehmer anwesend sind
+- **Anträge und Beschlüsse:** sofortige Entscheidungen, Quorum je Antrag wählbar
+- **Briefwahl** wird berücksichtigt
+- **Offene, namentliche oder geheime Abstimmung**
+- **Detaillierte Protokollierung** jedes Abstimmungsvorgangs
+- **Vorschau der Ergebnisse** für Wahlleiter oder Vorstand, transparente Visualisierung für die Teilnehmer
+- **Berichte** direkt nach Ende der Wahl, druckfertig im Rich-Text-Format, ohne Datenbank und ohne Wartezeit
+
+## Betriebsart: nur offline
+
+4elections™ funktioniert ausschließlich offline mit Funk-Abstimmgeräten, ohne Internet. Eine hybride Abstimmung mit Online-Teilnehmern per BYOPAD™ ist mit 4elections™ nicht vorgesehen; dafür steht [BoardARS™](boardars-abstimmung-mitgliederversammlung.md) zur Verfügung. Für hybride Hauptversammlungen mit komplexen Anforderungen lassen Sie sich bitte beraten.
+
+## Empfohlene Geräte
+
+- [Reply® Interact Pro](../hardware/reply-interact-pro.md): große Versammlungen (Akku, ca. 100 m, Kandidatenwahl)
+- [Reply® Interact](../hardware/reply-interact.md) oder [Interact Mini](../hardware/reply-interact-mini.md) für kleinere Versammlungen
+
+## BoardARS™ oder 4elections™?
+
+| | BoardARS™ | 4elections™ |
+|---|---|---|
+| Zielgruppe | einfache Mitgliederversammlungen, Board Meetings, Associations | zusätzlich Generalversammlungen, AGMs, Aktionärsversammlungen |
+| Wahlen | Einzelwahl bis 5 Personen | komplexe Wahlen, mehrere Wahlgänge, Wahlmodi |
+| Gewichtungen | eine Gewichtung | mehr als eine Gewichtung |
+| Quoren | einfache Abstimmungslogik | frei wählbar |
+| Ausgabe Abstimmverhalten | ja | ja, detaillierte Protokollierung |
+| Online/Hybrid (BYOPAD™) | ja | nein, rein offline |
+
+## Mehr Informationen
+
+- Software für TED-Abstimmungen: <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
+- Audience-Response-Software (englisch): <https://www.replysystems.com/audience-response-software/>
+- Infowhyse: <https://www.infowhyse.com/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [Branche Hauptversammlungen und Genossenschaften](../branchen/genossenschaften-und-hauptversammlungen.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md) · [Mehrheiten und Quoren](../ratgeber/mehrheiten-und-quoren.md)
+
+---
+
+# BoardARS™ – Abstimmungssoftware für Mitgliederversammlungen, Vorstandssitzungen und Vereine
 
 Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 
 ## Kurzantwort
 
-**BoardARS™** und **4elections™** sind Abstimmungs- und Wahlsoftware von Infowhyse für Vorstands-, Mitglieder-, General- und Hauptversammlungen. Beide arbeiten mit Reply®-Abstimmgeräten (offline, ohne Internet), per Browser ([BYOPAD™](byopad-browser-abstimmung.md)) oder hybrid und liefern druckfertige Protokolle. Sie verwalten Anwesenheit, Stimmrechte, Vollmachten, Gewichtungen und Quoren.
+**BoardARS™** ist die Abstimmungssoftware von Infowhyse für **einfache Mitgliederversammlungen, Board Meetings und Verbandssitzungen**. Sie ist für einfache Abstimmungen und Einzelwahlen mit bis zu 5 Personen gebaut, gibt das Abstimmverhalten übersichtlich aus und arbeitet **offline** (Reply® Interact Mini), **online** per Browser (BYOPAD™) oder **hybrid**. Für Generalversammlungen, AGMs und komplexere Wahlen gibt es [4elections™](4elections-hauptversammlung-wahlen.md).
 
-## BoardARS™
+## Für wen?
 
-Für strukturierte Abstimmungen in Vorstandssitzungen und Versammlungen:
+- Vereine und Verbände, Mitgliederversammlungen
+- Vorstands- und Beiratssitzungen, Board Meetings
+- Associations und Organisationen mit überschaubaren Abstimmungsregeln
+
+## Funktionen
 
 - **Offene und geheime Abstimmungen:** Bei geheimen Abstimmungen werden nur Gesamtergebnisse gespeichert, keine individuellen Daten.
-- **Stimmrechtsverwaltung und Stimmübergabe** (Vollmachten); Stimmrechte lassen sich zuweisen und entziehen.
+- **Ausgabe des Abstimmverhaltens:** Bei offenen Abstimmungen wird die Stimme dem Teilnehmer zugeordnet und im Protokoll ausgegeben.
+- **Direkte Visualisierung:** Empfangene Stimmen und Ergebnisse werden für alle Teilnehmer transparent angezeigt; jeder sieht sofort, dass seine Stimme gezählt wurde.
+- **Stimmrechtsverwaltung und Stimmübergabe (Vollmacht):** Stimmrechte lassen sich zuweisen und entziehen.
 - **Anwesenheit** live erfassen, bearbeiten und visualisieren.
-- **Kopfstimmen und gewichtete Stimmen** werden parallel angezeigt.
+- **Kopfstimmen und gewichtete Stimmen** (eine Gewichtung) werden parallel angezeigt.
 - **Stimmenauszählung** inklusive Enthaltungen.
-- **Wahlen** für bis zu 5 Kandidaten (mit Reply® Interact Mini).
-- **Wortmeldungen und Anträge** über das Abstimmgerät erfassen; Anträge manuell oder per Import, auch kurzfristig.
+- **Wahlen:** Einzelwahl mit bis zu 5 Personen.
+- **Wortmeldungen und Anträge** über das Abstimmgerät erfassen; Anträge manuell eingeben oder importieren, auch kurzfristig.
 - **Berichte:** pro Beschluss eine Excel-Datei, optional Screenshot des Ergebnisses.
-- **Betriebsarten:** offline (Reply® Interact Mini), online (Browser, BYOPAD™), hybrid.
 
-## 4elections™
+## Betriebsarten
 
-Für Hauptversammlungen und Wahlen mit komplexeren Anforderungen:
-
-- **Freie Wahl des Quorums** zur Festlegung der erforderlichen Mehrheit
-- **Unterschiedliche Gewichte pro Abstimmgerät** (z. B. nach Anteilen)
-- **Netzwerkbasiertes Registrierungs-Frontend**, Übersicht, wie viele Anteile oder Teilnehmer anwesend sind
-- **Briefwahl** berücksichtigen
-- **Offene, namentliche oder geheime Abstimmung**
-- **Wahlen:** ein oder mehrere Kandidaten, Quoren automatisch anwenden, mehrere Wahlrunden mit einem Klick
-- **Detaillierte Protokollierung** jedes Abstimmungsvorgangs
-- **Vorschau der Ergebnisse** für Wahlleiter oder Vorstand, transparente Darstellung für die Teilnehmer
-- **Berichte** direkt nach Ende der Wahl, druckfertig im Rich-Text-Format, ohne Datenbank und ohne Wartezeit
-
-Einsatz mit Reply® Interact Mini, Interact oder [Interact Pro](../hardware/reply-interact-pro.md).
-
-## Wann passt was?
-
-| Situation | Empfehlung |
+| Betriebsart | Technik |
 |---|---|
-| Vorstandssitzung, Vereinsversammlung mit Ja/Nein/Enthaltung, gelegentlich Wahl | BoardARS™ |
-| Hauptversammlung mit Anteilen, gewichteten Stimmen, Briefwahl, mehreren Wahlgängen | 4elections™ |
-| Präsentation mit Live-Umfragen, Quiz | [EdiVote® 3.0](edivote-powerpoint-abstimmung.md) |
-| Kommunales Gremium | [CouncilARS™](councilars-kommunale-abstimmung.md) |
+| Offline | Reply® Interact Mini, ohne Internet |
+| Online | Browser mit [BYOPAD™](byopad-browser-abstimmung.md) |
+| Hybrid | Interact Mini im Saal plus BYOPAD™ für Online-Teilnehmer: [Hybride Abstimmung](hybride-abstimmung.md) |
 
-Im Zweifel beraten wir gerne anhand Ihrer Satzung.
+## Grenzen und Alternative
+
+BoardARS™ ist bewusst schlank gehalten. Für **mehrere unterschiedliche Gewichtungen, komplexe Wahlmodi, freie Quoren oder Wahlen mit mehr als 5 Personen** ist [4elections™](4elections-hauptversammlung-wahlen.md) die passende Software (dort allerdings nur offline).
+
+## Häufige Fragen
+
+**Können wir BoardARS hybrid nutzen?**
+Ja, mit BYOPAD™ für die Online-Teilnehmer.
+
+**Welches Gerät brauchen wir?**
+Standard ist das [Reply® Interact Mini](../hardware/reply-interact-mini.md).
+
+**Gibt es geheime Wahlen?**
+Ja, dabei wird nur das Gesamtergebnis gespeichert. Ob eine geheime Wahl elektronisch zulässig ist, richtet sich nach Satzung und Recht: [Geheime und namentliche Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md).
 
 ## Mehr Informationen
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Software für TED-Abstimmungen: <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
-- Beratung und Angebot: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+- BoardARS (Reply Systems, englisch): <https://www.replysystems.com/digitise-your-board-votes-board-meetings-and-agms-with-boardars/>
+- Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [Branche Vereine und Verbände](../branchen/vereine-und-verbaende.md) · [Genossenschaften und Aktiengesellschaften](../branchen/genossenschaften-und-hauptversammlungen.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md)
+Verwandt: [Branche Vereine und Verbände](../branchen/vereine-und-verbaende.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md)
 
 ---
 
@@ -906,7 +1330,7 @@ Zum Thema Datenspeicherung und Livestream: [Praxisbeispiel Kommunalaufsicht Bran
 ## Lizenz und Service
 
 - Einmalkauf; die Softwarelizenz läuft nicht ab.
-- Neue Versionen und Support sind inklusive; Details zur Software-Maintenance (Updates, Support) auf Anfrage.
+- Updates, neue Versionen und Support sind im ersten Jahr enthalten; danach ist die Software-Maintenance optional. Die Lizenz bleibt auch ohne Maintenance uneingeschränkt nutzbar, es gibt dann keine weiteren Updates und keinen kostenfreien Support.
 - Kein Callcenter: Kunden haben einen direkten Ansprechpartner.
 - Handbuch und Versionshinweise sind öffentlich einsehbar.
 
@@ -1024,7 +1448,7 @@ Bei einer hybriden Abstimmung stimmen Teilnehmer vor Ort mit **Reply® Interact*
 
 ## Welche Software?
 
-- Vereine, Verbände, Hauptversammlungen: [BoardARS™ und 4elections™](boardars-und-4elections.md)
+- Vereine, Verbände, Board Meetings: [BoardARS™](boardars-abstimmung-mitgliederversammlung.md). [4elections™](4elections-hauptversammlung-wahlen.md) arbeitet rein offline und ist nicht hybridfähig.
 - Kommunale Gremien: [CouncilARS™](councilars-kommunale-abstimmung.md)
 - Präsentationen und Schulungen: [EdiVote® 3.0](edivote-powerpoint-abstimmung.md)
 
@@ -1083,6 +1507,62 @@ Siehe Entscheidungshilfe: [Keypad oder Smartphone](../ratgeber/keypad-oder-smart
 - TED-Systeme und Clicker: <https://www.replysystems.com/de/ted-systeme-und-clicker/>
 - Abstimmgeräte von Reply: <https://www.infowhyse.com/abstimmgerate-von-reply/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+---
+
+# VoteCollector: Abstimmungsdaten per XML-RPC in eigene Software und Produktionssysteme einbinden
+
+Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
+
+## Kurzantwort
+
+Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits eigene Software** für Abstimmungen oder zur Produktion von Ausgaben (z. B. Grafiken für TV und Events) einsetzen. Er lässt sich per **XML-RPC** steuern und liefert die **Rohdaten** der Abstimmung zurück. Diese Daten können in der eigenen Software weiterverarbeitet, ausgewertet und dargestellt werden. So lassen sich Reply®-Abstimmgeräte in bestehende Produktionsumgebungen einbinden, ohne die eigene Software zu ersetzen. Unterstützt werden die **Reply® Interact Serie** (Interact Mini, Interact, Interact Pro) sowie **Reply® Plus** und **Reply® Mini+**.
+
+## Für wen?
+
+- **TV- und Medienproduktionen** mit eigener Grafik- und Regiesoftware
+- **AV- und Eventdienstleister**, die Abstimmungen in eigene Show-Abläufe integrieren
+- **Softwareentwickler und Integratoren**, die Abstimmungsfunktionen in eigene Anwendungen einbauen
+- **Unternehmen mit eigener Abstimmungssoftware**, die die Funk-Hardware von Reply® nutzen wollen
+
+## Wie es funktioniert
+
+1. Die eigene Software **steuert den VoteCollector per XML-RPC** (z. B. Abstimmung starten und beenden).
+2. Die Teilnehmer stimmen mit Reply®-Abstimmgeräten ab.
+3. Der VoteCollector **liefert die Rohdaten zurück**.
+4. Die eigene Software verarbeitet die Daten und erzeugt Ergebnisse, Grafiken oder Auswertungen nach eigenen Regeln.
+
+## Wann VoteCollector, wann fertige Software?
+
+| Situation | Empfehlung |
+|---|---|
+| Sie haben eigene Grafik-, Show- oder Abstimmungssoftware | VoteCollector |
+| Sie brauchen eigene Regeln, eigene Wertung, eigene Grafik | VoteCollector |
+| Sie wollen eine schlüsselfertige Lösung für Vortrag, Quiz oder Umfrage | [EdiVote® 3.0](edivote-powerpoint-abstimmung.md) |
+| Formelle Abstimmung in Gremien oder Versammlungen | [CouncilARS™](councilars-kommunale-abstimmung.md), [BoardARS™](boardars-abstimmung-mitgliederversammlung.md), [4elections™](4elections-hauptversammlung-wahlen.md) |
+
+## Unterstützte Geräte
+
+| Gerät | Unterstützt |
+|---|---|
+| [Reply® Interact Mini](../hardware/reply-interact-mini.md) | ja |
+| [Reply® Interact](../hardware/reply-interact.md) | ja |
+| [Reply® Interact Pro](../hardware/reply-interact-pro.md) | ja |
+| Reply® Plus | ja |
+| [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md) | ja |
+
+Die Interact-Serie, Reply® Plus und Mini+ lassen sich auch gemischt betreiben.
+
+## Technische Details und Voraussetzungen
+
+Details zum Funktionsumfang der XML-RPC-Schnittstelle, zur Dokumentation und zur Lizenzierung erhalten Sie auf Anfrage. Sprechen Sie uns an, wenn Sie eine Integration planen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+## Mehr Informationen
+
+- Produktions- und AV-Unternehmen (Reply Systems, englisch): <https://www.replysystems.com/production-audio-visual-companies/>
+- Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
+
+Verwandt: [TV, Shows und Live-Events](../branchen/tv-events-shows.md) · [Abstimmgeräte im Vergleich](../hardware/abstimmgeraete-vergleich.md)
 
 ---
 
@@ -1233,7 +1713,7 @@ Schon in der Vorbereitung festlegen, welche Tagesordnungspunkte geheim oder name
 - Vorstandssitzungen und Versammlungen (geheime Abstimmung): <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md) · [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md)
+Verwandt: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md) · [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md)
 
 ---
 
@@ -1243,7 +1723,7 @@ Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 
 ## Kurzantwort
 
-**Gewichtete Stimmen** bedeuten, dass nicht jede Stimme den gleichen Wert hat, etwa nach Anteilen, Delegiertenzahlen oder gesetzlichen Vorgaben. **Vollmachten** berechtigen eine Person, das Stimmrecht einer anderen ganz oder teilweise auszuüben. Beides muss vor der Abstimmung eindeutig hinterlegt sein. Abstimmungssysteme wie 4elections™ und BoardARS™ verwalten Gewichte pro Abstimmgerät und weisen Stimmen dem Bevollmächtigten zu.
+**Gewichtete Stimmen** bedeuten, dass nicht jede Stimme den gleichen Wert hat, etwa nach Anteilen, Delegiertenzahlen oder gesetzlichen Vorgaben. **Vollmachten** berechtigen eine Person, das Stimmrecht einer anderen ganz oder teilweise auszuüben. Beides muss vor der Abstimmung eindeutig hinterlegt sein. Abstimmungssysteme verwalten Gewichte pro Abstimmgerät und weisen Stimmen dem Bevollmächtigten zu: BoardARS™ bildet eine Gewichtung ab, 4elections™ mehrere Gewichtungen.
 
 ## Gewichtete Stimmen
 
@@ -1277,7 +1757,7 @@ Vollmachten und Gewichte gehören in die Vorbereitung, nicht in die laufende Ver
 - Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
 - Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Mehrheiten und Quoren](mehrheiten-und-quoren.md) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)
+Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) · [Mehrheiten und Quoren](mehrheiten-und-quoren.md) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)
 
 ---
 
@@ -1426,7 +1906,7 @@ Das ist keine Rechtsberatung. Bei Unsicherheit klären Sie die Auslegung vorab m
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [4elections™ (frei wählbares Quorum)](../loesungen/boardars-und-4elections.md) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)
+Verwandt: [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) (frei wählbares Quorum) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)
 
 ---
 
@@ -1564,7 +2044,7 @@ Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter An
 | Unternehmen | Infowhyse GmbH, Pfingstweide 24, 61169 Friedberg (Hessen), Deutschland |
 | Register | Amtsgericht Friedberg, HRB 6030 |
 | Erfahrung | seit mehr als 20 Jahren; Reply®-Technologie seit 1990 |
-| Marken | Reply®, EdiVote® (eingetragene Marken der Infowhyse GmbH); BoardARS™, CouncilARS™, 4elections™, BYOPAD™, OwnARS™ |
+| Marken | Reply®, EdiVote® (eingetragene Marken der Infowhyse GmbH); BoardARS™, CouncilARS™, 4elections™, BYOPAD™ |
 | Kontakt | +49 6031 1881280 · info@infowhyse.com · <https://www.infowhyse.com/kontakt-zu-infowhyse/> |
 | Websites | <https://www.infowhyse.com> (Deutsch) · <https://www.replysystems.com> (Deutsch/Englisch) |
 
@@ -1576,10 +2056,11 @@ Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter An
 
 **Software**
 - [CouncilARS™](loesungen/councilars-kommunale-abstimmung.md) für Kommunen
-- [BoardARS™ und 4elections™](loesungen/boardars-und-4elections.md) für Versammlungen und Wahlen
+- [BoardARS™](loesungen/boardars-abstimmung-mitgliederversammlung.md) für einfache Mitgliederversammlungen und Board Meetings (auch hybrid)
+- [4elections™](loesungen/4elections-hauptversammlung-wahlen.md) für Generalversammlungen, AGMs und komplexe Wahlen (offline)
 - [EdiVote® 3.0](loesungen/edivote-powerpoint-abstimmung.md) für PowerPoint
+- [VoteCollector](loesungen/votecollector-schnittstelle.md) zur Anbindung eigener Software per XML-RPC
 - [BYOPAD™ 3.0](loesungen/byopad-browser-abstimmung.md) für Smartphone- und Browserabstimmung
-- OwnARS™ für [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md)
 
 **Beratung und Betreuung**
 - Analyse der Veranstaltung und Klärung von Stimmrechten, Mehrheiten, Vollmachten, Satzung
@@ -1589,7 +2070,9 @@ Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter An
 
 ## Für wen?
 
-[Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Genossenschaften und Hauptversammlungen](branchen/genossenschaften-und-hauptversammlungen.md) · [Kommunen](branchen/kommunen-gemeinderat-kreistag.md) · [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [Schulung und Coaching](branchen/schulung-coaching-training.md) · [Bildung](branchen/bildung-schulen-hochschulen.md) · [TV und Events](branchen/tv-events-shows.md)
+Übersicht mit Software- und Technikempfehlung je Einsatzfall: [Welches Abstimmungssystem für welche Branche?](branchen/uebersicht-branchen.md)
+
+[Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Parteien](branchen/parteien-und-delegiertenversammlungen.md) · [Kirchen](branchen/kirchen-und-religionsgemeinschaften.md) · [Betriebsräte](branchen/betriebsraete-und-mitarbeiterversammlungen.md) · [Genossenschaften und Hauptversammlungen](branchen/genossenschaften-und-hauptversammlungen.md) · [Kammern](branchen/kammern-und-selbstverwaltung.md) · [Kommunen](branchen/kommunen-gemeinderat-kreistag.md) · [Flächenverbände](branchen/jagdgenossenschaften-und-flaechenverbaende.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [Schulung und Coaching](branchen/schulung-coaching-training.md) · [Bildung](branchen/bildung-schulen-hochschulen.md) · [Bürgerbeteiligung](branchen/buergerbeteiligung-und-meinungsbilder.md) · [Jurys und Wettbewerbe](branchen/jurys-wettbewerbe-preisgerichte.md) · [Orchester und Kultur](branchen/orchester-theater-kulturbetriebe.md) · [TV und Events](branchen/tv-events-shows.md)
 
 ## Philosophie
 
@@ -1628,11 +2111,12 @@ Quelle / Source: https://www.replysystems.com/about-us/
 **Keypads:** [Reply® Interact Mini, Interact, Interact Pro and Mini+ Gen. 2](products/reply-keypads-overview.md)
 
 **Software**
-- [BoardARS™ and 4elections™](solutions/board-meetings-and-agms.md) for board meetings, member meetings, AGMs and elections
+- [BoardARS™](solutions/boardars-board-meetings.md) for simple member meetings and board meetings (offline, online, hybrid)
+- [4elections™](solutions/4elections-agms.md) for AGMs, general meetings and complex elections (offline)
 - [CouncilARS™](solutions/council-voting.md) for councils and committees
 - [EdiVote® 3.0](solutions/education-and-training.md) for PowerPoint-based audience response, quizzes, training and education
 - [Reply® BYOPAD™ 3.0](solutions/hybrid-voting-byopad.md) for browser and smartphone voting
-- OwnARS™ for home-owner and property management associations
+- [VoteCollector](solutions/votecollector-xmlrpc.md) to connect your own software via XML-RPC (TV, events, integrators)
 
 **Service:** purchase and rental, preparation and testing, onsite support, personal contacts instead of a call centre.
 
@@ -1670,7 +2154,7 @@ Keypads for critical votes, weak networks and focus; smartphones for remote part
 Interact Mini (5 buttons) for councils and classrooms, Interact (10) for versatile use, Interact Pro (rechargeable, about 100 m) for large AGMs and elections, Mini+ Gen. 2 for very large systems and competitions. → [Overview](products/reply-keypads-overview.md)
 
 **Can votes be weighted and proxies handled?**
-Yes, with BoardARS™ and 4elections™. → [Board meetings and AGMs](solutions/board-meetings-and-agms.md)
+Yes. BoardARS™ supports one weighting, 4elections™ several (offline only). → [BoardARS](solutions/boardars-board-meetings.md) · [4elections](solutions/4elections-agms.md)
 
 **Are secret ballots possible?**
 Yes; only totals are stored for secret votes. Whether a procedure is legally valid depends on your statutes and applicable law.
@@ -1768,7 +2252,7 @@ Keypads are preferred for critical votes, weak networks, mixed audiences and to 
 
 ## Choosing a system
 
-- Formal voting? You need voting rights, proxies, weighted votes, majorities and reports: [BoardARS™ and 4elections™](../solutions/board-meetings-and-agms.md), [CouncilARS™](../solutions/council-voting.md).
+- Formal voting? You need voting rights, proxies, weighted votes, majorities and reports: [BoardARS™](../solutions/boardars-board-meetings.md) and [4elections™](../solutions/4elections-agms.md), [CouncilARS™](../solutions/council-voting.md).
 - Presentations and training? [EdiVote® 3.0](../solutions/education-and-training.md).
 - Remote participants? [BYOPAD™](../solutions/hybrid-voting-byopad.md).
 - Which keypad? [Keypad overview](../products/reply-keypads-overview.md).
@@ -1877,50 +2361,74 @@ All Interact models work with EdiVote® 3.0. Keypads can be combined with Reply�
 
 ---
 
-# Voting system for AGMs, board meetings and member assemblies: BoardARS and 4elections
+# 4elections: voting and election software for AGMs, general meetings and shareholder meetings
+
+Quelle / Source: https://www.replysystems.com/audience-response-software/
+
+## Short answer
+
+**4elections™** is Infowhyse's voting and election software for **AGMs, general meetings and shareholder meetings**, and for any meeting with **complex elections, free quorums, several election modes and more than one weighting**. It works **offline only** with Reply® keypads (Interact Mini, Interact, Interact Pro). For simpler meetings and hybrid voting see [BoardARS™](boardars-board-meetings.md).
+
+## Features
+
+- Free choice of quorum to set the required majority
+- Different weights per keypad, more than one weighting
+- Elections with one or several candidates, election modes, quorums applied automatically, several rounds with one click
+- Network-based registration front end and overview of shares or participants present
+- Postal vote handling
+- Open, named or secret voting
+- Detailed logging of each voting event
+- Result preview for the returning officer, transparent display for participants
+- Print-ready reports in Rich Text Format right after the election, no database needed
+
+## BoardARS™ or 4elections™?
+
+| | BoardARS™ | 4elections™ |
+|---|---|---|
+| Audience | simple member meetings, board meetings, associations | plus general meetings, AGMs, shareholder meetings |
+| Elections | single election up to 5 people | complex elections, several rounds and modes |
+| Weightings | one | more than one |
+| Quorums | simple voting logic | freely selectable |
+| Online / hybrid (BYOPAD™) | yes | no, offline only |
+
+## Recommended keypads
+
+[Reply® Interact Pro](../products/reply-keypads-overview.md) for large meetings; Interact or Interact Mini for smaller ones.
+
+## More information
+
+- Audience response software: <https://www.replysystems.com/audience-response-software/>
+- Software for TED voting (German): <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+Related: [BoardARS](boardars-board-meetings.md) · [Keypad overview](../products/reply-keypads-overview.md)
+
+---
+
+# BoardARS: voting software for board meetings, member meetings and associations
 
 Quelle / Source: https://www.replysystems.com/digitise-your-board-votes-board-meetings-and-agms-with-boardars/
 
 ## Short answer
 
-**BoardARS™** and **4elections™** are voting and election software from Infowhyse for board meetings, member assemblies and AGMs. They work with **Reply® keypads** (offline, no internet), via browser (**BYOPAD™**) or hybrid, manage attendance, voting rights, proxies, weights and quorums, and produce print-ready reports.
+**BoardARS™** is Infowhyse's voting software for **simple member meetings, board meetings and associations**. It is built for straightforward votes and single elections of up to 5 people, records voting behaviour, and works **offline** (Reply® Interact Mini), **online** via browser (BYOPAD™) or **hybrid**. For general meetings, AGMs and complex elections see [4elections™](4elections-agms.md).
 
-## BoardARS™
+## Features
 
 - Open and secret ballots (secret ballots store totals only)
+- Voting behaviour output for open votes
 - Voting rights administration and proxy transfer
 - Live attendance tracking, editing and visualisation
-- Head-count and weighted votes shown side by side
+- Head-count and weighted votes (one weighting) side by side
 - Vote counting including abstentions
-- Elections for up to 5 candidates (with Interact Mini)
-- Requests to speak and motions captured on the keypad; proposals typed in or imported
-- Excel report for each resolution, optional screenshot
+- Single election of up to 5 people
+- Requests to speak and motions on the keypad; proposals typed in or imported
+- Excel report per resolution, optional screenshot
 - Modes: offline (keypads), online (browser), hybrid
 
-## 4elections™
+## Limits
 
-- Free choice of quorum to set the required majority
-- Different weights per keypad
-- Network-based registration front end and overview of shares or participants present
-- Postal vote handling
-- Open, named or secret voting
-- Elections with one or several candidates, quorums applied automatically, several rounds with one click
-- Detailed logging of each voting event
-- Result preview for the returning officer, transparent display for participants
-- Print-ready reports in Rich Text Format right after the election, no database needed
-
-## Which one?
-
-| Situation | Suggestion |
-|---|---|
-| Board or association meeting with Yes/No/Abstain and occasional elections | BoardARS™ |
-| AGM with shares, weighted votes, postal votes, multiple election rounds | 4elections™ |
-
-Recommended keypads: [Interact Pro](../products/reply-keypads-overview.md) for large meetings; Interact Mini or Interact for smaller ones.
-
-## Preparation matters
-
-Most problems come from unclear statutes, not technology. Clarify voting rights, proxies, majorities and quorums, and run a test before the meeting. This is not legal advice.
+For several different weightings, complex election modes, free quorums or elections of more than 5 people, use [4elections™](4elections-agms.md) (offline only).
 
 ## More information
 
@@ -2047,7 +2555,7 @@ Internet access is required for presenter and participants.
 
 ## Works with
 
-EdiVote® Pro 3.0 (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro, Mini+ and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there.
+EdiVote® Pro 3.0 (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro, Mini+ and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there. 4elections™ works offline only.
 
 ## Data protection
 
@@ -2063,4 +2571,90 @@ See [Keypads vs smartphones](../guides/keypads-vs-smartphones.md).
 - Product site: <https://www.byopad.com>
 - Contact: <https://www.replysystems.com/contact-us/>
 
-Related: [Board meetings and AGMs](board-meetings-and-agms.md) · [Council voting](council-voting.md)
+Related: [BoardARS](boardars-board-meetings.md) · [Council voting](council-voting.md)
+
+---
+
+# Audience voting for TV productions, shows and live events
+
+Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
+
+## Short answer
+
+For TV productions, shows, galas and stage events there are two routes: **ready-made software** such as [EdiVote® 3.0](education-and-training.md) with Reply® keypads, or the **[VoteCollector](votecollector-xmlrpc.md)** for productions that already run their own voting or graphics software. The VoteCollector (software) is controlled via **XML-RPC** and returns **raw data** for processing in your own system. The radio keypads work without Wi-Fi and are built for fast capture.
+
+## Typical uses
+
+- Studio or hall audience votes with the result shown as on-air graphics
+- Quiz formats with timing: the [Reply® Mini+ Gen. 2](../products/reply-keypads-overview.md) records responses at 0.05 s resolution ("fastest finger")
+- Team competitions and gamification at corporate events
+- Awards with audience vote alongside a jury
+- Galas and charity events with live polls
+
+## Requirements
+
+- Time-critical cues with director, host and graphics
+- A reliable radio link in RF-crowded venues (Mini+ uses frequency hopping and Wi-Fi avoidance)
+- Clear assignment of keypads to teams and players
+- Raw data or ready-made graphics, depending on your production setup
+- A dress rehearsal before the show
+
+## Rental
+
+The VoteCollector supports the Interact series, Reply® Plus and Mini+. Reply® keypads can be rented or purchased. Reply Systems works with resellers and rental partners in more than 20 countries.
+
+## More information
+
+- Production and AV companies: <https://www.replysystems.com/production-audio-visual-companies/>
+- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+Related: [VoteCollector](votecollector-xmlrpc.md) · [Keypad overview](../products/reply-keypads-overview.md)
+
+---
+
+# VoteCollector: integrate audience response data into your own software via XML-RPC
+
+Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
+
+## Short answer
+
+The **VoteCollector** is software from Infowhyse for companies that **already use their own software** for voting or for producing outputs such as broadcast graphics. It is controlled via **XML-RPC** and returns the **raw voting data**, which your software can then process, evaluate and display. This lets you use Reply® voting keypads inside an existing production environment without replacing your own software. It supports the **Reply® Interact series** (Interact Mini, Interact, Interact Pro) as well as **Reply® Plus** and **Reply® Mini+**.
+
+## Who is it for?
+
+- TV and media productions with their own graphics and show control software
+- AV and event service providers integrating votes into their show flow
+- Software developers and integrators adding voting to their own applications
+- Companies with in-house voting software that want Reply® radio hardware
+
+## How it works
+
+1. Your software controls the VoteCollector via XML-RPC (for example to start and stop a vote).
+2. Participants vote on Reply® keypads.
+3. The VoteCollector returns the raw data.
+4. Your software applies its own rules, scoring and graphics.
+
+## VoteCollector or ready-made software?
+
+| Situation | Recommendation |
+|---|---|
+| You have your own graphics, show or voting software | VoteCollector |
+| You need your own scoring rules and visuals | VoteCollector |
+| You want a turnkey solution for presentations, quizzes or polls | [EdiVote® 3.0](education-and-training.md) |
+| Formal votes in boards or assemblies | [BoardARS](boardars-board-meetings.md), [4elections](4elections-agms.md), [CouncilARS](council-voting.md) |
+
+## Supported keypads
+
+Interact Mini, Interact, Interact Pro, Reply® Plus and Reply® Mini+, alone or mixed.
+
+## Details
+
+Scope of the XML-RPC interface, documentation and licensing are available on request: <https://www.replysystems.com/contact-us/>
+
+## More information
+
+- Production and AV companies: <https://www.replysystems.com/production-audio-visual-companies/>
+- Contact: <https://www.replysystems.com/contact-us/>
+
+Related: [TV and live events](tv-live-events.md) · [Keypad overview](../products/reply-keypads-overview.md)

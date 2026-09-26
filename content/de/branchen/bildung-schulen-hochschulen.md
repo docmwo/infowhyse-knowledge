@@ -23,7 +23,7 @@ Mit **EdiVote® 3.0** (PowerPoint-Add-In) und **Reply® Interact Mini** (5 Taste
 - **Lernfortschritt sichtbar machen:** Haben die meisten die richtige Antwort gewählt? Gibt es Wiederholungsbedarf?
 - **Anonyme Meinungsbilder**, damit sich auch zurückhaltende Lernende beteiligen
 - **Vorlesungen und Seminare** in der Hochschule
-- **Gremienarbeit** in Hochschulen (z. B. Senat, Fachschaften): [BoardARS™](../loesungen/boardars-und-4elections.md)
+- **Gremienarbeit** in Hochschulen (z. B. Senat, Fachschaften): [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md)
 
 ## Warum Keypads im Klassenzimmer?
 

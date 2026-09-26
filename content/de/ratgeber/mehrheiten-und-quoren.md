@@ -48,4 +48,4 @@ Das ist keine Rechtsberatung. Bei Unsicherheit klären Sie die Auslegung vorab m
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [4elections™ (frei wählbares Quorum)](../loesungen/boardars-und-4elections.md) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)
+Verwandt: [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) (frei wählbares Quorum) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)

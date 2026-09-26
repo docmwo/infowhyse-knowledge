@@ -31,7 +31,7 @@ Internet access is required for presenter and participants.
 
 ## Works with
 
-EdiVote® Pro 3.0 (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro, Mini+ and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there.
+EdiVote® Pro 3.0 (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro, Mini+ and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there. 4elections™ works offline only.
 
 ## Data protection
 
@@ -47,4 +47,4 @@ See [Keypads vs smartphones](../guides/keypads-vs-smartphones.md).
 - Product site: <https://www.byopad.com>
 - Contact: <https://www.replysystems.com/contact-us/>
 
-Related: [Board meetings and AGMs](board-meetings-and-agms.md) · [Council voting](council-voting.md)
+Related: [BoardARS](boardars-board-meetings.md) · [Council voting](council-voting.md)

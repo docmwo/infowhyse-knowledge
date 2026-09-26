@@ -15,7 +15,7 @@ updated: 2026-09-26
 
 ## Kurzantwort
 
-Für Mitglieder- und Delegiertenversammlungen von Vereinen, Verbänden und Gewerkschaften eignen sich **BoardARS™** (Beschlüsse, Wahlen bis 5 Kandidaten) oder **4elections™** (Gewichtungen, mehrere Wahlgänge, Briefwahl) mit **Reply®-Abstimmgeräten**, per Browser (**BYOPAD™**) oder hybrid. Die Geräte lassen sich mieten, sodass auch kleine Vereine sie für einzelne Versammlungen nutzen können.
+Für Mitglieder- und Delegiertenversammlungen von Vereinen, Verbänden und Gewerkschaften eignen sich **BoardARS™** (einfache Abstimmungen, Einzelwahl bis 5 Personen, auch online per **BYOPAD™** oder hybrid) oder **4elections™** (komplexe Wahlen, Quoren, mehrere Gewichtungen, nur offline) mit **Reply®-Abstimmgeräten**. Die Geräte lassen sich mieten, sodass auch kleine Vereine sie für einzelne Versammlungen nutzen können.
 
 ## Typische Abstimmungen
 
@@ -38,9 +38,9 @@ Für Mitglieder- und Delegiertenversammlungen von Vereinen, Verbänden und Gewer
 
 | Situation | Empfehlung |
 |---|---|
-| Präsenzversammlung, gemischtes Alter, viele Teilnehmer | Keypads (Interact Mini / Interact / Pro), offline |
-| Verteilte Mitglieder, Online-Teilnahme gewünscht | BYOPAD™ (Browser) |
-| Beides in derselben Versammlung | Hybrid: Keypads vor Ort plus BYOPAD™ |
+| Präsenzversammlung, gemischtes Alter, viele Teilnehmer | Keypads (Interact Mini / Interact / Pro), offline; bei komplexen Wahlen und Gewichtungen 4elections™ |
+| Verteilte Mitglieder, Online-Teilnahme gewünscht | BYOPAD™ (Browser) mit BoardARS™ |
+| Beides in derselben Versammlung | Hybrid: Keypads vor Ort plus BYOPAD™ (BoardARS™) |
 | Einmalige Versammlung, kein Kaufbedarf | Geräte mieten |
 
 Vorteile von Keypads: keine Ablenkung durch Smartphones, kein Internet nötig, einfache Bedienung, schnelle und fehlerarme Auszählung. Hinweis: Ob eine elektronische, hybride oder rein virtuelle Versammlung zulässig ist, richtet sich nach Gesetz und Satzung; das gehört in die Vorbereitung.
@@ -67,4 +67,4 @@ Es wird nur das Gesamtergebnis gespeichert, keine individuellen Stimmen.
 - Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · [Versammlung vorbereiten](../ratgeber/versammlung-vorbereiten-checkliste.md)
+Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) · [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · [Versammlung vorbereiten](../ratgeber/versammlung-vorbereiten-checkliste.md)

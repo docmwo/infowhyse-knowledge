@@ -47,7 +47,7 @@ Keypads are preferred for critical votes, weak networks, mixed audiences and to 
 
 ## Choosing a system
 
-- Formal voting? You need voting rights, proxies, weighted votes, majorities and reports: [BoardARS™ and 4elections™](../solutions/board-meetings-and-agms.md), [CouncilARS™](../solutions/council-voting.md).
+- Formal voting? You need voting rights, proxies, weighted votes, majorities and reports: [BoardARS™](../solutions/boardars-board-meetings.md) and [4elections™](../solutions/4elections-agms.md), [CouncilARS™](../solutions/council-voting.md).
 - Presentations and training? [EdiVote® 3.0](../solutions/education-and-training.md).
 - Remote participants? [BYOPAD™](../solutions/hybrid-voting-byopad.md).
 - Which keypad? [Keypad overview](../products/reply-keypads-overview.md).

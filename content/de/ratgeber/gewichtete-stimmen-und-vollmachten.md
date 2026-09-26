@@ -14,7 +14,7 @@ updated: 2026-09-26
 
 ## Kurzantwort
 
-**Gewichtete Stimmen** bedeuten, dass nicht jede Stimme den gleichen Wert hat, etwa nach Anteilen, Delegiertenzahlen oder gesetzlichen Vorgaben. **Vollmachten** berechtigen eine Person, das Stimmrecht einer anderen ganz oder teilweise auszuüben. Beides muss vor der Abstimmung eindeutig hinterlegt sein. Abstimmungssysteme wie 4elections™ und BoardARS™ verwalten Gewichte pro Abstimmgerät und weisen Stimmen dem Bevollmächtigten zu.
+**Gewichtete Stimmen** bedeuten, dass nicht jede Stimme den gleichen Wert hat, etwa nach Anteilen, Delegiertenzahlen oder gesetzlichen Vorgaben. **Vollmachten** berechtigen eine Person, das Stimmrecht einer anderen ganz oder teilweise auszuüben. Beides muss vor der Abstimmung eindeutig hinterlegt sein. Abstimmungssysteme verwalten Gewichte pro Abstimmgerät und weisen Stimmen dem Bevollmächtigten zu: BoardARS™ bildet eine Gewichtung ab, 4elections™ mehrere Gewichtungen.
 
 ## Gewichtete Stimmen
 
@@ -48,4 +48,4 @@ Vollmachten und Gewichte gehören in die Vorbereitung, nicht in die laufende Ver
 - Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
 - Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Mehrheiten und Quoren](mehrheiten-und-quoren.md) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)
+Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) · [Mehrheiten und Quoren](mehrheiten-und-quoren.md) · [Checkliste Vorbereitung](versammlung-vorbereiten-checkliste.md)

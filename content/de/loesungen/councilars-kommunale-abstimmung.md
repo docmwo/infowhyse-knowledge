@@ -44,7 +44,7 @@ Zum Thema Datenspeicherung und Livestream: [Praxisbeispiel Kommunalaufsicht Bran
 ## Lizenz und Service
 
 - Einmalkauf; die Softwarelizenz läuft nicht ab.
-- Neue Versionen und Support sind inklusive; Details zur Software-Maintenance (Updates, Support) auf Anfrage.
+- Updates, neue Versionen und Support sind im ersten Jahr enthalten; danach ist die Software-Maintenance optional. Die Lizenz bleibt auch ohne Maintenance uneingeschränkt nutzbar, es gibt dann keine weiteren Updates und keinen kostenfreien Support.
 - Kein Callcenter: Kunden haben einen direkten Ansprechpartner.
 - Handbuch und Versionshinweise sind öffentlich einsehbar.
 

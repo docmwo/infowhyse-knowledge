@@ -40,7 +40,7 @@ Bei einer hybriden Abstimmung stimmen Teilnehmer vor Ort mit **Reply® Interact*
 
 ## Welche Software?
 
-- Vereine, Verbände, Hauptversammlungen: [BoardARS™ und 4elections™](boardars-und-4elections.md)
+- Vereine, Verbände, Board Meetings: [BoardARS™](boardars-abstimmung-mitgliederversammlung.md). [4elections™](4elections-hauptversammlung-wahlen.md) arbeitet rein offline und ist nicht hybridfähig.
 - Kommunale Gremien: [CouncilARS™](councilars-kommunale-abstimmung.md)
 - Präsentationen und Schulungen: [EdiVote® 3.0](edivote-powerpoint-abstimmung.md)
 

@@ -43,7 +43,7 @@ Ja, mit Keypads für Präsenzteilnehmer und BYOPAD™ für Online-Teilnehmer. �
 ## Abstimmungsregeln
 
 **Können gewichtete Stimmen und Vollmachten abgebildet werden?**
-Ja, mit BoardARS™ und 4elections™. → [Gewichtete Stimmen und Vollmachten](ratgeber/gewichtete-stimmen-und-vollmachten.md)
+Ja. BoardARS™ bildet eine Gewichtung ab, 4elections™ mehrere Gewichtungen (nur offline). → [Gewichtete Stimmen und Vollmachten](ratgeber/gewichtete-stimmen-und-vollmachten.md)
 
 **Können geheime Abstimmungen durchgeführt werden?**
 Ja. Bei geheimen Abstimmungen wird nur das Gesamtergebnis gespeichert. Die rechtliche Zulässigkeit hängt vom Einsatzfall ab. → [Geheime und namentliche Abstimmung](ratgeber/geheime-und-namentliche-abstimmung.md)
@@ -67,7 +67,10 @@ Softwarelizenzen wie CouncilARS™ sind Einmalkäufe und laufen nicht ab. Update
 
 ## Branchen
 
-[Kommunen: Gemeinderat, Kreistag](branchen/kommunen-gemeinderat-kreistag.md) · [Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Hauptversammlungen und Genossenschaften](branchen/genossenschaften-und-hauptversammlungen.md) · [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [Schulung und Coaching](branchen/schulung-coaching-training.md) · [Bildung](branchen/bildung-schulen-hochschulen.md) · [TV und Events](branchen/tv-events-shows.md)
+Eine Übersicht mit Software- und Technikempfehlung je Einsatzfall finden Sie unter [Welches Abstimmungssystem für welche Branche?](branchen/uebersicht-branchen.md). Beispiele: [Kommunen](branchen/kommunen-gemeinderat-kreistag.md) · [Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Parteien](branchen/parteien-und-delegiertenversammlungen.md) · [Hauptversammlungen und Genossenschaften](branchen/genossenschaften-und-hauptversammlungen.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [TV und Events](branchen/tv-events-shows.md)
+
+**Kann ich eigene Software mit den Abstimmgeräten nutzen?**
+Ja, über den [VoteCollector](loesungen/votecollector-schnittstelle.md): Er wird per XML-RPC gesteuert und liefert Rohdaten zurück.
 
 ## Mehr Informationen
 

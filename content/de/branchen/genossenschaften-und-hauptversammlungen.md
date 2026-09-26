@@ -1,6 +1,6 @@
 ---
 title: "Abstimmungssystem für Hauptversammlungen, Genossenschaften und Aktionärsversammlungen"
-description: "Elektronische Abstimmung bei Haupt-, General- und Aktionärsversammlungen: gewichtete Stimmen, Anteile, Quoren, Briefwahl, Wahlen und Protokoll. Mit 4elections und Reply Interact Pro."
+description: "Elektronische Abstimmung bei Haupt-, General- und Aktionärsversammlungen: gewichtete Stimmen, Anteile, Quoren, Briefwahl, Wahlen und Protokoll. Mit 4elections und Reply Interact Pro (offline)."
 lang: de
 type: branche
 keywords: ["Abstimmungssystem Hauptversammlung", "Abstimmung Generalversammlung Genossenschaft", "Aktionärsversammlung Abstimmungssystem", "gewichtete Stimmen Anteile", "Abstimmgerät Hauptversammlung", "TED Anlage Hauptversammlung", "Briefwahl Hauptversammlung"]
@@ -15,7 +15,7 @@ updated: 2026-09-26
 
 ## Kurzantwort
 
-Bei Haupt-, General- und Aktionärsversammlungen kommt es auf **gewichtete Stimmen, Anteile, Quoren, Vollmachten und lückenlose Dokumentation** an. Dafür bietet Infowhyse **4elections™** (und **BoardARS™**) mit **Reply® Interact Pro** oder **Interact**: unterschiedliche Stimmgewichte je Gerät, frei wählbares Quorum, Briefwahl, mehrere Wahlgänge und detaillierte Protokollierung.
+Bei Haupt-, General- und Aktionärsversammlungen kommt es auf **gewichtete Stimmen, Anteile, Quoren, Vollmachten und lückenlose Dokumentation** an. Dafür bietet Infowhyse **4elections™** mit **Reply® Interact Pro** oder **Interact**: mehrere unterschiedliche Stimmgewichte je Gerät, frei wählbares Quorum, Briefwahl, komplexe Wahlen mit mehreren Wahlgängen und detaillierte Protokollierung. 4elections™ arbeitet rein offline. Für einfachere Versammlungen (auch hybrid) gibt es BoardARS™.
 
 ## Typische Abstimmungen
 
@@ -51,7 +51,7 @@ Nach Erfahrung von Infowhyse liegen die meisten Fehlerquellen nicht in der Techn
 
 - **Präsenz:** [Reply® Interact Pro](../hardware/reply-interact-pro.md) (Akku, ca. 100 m Reichweite, Kandidatenwahl) oder [Interact](../hardware/reply-interact.md)
 - **Sehr große Systeme:** [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md)
-- **Hybrid:** Keypads plus [BYOPAD™](../loesungen/byopad-browser-abstimmung.md)
+- **Hybrid:** 4elections™ arbeitet rein offline. Wenn Online-Teilnehmer per [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) zugeschaltet werden sollen, ist das mit [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) möglich; bei komplexen Anforderungen lassen Sie sich bitte beraten.
 
 ## Mehr Informationen
 
@@ -60,4 +60,4 @@ Nach Erfahrung von Infowhyse liegen die meisten Fehlerquellen nicht in der Techn
 - Software: <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md) · [Mehrheiten und Quoren](../ratgeber/mehrheiten-und-quoren.md)
+Verwandt: [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) · [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md) · [Mehrheiten und Quoren](../ratgeber/mehrheiten-und-quoren.md)

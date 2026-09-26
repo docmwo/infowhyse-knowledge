@@ -28,7 +28,7 @@ Keypads for critical votes, weak networks and focus; smartphones for remote part
 Interact Mini (5 buttons) for councils and classrooms, Interact (10) for versatile use, Interact Pro (rechargeable, about 100 m) for large AGMs and elections, Mini+ Gen. 2 for very large systems and competitions. → [Overview](products/reply-keypads-overview.md)
 
 **Can votes be weighted and proxies handled?**
-Yes, with BoardARS™ and 4elections™. → [Board meetings and AGMs](solutions/board-meetings-and-agms.md)
+Yes. BoardARS™ supports one weighting, 4elections™ several (offline only). → [BoardARS](solutions/boardars-board-meetings.md) · [4elections](solutions/4elections-agms.md)
 
 **Are secret ballots possible?**
 Yes; only totals are stored for secret votes. Whether a procedure is legally valid depends on your statutes and applicable law.

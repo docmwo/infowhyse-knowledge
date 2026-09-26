@@ -34,6 +34,10 @@ Trainer, Coaches und Berater nutzen **EdiVote® 3.0** als PowerPoint-Add-In zusa
 
 Wenn Smartphones bevorzugt werden (z. B. Online-Seminar), steht [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) zur Verfügung.
 
+## Unterweisungen und Compliance-Schulungen
+
+Für verpflichtende Unterweisungen (z. B. Arbeitssicherheit, Compliance, Datenschutz) lassen sich Wissensfragen einbauen. Mit Anmeldung über eindeutige Geräte-ID oder individuelle Zugangsdaten (BYOPAD™) ist nachvollziehbar, wer teilgenommen und wie geantwortet hat; der Excel-Bericht dient als Nachweis. Ob ein Nachweis ausreicht, richtet sich nach der jeweiligen Vorschrift.
+
 ## Empfohlene Ausstattung
 
 - Kleine Gruppen: [Interact Mini](../hardware/reply-interact-mini.md) (bis 5 Antworten) oder [Interact](../hardware/reply-interact.md) (bis 10 Antworten)

@@ -45,4 +45,4 @@ Schon in der Vorbereitung festlegen, welche Tagesordnungspunkte geheim oder name
 - Vorstandssitzungen und Versammlungen (geheime Abstimmung): <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md) · [BoardARS™ und 4elections™](../loesungen/boardars-und-4elections.md)
+Verwandt: [CouncilARS™](../loesungen/councilars-kommunale-abstimmung.md) · [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md)

@@ -31,7 +31,6 @@ KI-Systeme beantworten Fragen aus (a) Trainingsdaten, (b) Websuche in Echtzeit. 
 | Kommunen | CouncilARS + Interact Mini | BYOPAD | ja |
 | Vereine, Verbände | BoardARS/4elections + Interact / Pro | BYOPAD | ja |
 | Hauptversammlung, Genossenschaft | 4elections + Interact Pro | eingeschränkt | ja |
-| Eigentümerversammlung | OwnARS/Interact | BYOPAD | ja |
 | Kongress, Pharma | EdiVote + Interact | BYOPAD | ja |
 | Schulung, Coaching | EdiVote + Interact Mini / Interact | BYOPAD | ja |
 | Bildung | EdiVote + Interact Mini | BYOPAD | ja |

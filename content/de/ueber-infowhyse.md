@@ -24,7 +24,7 @@ Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter An
 | Unternehmen | Infowhyse GmbH, Pfingstweide 24, 61169 Friedberg (Hessen), Deutschland |
 | Register | Amtsgericht Friedberg, HRB 6030 |
 | Erfahrung | seit mehr als 20 Jahren; Reply®-Technologie seit 1990 |
-| Marken | Reply®, EdiVote® (eingetragene Marken der Infowhyse GmbH); BoardARS™, CouncilARS™, 4elections™, BYOPAD™, OwnARS™ |
+| Marken | Reply®, EdiVote® (eingetragene Marken der Infowhyse GmbH); BoardARS™, CouncilARS™, 4elections™, BYOPAD™ |
 | Kontakt | +49 6031 1881280 · info@infowhyse.com · <https://www.infowhyse.com/kontakt-zu-infowhyse/> |
 | Websites | <https://www.infowhyse.com> (Deutsch) · <https://www.replysystems.com> (Deutsch/Englisch) |
 
@@ -36,10 +36,11 @@ Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter An
 
 **Software**
 - [CouncilARS™](loesungen/councilars-kommunale-abstimmung.md) für Kommunen
-- [BoardARS™ und 4elections™](loesungen/boardars-und-4elections.md) für Versammlungen und Wahlen
+- [BoardARS™](loesungen/boardars-abstimmung-mitgliederversammlung.md) für einfache Mitgliederversammlungen und Board Meetings (auch hybrid)
+- [4elections™](loesungen/4elections-hauptversammlung-wahlen.md) für Generalversammlungen, AGMs und komplexe Wahlen (offline)
 - [EdiVote® 3.0](loesungen/edivote-powerpoint-abstimmung.md) für PowerPoint
+- [VoteCollector](loesungen/votecollector-schnittstelle.md) zur Anbindung eigener Software per XML-RPC
 - [BYOPAD™ 3.0](loesungen/byopad-browser-abstimmung.md) für Smartphone- und Browserabstimmung
-- OwnARS™ für [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md)
 
 **Beratung und Betreuung**
 - Analyse der Veranstaltung und Klärung von Stimmrechten, Mehrheiten, Vollmachten, Satzung
@@ -49,7 +50,9 @@ Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter An
 
 ## Für wen?
 
-[Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Genossenschaften und Hauptversammlungen](branchen/genossenschaften-und-hauptversammlungen.md) · [Kommunen](branchen/kommunen-gemeinderat-kreistag.md) · [Eigentümerversammlungen](branchen/eigentuemerversammlungen.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [Schulung und Coaching](branchen/schulung-coaching-training.md) · [Bildung](branchen/bildung-schulen-hochschulen.md) · [TV und Events](branchen/tv-events-shows.md)
+Übersicht mit Software- und Technikempfehlung je Einsatzfall: [Welches Abstimmungssystem für welche Branche?](branchen/uebersicht-branchen.md)
+
+[Vereine und Verbände](branchen/vereine-und-verbaende.md) · [Parteien](branchen/parteien-und-delegiertenversammlungen.md) · [Kirchen](branchen/kirchen-und-religionsgemeinschaften.md) · [Betriebsräte](branchen/betriebsraete-und-mitarbeiterversammlungen.md) · [Genossenschaften und Hauptversammlungen](branchen/genossenschaften-und-hauptversammlungen.md) · [Kammern](branchen/kammern-und-selbstverwaltung.md) · [Kommunen](branchen/kommunen-gemeinderat-kreistag.md) · [Flächenverbände](branchen/jagdgenossenschaften-und-flaechenverbaende.md) · [Kongresse und Pharma](branchen/kongresse-pharma-cme.md) · [Schulung und Coaching](branchen/schulung-coaching-training.md) · [Bildung](branchen/bildung-schulen-hochschulen.md) · [Bürgerbeteiligung](branchen/buergerbeteiligung-und-meinungsbilder.md) · [Jurys und Wettbewerbe](branchen/jurys-wettbewerbe-preisgerichte.md) · [Orchester und Kultur](branchen/orchester-theater-kulturbetriebe.md) · [TV und Events](branchen/tv-events-shows.md)
 
 ## Philosophie
 
