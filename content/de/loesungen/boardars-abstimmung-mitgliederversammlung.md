@@ -1,6 +1,6 @@
 ---
 title: "BoardARS™ – Abstimmungssoftware für Mitgliederversammlungen, Vorstandssitzungen und Vereine"
-description: "BoardARS: einfache Abstimmungen und Einzelwahlen (bis 5 Personen) mit Ausgabe des Abstimmverhaltens, offline mit Reply Interact Mini, online per BYOPAD oder hybrid. Für Vereine, Verbände, Board Meetings."
+description: "BoardARS: einfache Abstimmungen und Einzelwahlen (bis 5 Personen) mit Ausgabe des Abstimmverhaltens, offline mit Reply Interact Mini, online per BYOPAD™ oder hybrid. Für Vereine, Verbände, Board Meetings."
 lang: de
 type: loesung
 keywords: ["BoardARS", "Abstimmungssoftware Mitgliederversammlung", "Abstimmungssystem Verein", "Abstimmung Vorstandssitzung", "hybride Mitgliederversammlung", "Abstimmverhalten Protokoll", "Stimmrechtsverwaltung"]
@@ -8,7 +8,7 @@ website_url: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 website_urls:
   - https://www.replysystems.com/de/software-fuer-ted-abstimmungen/
   - https://www.replysystems.com/digitise-your-board-votes-board-meetings-and-agms-with-boardars/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # BoardARS™

@@ -7,14 +7,14 @@ keywords: ["VoteCollector", "XML-RPC Abstimmung", "Audience Response Schnittstel
 website_url: https://www.replysystems.com/production-audio-visual-companies/
 website_urls:
   - https://www.infowhyse.com/kontakt-zu-infowhyse/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # VoteCollector
 
 ## Kurzantwort
 
-Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits eigene Software** für Abstimmungen oder zur Produktion von Ausgaben (z. B. Grafiken für TV und Events) einsetzen. Er lässt sich per **XML-RPC** steuern und liefert die **Rohdaten** der Abstimmung zurück. Diese Daten können in der eigenen Software weiterverarbeitet, ausgewertet und dargestellt werden. So lassen sich Reply®-Abstimmgeräte in bestehende Produktionsumgebungen einbinden, ohne die eigene Software zu ersetzen. Unterstützt werden die **Reply® Interact Serie** (Interact Mini, Interact, Interact Pro) sowie **Reply® Plus** und **Reply® Mini+**.
+Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits eigene Software** für Abstimmungen oder zur Produktion von Ausgaben (z. B. Grafiken für TV und Events) einsetzen. Er lässt sich per **XML-RPC** steuern und liefert die **Rohdaten** der Abstimmung zurück. Diese Daten können in der eigenen Software weiterverarbeitet, ausgewertet und dargestellt werden. So lassen sich Reply®-Abstimmgeräte in bestehende Produktionsumgebungen einbinden, ohne die eigene Software zu ersetzen. Unterstützt werden die **Reply® Interact Serie** (Interact Mini, Interact, Interact Pro) sowie **Reply® Plus**.
 
 ## Für wen?
 
@@ -36,7 +36,7 @@ Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits
 |---|---|
 | Sie haben eigene Grafik-, Show- oder Abstimmungssoftware | VoteCollector |
 | Sie brauchen eigene Regeln, eigene Wertung, eigene Grafik | VoteCollector |
-| Sie wollen eine schlüsselfertige Lösung für Vortrag, Quiz oder Umfrage | [EdiVote® 3.0](edivote-powerpoint-abstimmung.md) |
+| Sie wollen eine schlüsselfertige Lösung für Vortrag, Quiz oder Umfrage | [EdiVote®](edivote-powerpoint-abstimmung.md) |
 | Formelle Abstimmung in Gremien oder Versammlungen | [CouncilARS™](councilars-kommunale-abstimmung.md), [BoardARS™](boardars-abstimmung-mitgliederversammlung.md), [4elections™](4elections-hauptversammlung-wahlen.md) |
 
 ## Unterstützte Geräte
@@ -47,9 +47,8 @@ Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits
 | [Reply® Interact](../hardware/reply-interact.md) | ja |
 | [Reply® Interact Pro](../hardware/reply-interact-pro.md) | ja |
 | Reply® Plus | ja |
-| [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md) | ja |
 
-Die Interact-Serie, Reply® Plus und Mini+ lassen sich auch gemischt betreiben.
+Die Interact-Serie und Reply® Plus lassen sich auch gemischt betreiben.
 
 ## Technische Details und Voraussetzungen
 

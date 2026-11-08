@@ -5,14 +5,14 @@ lang: en
 type: glossary
 keywords: ["audience response glossary", "keypad definition", "clicker definition", "hybrid voting definition", "quorum definition", "proxy vote definition"]
 website_url: https://www.replysystems.com/how-it-works/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Glossary
 
 **Audience response system (ARS):** system that collects and displays answers or votes from a group in real time. → [Guide](guides/audience-response-systems-guide.md)
 
-**BYOD / BYOPAD™:** participants use their own smartphone, tablet or laptop to vote. BYOPAD™ is Reply's browser-based tool. → [BYOPAD](solutions/hybrid-voting-byopad.md)
+**BYOD / BYOPAD™:** participants use their own smartphone, tablet or laptop to vote. BYOPAD™ is Reply's browser-based tool. → [BYOPAD™](solutions/hybrid-voting-byopad.md)
 
 **Clicker:** informal term for a voting keypad.
 

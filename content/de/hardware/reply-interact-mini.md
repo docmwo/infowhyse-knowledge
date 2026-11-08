@@ -7,7 +7,7 @@ keywords: ["Reply Interact Mini", "Abstimmgerät 5 Tasten", "Keypad Gemeinderat"
 website_url: https://www.replysystems.com/de/reply-interact-mini-de/
 website_urls:
   - https://www.infowhyse.com/abstimmgerate-von-reply/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Reply® Interact Mini
@@ -37,7 +37,7 @@ Hersteller-Kurzübersicht: Reply® Interact Mini IN1100.
 
 - **Kommunale Gremien:** Das Interact Mini ist das Standardgerät für CouncilARS™ (Gemeinderat, Stadtrat, Kreistag).
 - **Mitgliederversammlungen:** Mit BoardARS™ für Beschlüsse und Einzelwahlen bis 5 Personen; mit 4elections™ für komplexere Wahlen.
-- **Schulen, Hochschulen, Schulungen:** Quiz, Klassenumfragen und Wissensabfragen mit EdiVote® 3.0.
+- **Schulen, Hochschulen, Schulungen:** Quiz, Klassenumfragen und Wissensabfragen mit EdiVote®.
 - **Unternehmen:** einfache Meinungsbilder und Basisabstimmungen.
 
 Wenn mehr als 5 Antwortoptionen nötig sind, siehe [Reply® Interact](reply-interact.md) mit 10 Tasten.
@@ -57,7 +57,7 @@ Ja, siehe [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md)
 
 - Reply® Interact Mini bei Reply Systems: <https://www.replysystems.com/de/reply-interact-mini-de/>
 - Abstimmgeräte von Reply bei Infowhyse: <https://www.infowhyse.com/abstimmgerate-von-reply/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Angebot anfragen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.md)

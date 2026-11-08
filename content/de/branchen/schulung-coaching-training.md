@@ -1,21 +1,21 @@
 ---
 title: "Abstimmungssystem für Schulungen, Coaching, Workshops und Unternehmenspräsentationen"
-description: "Interaktive Abstimmungen für Trainer, Coaches und Berater: Live-Umfragen, Quiz, Gruppenauswertung und Excel-Berichte mit EdiVote und Reply Abstimmgeräten."
+description: "Interaktive Abstimmungen für Trainer, Coaches und Berater: Live-Umfragen, Quiz, Gruppenauswertung und Excel-Berichte mit EdiVote® und Reply Abstimmgeräten."
 lang: de
 type: branche
 keywords: ["Abstimmungssystem Schulung", "Clicker Training", "Audience Response Seminar", "Live Umfrage Workshop", "Quiz Schulung Keypad", "Feedbackrunde anonym", "Trainer Abstimmgeräte"]
 website_url: https://www.infowhyse.com/abstimmsystem-powerpoint/
 website_urls:
   - https://www.replysystems.com/de/edivote-pro-software/
-  - https://www.replysystems.com/de/abstimmgeraete-mieten/
-updated: 2026-09-26
+  - https://www.infowhyse.com/anfrage/
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Schulungen, Coaching und Workshops
 
 ## Kurzantwort
 
-Trainer, Coaches und Berater nutzen **EdiVote® 3.0** als PowerPoint-Add-In zusammen mit **Reply®-Abstimmgeräten** für Live-Umfragen, Wissensüberprüfungen, Quiz, Team- und Gruppenauswertungen. Excel-Berichte entstehen automatisch.
+Trainer, Coaches und Berater nutzen **EdiVote®** als PowerPoint-Add-In zusammen mit **Reply®-Abstimmgeräten** für Live-Umfragen, Wissensüberprüfungen, Quiz, Team- und Gruppenauswertungen. Excel-Berichte entstehen automatisch.
 
 ## Typische Einsatzfälle
 
@@ -42,11 +42,11 @@ Für verpflichtende Unterweisungen (z. B. Arbeitssicherheit, Compliance, Datensc
 
 - Kleine Gruppen: [Interact Mini](../hardware/reply-interact-mini.md) (bis 5 Antworten) oder [Interact](../hardware/reply-interact.md) (bis 10 Antworten)
 - Größere Gruppen: Geräte mieten je Termin
-- Software: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md); Hinweis: PowerPoint für Windows
+- Software: [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md); Hinweis: PowerPoint für Windows
 
 ## Mehr Informationen
 
 - PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
 - EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>

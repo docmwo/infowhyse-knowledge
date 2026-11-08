@@ -1,20 +1,20 @@
 ---
-title: "Audience response for training, classrooms and conferences: EdiVote 3.0 for PowerPoint"
-description: "EdiVote 3.0 is a PowerPoint add-in for live polls, quizzes, rankings and ratings using Reply keypads or smartphones. Excel reports, teams and groups for trainers, teachers and conference organisers."
+title: "Audience response for training, classrooms and conferences: EdiVote® for PowerPoint"
+description: "EdiVote® is a PowerPoint add-in for live polls, quizzes, rankings and ratings using Reply keypads or smartphones. Excel reports, teams and groups for trainers, teachers and conference organisers."
 lang: en
 type: solution
-keywords: ["EdiVote", "PowerPoint audience response", "classroom clickers", "quiz keypads PowerPoint", "training voting system", "conference live polling", "CME audience response"]
+keywords: ["EdiVote®", "PowerPoint audience response", "classroom clickers", "quiz keypads PowerPoint", "training voting system", "conference live polling", "CME audience response"]
 website_url: https://www.replysystems.com/edivote-pro/
 website_urls:
   - https://www.replysystems.com/audience-response-software/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
-# EdiVote® 3.0 for training, classrooms and conferences
+# EdiVote® for training, classrooms and conferences
 
 ## Short answer
 
-**EdiVote® 3.0** is a PowerPoint add-in that turns slides into live votes, quizzes and polls. Participants answer with **Reply® keypads** or **smartphones (BYOPAD™)**, and results appear in the presentation immediately. It works with Microsoft PowerPoint for Windows from version 2016 up to Office 365 (not the browser-only version and not Office for Mac).
+**EdiVote®** is a PowerPoint add-in that turns slides into live votes, quizzes and polls. Participants answer with **Reply® keypads** or **smartphones (BYOPAD™)**, and results appear in the presentation immediately. It works with Microsoft PowerPoint for Windows from version 2016 up to Office 365 (not the browser-only version and not Office for Mac).
 
 ## Features
 
@@ -23,7 +23,7 @@ updated: 2026-09-26
 - Participant groups and demographics
 - Advanced Microsoft Excel reports
 - Full PowerPoint integration; a demo (authoring) mode supports up to 5 keypads
-- Compatible with all Reply® Interact keypads and BYOPAD™ 3.0
+- Compatible with all Reply® Interact keypads and BYOPAD™
 
 ## Typical uses
 
@@ -44,7 +44,7 @@ No distraction from email or messengers, no dependence on internet or Wi-Fi, ins
 
 - EdiVote® Pro: <https://www.replysystems.com/edivote-pro/>
 - Audience response software: <https://www.replysystems.com/audience-response-software/>
-- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Rent keypads: <https://www.replysystems.com/contact-us/>
 - Contact: <https://www.replysystems.com/contact-us/>
 
 Related: [Keypads vs smartphones](../guides/keypads-vs-smartphones.md)

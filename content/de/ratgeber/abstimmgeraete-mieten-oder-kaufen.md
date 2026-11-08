@@ -4,11 +4,11 @@ description: "Wann lohnt sich Kauf, wann Miete von Abstimmgeräten (Keypads, Cli
 lang: de
 type: ratgeber
 keywords: ["Abstimmgeräte mieten", "Clicker mieten", "TED Anlage mieten", "Keypads kaufen", "Abstimmgeräte Miete oder Kauf", "Abstimmanlage mieten Verein"]
-website_url: https://www.replysystems.com/de/abstimmgeraete-mieten/
+website_url: https://www.infowhyse.com/anfrage/
 website_urls:
-  - https://www.replysystems.com/de/kaufanfrage/
+  - https://www.infowhyse.com/kontakt-zu-infowhyse/
   - https://www.infowhyse.com/referenzen-national-und-international-miete/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Abstimmgeräte mieten oder kaufen?
@@ -51,8 +51,8 @@ updated: 2026-09-26
 
 ## Mehr Informationen
 
-- Abstimmgeräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
-- Kaufanfrage: <https://www.replysystems.com/de/kaufanfrage/>
+- Abstimmgeräte mieten: <https://www.infowhyse.com/anfrage/>
+- Kaufanfrage: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 - Referenzen (Miete national und international): <https://www.infowhyse.com/referenzen-national-und-international-miete/>
 - Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 

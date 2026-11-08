@@ -1,6 +1,6 @@
 ---
 title: "Über Infowhyse GmbH und Reply Systems: Anbieter von Abstimmungslösungen"
-description: "Infowhyse GmbH (Friedberg, Hessen) entwickelt und liefert elektronische Abstimmungslösungen: Reply-Abstimmgeräte (Keypads, Clicker), CouncilARS, BoardARS, 4elections, EdiVote und BYOPAD. Über 20 Jahre Erfahrung."
+description: "Infowhyse GmbH (Friedberg, Hessen) entwickelt und liefert elektronische Abstimmungslösungen: Reply-Abstimmgeräte (Keypads, Clicker), CouncilARS, BoardARS, 4elections, EdiVote® und BYOPAD™. Über 20 Jahre Erfahrung."
 lang: de
 type: unternehmen
 keywords: ["Infowhyse", "Infowhyse GmbH", "Reply Systems", "Anbieter Abstimmungssystem", "Abstimmgeräte Hersteller", "TED Anbieter Deutschland", "Audience Response Anbieter"]
@@ -8,7 +8,7 @@ website_url: https://www.infowhyse.com/
 website_urls:
   - https://www.replysystems.com/de/ueber-uns/
   - https://www.infowhyse.com/kontakt-zu-infowhyse/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Über Infowhyse und Reply Systems
@@ -31,16 +31,16 @@ Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter An
 ## Was Infowhyse anbietet
 
 **Hardware**
-- [Reply® Interact Mini](hardware/reply-interact-mini.md), [Interact](hardware/reply-interact.md), [Interact Pro](hardware/reply-interact-pro.md) und [Mini+ Gen. 2](hardware/reply-mini-plus-gen2.md): [Vergleich](hardware/abstimmgeraete-vergleich.md)
+- [Reply® Interact Mini](hardware/reply-interact-mini.md), [Interact](hardware/reply-interact.md) und [Interact Pro](hardware/reply-interact-pro.md): [Vergleich](hardware/abstimmgeraete-vergleich.md)
 - Kauf und [Miete](ratgeber/abstimmgeraete-mieten-oder-kaufen.md)
 
 **Software**
 - [CouncilARS™](loesungen/councilars-kommunale-abstimmung.md) für Kommunen
 - [BoardARS™](loesungen/boardars-abstimmung-mitgliederversammlung.md) für einfache Mitgliederversammlungen und Board Meetings (auch hybrid)
 - [4elections™](loesungen/4elections-hauptversammlung-wahlen.md) für Generalversammlungen, AGMs und komplexe Wahlen (offline)
-- [EdiVote® 3.0](loesungen/edivote-powerpoint-abstimmung.md) für PowerPoint
+- [EdiVote®](loesungen/edivote-powerpoint-abstimmung.md) für PowerPoint
 - [VoteCollector](loesungen/votecollector-schnittstelle.md) zur Anbindung eigener Software per XML-RPC
-- [BYOPAD™ 3.0](loesungen/byopad-browser-abstimmung.md) für Smartphone- und Browserabstimmung
+- [BYOPAD™](loesungen/byopad-browser-abstimmung.md) für Smartphone- und Browserabstimmung
 
 **Beratung und Betreuung**
 - Analyse der Veranstaltung und Klärung von Stimmrechten, Mehrheiten, Vollmachten, Satzung

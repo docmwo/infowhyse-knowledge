@@ -7,7 +7,7 @@ keywords: ["FAQ Abstimmungssystem", "Was ist ein TED-System", "Abstimmung ohne I
 website_url: https://www.infowhyse.com/abstimmloesungen/
 website_urls:
   - https://www.infowhyse.com/kontakt-zu-infowhyse/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Häufige Fragen
@@ -32,10 +32,10 @@ Nein. Keypads brauchen keine App; BYOPAD™ läuft im Browser.
 Keypads bei kritischen Abstimmungen, schwachem Netz, gemischten Teilnehmern und wenn Ablenkung stört; Smartphone bei Online-Teilnehmern und kleineren Gruppen; hybrid bei gemischten Veranstaltungen. → [Keypad oder Smartphone](ratgeber/keypad-oder-smartphone.md)
 
 **Welches Abstimmgerät passt zu uns?**
-Interact Mini (5 Tasten) für Kommunen und einfache Abstimmungen, Interact (10 Tasten) für vielseitige Anwendungen, Interact Pro (Akku, ca. 100 m) für große Versammlungen und Wahlen, Mini+ Gen. 2 für sehr große Systeme und Wettbewerbe. → [Vergleich](hardware/abstimmgeraete-vergleich.md)
+Interact Mini (5 Tasten) für Kommunen und einfache Abstimmungen, Interact (10 Tasten) für vielseitige Anwendungen, Interact Pro (Akku, ca. 100 m) für große Versammlungen und Wahlen. → [Vergleich](hardware/abstimmgeraete-vergleich.md)
 
 **Wie viele Teilnehmer sind möglich?**
-Von wenigen bis zu mehreren tausend. Ein Mini+ System unterstützt laut Datenblatt bis zu 15.500 Geräte pro Raum.
+Die mögliche Teilnehmerzahl hängt von Geräten, Software und der Konfiguration ab. Lassen Sie die Kapazität für Ihre Veranstaltung prüfen.
 
 **Kann man Präsenz und Online in einer Abstimmung kombinieren?**
 Ja, mit Keypads für Präsenzteilnehmer und BYOPAD™ für Online-Teilnehmer. → [Hybride Abstimmung](loesungen/hybride-abstimmung.md)
@@ -57,7 +57,7 @@ Die Software liefert nachvollziehbare Ergebnisse und Protokolle. Ob das Verfahre
 ## Kosten und Bezug
 
 **Kann man Abstimmgeräte mieten?**
-Ja. → [Mieten oder kaufen](ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+Ja. → [Mieten oder kaufen](ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · <https://www.infowhyse.com/anfrage/>
 
 **Fallen laufende Lizenzkosten an?**
 Softwarelizenzen wie CouncilARS™ sind Einmalkäufe und laufen nicht ab. Updates und Support sind im ersten Jahr enthalten, danach ist die Software-Maintenance optional.

@@ -8,7 +8,7 @@ website_url: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 website_urls:
   - https://www.infowhyse.com/abstimmloesungen/
   - https://www.infowhyse.com/referenzen-national-und-international-miete/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Kirchen und Religionsgemeinschaften
@@ -42,7 +42,7 @@ Für Kirchengemeinderat, Pfarrgemeinderat, Kirchenvorstand, Gemeindeversammlung,
 ## Mehr Informationen
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Vereine und Verbände](vereine-und-verbaende.md)

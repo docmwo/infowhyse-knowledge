@@ -8,7 +8,7 @@ website_url: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 website_urls:
   - https://www.infowhyse.com/abstimmloesungen/
   - https://www.replysystems.com/de/software-fuer-ted-abstimmungen/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Hauptversammlungen und Genossenschaften
@@ -50,7 +50,6 @@ Nach Erfahrung von Infowhyse liegen die meisten Fehlerquellen nicht in der Techn
 ## Empfohlene Technik
 
 - **Präsenz:** [Reply® Interact Pro](../hardware/reply-interact-pro.md) (Akku, ca. 100 m Reichweite, Kandidatenwahl) oder [Interact](../hardware/reply-interact.md)
-- **Sehr große Systeme:** [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md)
 - **Hybrid:** 4elections™ arbeitet rein offline. Wenn Online-Teilnehmer per [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) zugeschaltet werden sollen, ist das mit [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) möglich; bei komplexen Anforderungen lassen Sie sich bitte beraten.
 
 ## Mehr Informationen

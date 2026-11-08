@@ -7,7 +7,7 @@ keywords: ["Glossar Abstimmung", "TED-System Bedeutung", "Audience Response Syst
 website_url: https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/
 website_urls:
   - https://www.replysystems.com/de/ted-systeme-und-clicker/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Glossar
@@ -50,7 +50,7 @@ updated: 2026-09-26
 
 ## L
 
-**Live Voting:** Abstimmung während einer laufenden Veranstaltung mit Ergebnis innerhalb weniger Sekunden, z. B. Kongress, Schulung, TV-Show. → [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md)
+**Live Voting:** Abstimmung während einer laufenden Veranstaltung mit Ergebnis innerhalb weniger Sekunden, z. B. Kongress, Schulung, TV-Show. → [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md)
 
 ## N
 

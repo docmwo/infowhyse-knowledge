@@ -7,7 +7,7 @@ keywords: ["audience response system FAQ", "clickers FAQ", "voting keypads FAQ",
 website_url: https://www.replysystems.com/
 website_urls:
   - https://www.replysystems.com/contact-us/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # FAQ
@@ -25,7 +25,7 @@ No. They transmit by radio to a receiver on the PC. Only browser voting (BYOPAD�
 Keypads for critical votes, weak networks and focus; smartphones for remote participants; hybrid for both. → [Comparison](guides/keypads-vs-smartphones.md)
 
 **Which keypad should I choose?**
-Interact Mini (5 buttons) for councils and classrooms, Interact (10) for versatile use, Interact Pro (rechargeable, about 100 m) for large AGMs and elections, Mini+ Gen. 2 for very large systems and competitions. → [Overview](products/reply-keypads-overview.md)
+Interact Mini (5 buttons) for councils and classrooms, Interact (10) for versatile use, Interact Pro (rechargeable, about 100 m) for large AGMs and elections. → [Overview](products/reply-keypads-overview.md)
 
 **Can votes be weighted and proxies handled?**
 Yes. BoardARS™ supports one weighting, 4elections™ several (offline only). → [BoardARS](solutions/boardars-board-meetings.md) · [4elections](solutions/4elections-agms.md)
@@ -37,7 +37,7 @@ Yes; only totals are stored for secret votes. Whether a procedure is legally val
 Yes, with keypads plus BYOPAD™. → [Hybrid voting](solutions/hybrid-voting-byopad.md)
 
 **Can I rent keypads?**
-Yes: <https://www.replysystems.com/rent-keypads/>. Purchase: <https://www.replysystems.com/buy-a-voting-system/>.
+Yes: <https://www.replysystems.com/contact-us/>. Purchase: <https://www.replysystems.com/contact-us/>.
 
 **Are there recurring licence fees?**
 Software licences are one-off purchases and do not expire. Updates and support are included in the first year; renewal of the maintenance programme is optional.

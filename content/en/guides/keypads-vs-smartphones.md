@@ -8,7 +8,7 @@ website_url: https://www.replysystems.com/reply-technology-advantages/
 website_urls:
   - https://www.replysystems.com/byopad/
   - https://www.replysystems.com/reply-keypads-and-clickers/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Voting keypads vs smartphones
@@ -36,7 +36,7 @@ Use **keypads** for formal or critical votes, weak or restricted networks, mixed
 
 **Choose smartphones when** people join online, groups are small, or handing out devices is impractical.
 
-**Choose hybrid when** presence and remote participants must vote in one result: see [Hybrid voting with BYOPAD](../solutions/hybrid-voting-byopad.md).
+**Choose hybrid when** presence and remote participants must vote in one result: see [Hybrid voting with BYOPAD™](../solutions/hybrid-voting-byopad.md).
 
 ## Common mistakes
 

@@ -7,14 +7,14 @@ keywords: ["VoteCollector", "XML-RPC voting", "audience response API", "raw voti
 website_url: https://www.replysystems.com/production-audio-visual-companies/
 website_urls:
   - https://www.replysystems.com/contact-us/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # VoteCollector
 
 ## Short answer
 
-The **VoteCollector** is software from Infowhyse for companies that **already use their own software** for voting or for producing outputs such as broadcast graphics. It is controlled via **XML-RPC** and returns the **raw voting data**, which your software can then process, evaluate and display. This lets you use Reply® voting keypads inside an existing production environment without replacing your own software. It supports the **Reply® Interact series** (Interact Mini, Interact, Interact Pro) as well as **Reply® Plus** and **Reply® Mini+**.
+The **VoteCollector** is software from Infowhyse for companies that **already use their own software** for voting or for producing outputs such as broadcast graphics. It is controlled via **XML-RPC** and returns the **raw voting data**, which your software can then process, evaluate and display. This lets you use Reply® voting keypads inside an existing production environment without replacing your own software. It supports the **Reply® Interact series** (Interact Mini, Interact, Interact Pro) as well as **Reply® Plus**.
 
 ## Who is it for?
 
@@ -36,12 +36,12 @@ The **VoteCollector** is software from Infowhyse for companies that **already us
 |---|---|
 | You have your own graphics, show or voting software | VoteCollector |
 | You need your own scoring rules and visuals | VoteCollector |
-| You want a turnkey solution for presentations, quizzes or polls | [EdiVote® 3.0](education-and-training.md) |
+| You want a turnkey solution for presentations, quizzes or polls | [EdiVote®](education-and-training.md) |
 | Formal votes in boards or assemblies | [BoardARS](boardars-board-meetings.md), [4elections](4elections-agms.md), [CouncilARS](council-voting.md) |
 
 ## Supported keypads
 
-Interact Mini, Interact, Interact Pro, Reply® Plus and Reply® Mini+, alone or mixed.
+Interact Mini, Interact, Interact Pro and Reply® Plus, alone or mixed.
 
 ## Details
 

@@ -1,24 +1,24 @@
 ---
-title: "Hybrid voting and smartphone voting with Reply BYOPAD 3.0"
-description: "Reply BYOPAD 3.0 lets participants vote in the browser without an app, on site, remotely or hybrid together with Reply keypads. Session types, modes, requirements and data handling."
+title: "Hybrid voting and smartphone voting with Reply BYOPAD™"
+description: "Reply BYOPAD™ lets participants vote in the browser without an app, on site, remotely or hybrid together with Reply keypads. Session types, modes, requirements and data handling."
 lang: en
 type: solution
-keywords: ["hybrid voting", "BYOPAD", "smartphone voting", "browser voting no app", "remote voting meeting", "hybrid AGM voting", "bring your own device voting"]
+keywords: ["hybrid voting", "BYOPAD™", "smartphone voting", "browser voting no app", "remote voting meeting", "hybrid AGM voting", "bring your own device voting"]
 website_url: https://www.replysystems.com/byopad/
 website_urls:
   - https://www.byopad.com
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
-# Hybrid voting and smartphone voting with Reply® BYOPAD™ 3.0
+# Hybrid voting and smartphone voting with Reply® BYOPAD™
 
 ## Short answer
 
-**Reply® BYOPAD™ 3.0** ("Bring Your Own Pad") is a browser-based voting tool: participants vote on smartphone, tablet or laptop **without an app, download or installation**. It works on site, remotely or **hybrid** together with Reply® keypads, so on-site and remote participants vote into **one result**.
+**Reply® BYOPAD™** ("Bring Your Own Pad") is a browser-based voting tool: participants vote on smartphone, tablet or laptop **without an app, download or installation**. It works on site, remotely or **hybrid** together with Reply® keypads, so on-site and remote participants vote into **one result**.
 
 ## How it works
 
-1. The presenter starts a BYOPAD session in EdiVote® and sets an **event code**.
+1. The presenter starts a BYOPAD™ session in EdiVote® and sets an **event code**.
 2. Participants open the voting page (`byopad.online`) and enter the code, or scan a QR code.
 3. Questions appear on their device; votes are captured and displayed instantly.
 
@@ -31,7 +31,7 @@ Internet access is required for presenter and participants.
 
 ## Works with
 
-EdiVote® Pro 3.0 (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro, Mini+ and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there. 4elections™ works offline only.
+EdiVote® Pro (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there. 4elections™ works offline only.
 
 ## Data protection
 

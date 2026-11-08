@@ -7,8 +7,8 @@ keywords: ["Abstimmungssystem Verein", "Abstimmungssystem Verband", "Mitgliederv
 website_url: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 website_urls:
   - https://www.infowhyse.com/referenzen-national-und-international-miete/
-  - https://www.replysystems.com/de/abstimmgeraete-mieten/
-updated: 2026-09-26
+  - https://www.infowhyse.com/anfrage/
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Vereine, Verbände und Gewerkschaften
@@ -55,7 +55,7 @@ Laut Infowhyse gehören unter anderem Sportverbände (z. B. Deutscher Schachbund
 Eines je stimmberechtigtem Teilnehmer bzw. je Delegiertem; bei Vollmachten kann ein Gerät mehrere Stimmen vertreten. Wir beraten anhand Ihrer Teilnehmerliste.
 
 **Können wir Geräte mieten?**
-Ja. <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+Ja. <https://www.infowhyse.com/anfrage/>
 
 **Was passiert bei geheimen Wahlen mit den Daten?**
 Es wird nur das Gesamtergebnis gespeichert, keine individuellen Stimmen.
@@ -64,7 +64,7 @@ Es wird nur das Gesamtergebnis gespeichert, keine individuellen Stimmen.
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Alle Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) · [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · [Versammlung vorbereiten](../ratgeber/versammlung-vorbereiten-checkliste.md)

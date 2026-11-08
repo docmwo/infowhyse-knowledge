@@ -8,7 +8,7 @@ website_url: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 website_urls:
   - https://www.infowhyse.com/abstimmloesungen/
   - https://www.ted-kaufen.de/digitale-abstimmungen/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Parteien und Delegiertenversammlungen
@@ -45,7 +45,7 @@ Für Parteitage, Kreis-, Orts- und Landesversammlungen sowie andere Delegiertenv
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Digitale Abstimmungen bei Mitgliederversammlungen (4elections): <https://www.ted-kaufen.de/digitale-abstimmungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Vereine und Verbände](vereine-und-verbaende.md) · [Geheime und namentliche Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md)

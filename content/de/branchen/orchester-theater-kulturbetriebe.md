@@ -7,7 +7,7 @@ keywords: ["Probespiel Jury Abstimmung", "Orchester Abstimmung", "Orchesterversa
 website_url: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 website_urls:
   - https://www.infowhyse.com/abstimmloesungen/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Orchester, Theater und Kulturbetriebe
@@ -35,13 +35,13 @@ Sinfonieorchester, Opernhäuser, Theater und andere Kulturbetriebe entscheiden r
 ## Empfohlene Technik
 
 - Wenige Jurymitglieder, geheime Einzelwahl unter bis zu 5 Personen: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) mit [Reply® Interact Mini](../hardware/reply-interact-mini.md)
-- Bewertungen mit Skala: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) mit [Interact](../hardware/reply-interact.md)
+- Bewertungen mit Skala: [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) mit [Interact](../hardware/reply-interact.md)
 - Orchesterversammlung: BoardARS™, Interact Mini oder Interact
 
 ## Mehr Informationen
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [Geheime und namentliche Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md)

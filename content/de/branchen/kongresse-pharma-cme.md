@@ -1,21 +1,21 @@
 ---
 title: "Abstimmungssystem für Kongresse, Pharma-Veranstaltungen und medizinische Fortbildung"
-description: "Interaktive Wissensabfragen, Publikumsvoting und Feedback bei Kongressen, Pharma-Events und CME-Fortbildungen mit EdiVote, Keypads und Smartphone-Voting."
+description: "Interaktive Wissensabfragen, Publikumsvoting und Feedback bei Kongressen, Pharma-Events und CME-Fortbildungen mit EdiVote®, Keypads und Smartphone-Voting."
 lang: de
 type: branche
 keywords: ["Abstimmungssystem Kongress", "Publikumsvoting Kongress", "Audience Response Pharma", "CME Fortbildung Abstimmung", "Clicker Kongress", "Live Voting Tagung", "Abstimmgeräte mieten Kongress"]
 website_url: https://www.infowhyse.com/abstimmsystem-powerpoint/
 website_urls:
   - https://www.replysystems.com/de/edivote-pro-software/
-  - https://www.replysystems.com/de/abstimmgeraete-mieten/
-updated: 2026-09-26
+  - https://www.infowhyse.com/anfrage/
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Kongresse, Pharma-Events und CME
 
 ## Kurzantwort
 
-Für Kongresse, Fachkonferenzen, Pharma-Veranstaltungen und CME-Fortbildungen (Continuing Medical Education) verbindet **EdiVote® 3.0** Live-Abfragen mit PowerPoint. Das Publikum antwortet per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Ergebnisse erscheinen sofort in der Präsentation und lassen sich als Excel-Bericht auswerten.
+Für Kongresse, Fachkonferenzen, Pharma-Veranstaltungen und CME-Fortbildungen (Continuing Medical Education) verbindet **EdiVote®** Live-Abfragen mit PowerPoint. Das Publikum antwortet per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Ergebnisse erscheinen sofort in der Präsentation und lassen sich als Excel-Bericht auswerten.
 
 ## Typische Einsatzzwecke
 
@@ -56,7 +56,7 @@ Empfehlung: bei Fachkongressen oft gemischt (Keypads im Saal, BYOPAD™ für Onl
 
 - PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
 - EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) · [TV und Live-Events](tv-events-shows.md)
+Verwandt: [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) · [TV und Live-Events](tv-events-shows.md)

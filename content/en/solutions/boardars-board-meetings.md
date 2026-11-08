@@ -1,13 +1,13 @@
 ---
 title: "BoardARS: voting software for board meetings, member meetings and associations"
-description: "BoardARS handles simple votes and single elections (up to 5 people) with voting behaviour reports, offline with Reply Interact Mini, online via BYOPAD or hybrid. For associations, member meetings and board meetings."
+description: "BoardARS handles simple votes and single elections (up to 5 people) with voting behaviour reports, offline with Reply Interact Mini, online via BYOPAD™ or hybrid. For associations, member meetings and board meetings."
 lang: en
 type: solution
 keywords: ["BoardARS", "board meeting voting software", "member meeting voting system", "association voting keypads", "hybrid member meeting voting", "voting rights administration"]
 website_url: https://www.replysystems.com/digitise-your-board-votes-board-meetings-and-agms-with-boardars/
 website_urls:
   - https://www.replysystems.com/audience-response-software/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # BoardARS™ for board meetings, member meetings and associations
@@ -37,7 +37,7 @@ For several different weightings, complex election modes, free quorums or electi
 
 - BoardARS™: <https://www.replysystems.com/digitise-your-board-votes-board-meetings-and-agms-with-boardars/>
 - Audience response software: <https://www.replysystems.com/audience-response-software/>
-- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Rent keypads: <https://www.replysystems.com/contact-us/>
 - Contact: <https://www.replysystems.com/contact-us/>
 
 Related: [Hybrid voting](hybrid-voting-byopad.md) · [Keypad overview](../products/reply-keypads-overview.md)

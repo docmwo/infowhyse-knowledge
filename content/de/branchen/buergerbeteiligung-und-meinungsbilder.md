@@ -8,14 +8,14 @@ website_url: https://www.infowhyse.com/abstimmsystem-powerpoint/
 website_urls:
   - https://www.infowhyse.com/hybride-abstimmungen/
   - https://www.replysystems.com/de/reply-byopad/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Bürgerbeteiligung und Meinungsbilder
 
 ## Kurzantwort
 
-Bei Bürgerversammlungen, Einwohnerversammlungen, Bürgerräten, Planungsworkshops und Bürgerdialogen machen **Live-Umfragen** Meinungen sofort sichtbar, ohne dass sich einzelne Personen exponieren müssen. Mit **EdiVote® 3.0** in PowerPoint stellen Moderatoren Fragen, die Anwesenden antworten anonym per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Die Ergebnisse erscheinen live und lassen sich **nach Gruppen** (z. B. Altersklasse oder Ortsteil) auswerten.
+Bei Bürgerversammlungen, Einwohnerversammlungen, Bürgerräten, Planungsworkshops und Bürgerdialogen machen **Live-Umfragen** Meinungen sofort sichtbar, ohne dass sich einzelne Personen exponieren müssen. Mit **EdiVote®** in PowerPoint stellen Moderatoren Fragen, die Anwesenden antworten anonym per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Die Ergebnisse erscheinen live und lassen sich **nach Gruppen** (z. B. Altersklasse oder Ortsteil) auswerten.
 
 ## Typische Einsatzfälle
 
@@ -37,7 +37,7 @@ Bei Bürgerversammlungen, Einwohnerversammlungen, Bürgerräten, Planungsworksho
 
 | Situation | Empfehlung |
 |---|---|
-| Präsenzveranstaltung, gemischtes Publikum | [Reply® Interact Mini](../hardware/reply-interact-mini.md) oder [Interact](../hardware/reply-interact.md) mit [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) |
+| Präsenzveranstaltung, gemischtes Publikum | [Reply® Interact Mini](../hardware/reply-interact-mini.md) oder [Interact](../hardware/reply-interact.md) mit [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) |
 | Online oder hybrid | [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
 | Große Veranstaltung mit vielen Gästen | Geräte mieten |
 

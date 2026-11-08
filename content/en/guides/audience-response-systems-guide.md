@@ -9,7 +9,7 @@ website_urls:
   - https://www.replysystems.com/reply-keypads-and-clickers/
   - https://www.replysystems.com/benefits/
   - https://www.replysystems.com/application/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # What is an audience response system (ARS)?
@@ -48,7 +48,7 @@ Keypads are preferred for critical votes, weak networks, mixed audiences and to 
 ## Choosing a system
 
 - Formal voting? You need voting rights, proxies, weighted votes, majorities and reports: [BoardARS™](../solutions/boardars-board-meetings.md) and [4elections™](../solutions/4elections-agms.md), [CouncilARS™](../solutions/council-voting.md).
-- Presentations and training? [EdiVote® 3.0](../solutions/education-and-training.md).
+- Presentations and training? [EdiVote®](../solutions/education-and-training.md).
 - Remote participants? [BYOPAD™](../solutions/hybrid-voting-byopad.md).
 - Which keypad? [Keypad overview](../products/reply-keypads-overview.md).
 
@@ -59,5 +59,5 @@ Keypads are preferred for critical votes, weak networks, mixed audiences and to 
 - Applications: <https://www.replysystems.com/application/>
 - Keypads and clickers: <https://www.replysystems.com/reply-keypads-and-clickers/>
 - Audience response software: <https://www.replysystems.com/audience-response-software/>
-- Rent keypads: <https://www.replysystems.com/rent-keypads/>
-- Buy a voting system: <https://www.replysystems.com/buy-a-voting-system/>
+- Rent keypads: <https://www.replysystems.com/contact-us/>
+- Buy a voting system: <https://www.replysystems.com/contact-us/>

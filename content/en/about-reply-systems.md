@@ -8,7 +8,7 @@ website_url: https://www.replysystems.com/about-us/
 website_urls:
   - https://www.replysystems.com/
   - https://www.infowhyse.com/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # About Reply Systems and Infowhyse
@@ -29,14 +29,14 @@ updated: 2026-09-26
 
 ## What is offered
 
-**Keypads:** [Reply® Interact Mini, Interact, Interact Pro and Mini+ Gen. 2](products/reply-keypads-overview.md)
+**Keypads:** [Reply® Interact Mini, Interact and Interact Pro](products/reply-keypads-overview.md)
 
 **Software**
 - [BoardARS™](solutions/boardars-board-meetings.md) for simple member meetings and board meetings (offline, online, hybrid)
 - [4elections™](solutions/4elections-agms.md) for AGMs, general meetings and complex elections (offline)
 - [CouncilARS™](solutions/council-voting.md) for councils and committees
-- [EdiVote® 3.0](solutions/education-and-training.md) for PowerPoint-based audience response, quizzes, training and education
-- [Reply® BYOPAD™ 3.0](solutions/hybrid-voting-byopad.md) for browser and smartphone voting
+- [EdiVote®](solutions/education-and-training.md) for PowerPoint-based audience response, quizzes, training and education
+- [Reply® BYOPAD™](solutions/hybrid-voting-byopad.md) for browser and smartphone voting
 - [VoteCollector](solutions/votecollector-xmlrpc.md) to connect your own software via XML-RPC (TV, events, integrators)
 
 **Service:** purchase and rental, preparation and testing, onsite support, personal contacts instead of a call centre.

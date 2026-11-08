@@ -1,20 +1,20 @@
 ---
-title: "EdiVote® 3.0 – Abstimmung und Quiz direkt in PowerPoint"
-description: "EdiVote® 3.0 ist ein PowerPoint-Add-In für Live-Umfragen, Quiz, Rankings und Bewertungen mit Reply®-Keypads oder Smartphones. Excel-Berichte, Teams, Gruppen. Für Vorträge, Schulungen, Kongresse, CME."
+title: "EdiVote® – Abstimmung und Quiz direkt in PowerPoint"
+description: "EdiVote® ist ein PowerPoint-Add-In für Live-Umfragen, Quiz, Rankings und Bewertungen mit Reply®-Keypads oder Smartphones. Excel-Berichte, Teams, Gruppen. Für Vorträge, Schulungen, Kongresse, CME."
 lang: de
 type: loesung
-keywords: ["EdiVote", "PowerPoint Abstimmung", "Abstimmsystem PowerPoint", "Live Voting Vortrag", "Quiz PowerPoint Keypad", "Audience Response PowerPoint"]
+keywords: ["EdiVote®", "PowerPoint Abstimmung", "Abstimmsystem PowerPoint", "Live Voting Vortrag", "Quiz PowerPoint Keypad", "Audience Response PowerPoint"]
 website_url: https://www.infowhyse.com/abstimmsystem-powerpoint/
 website_urls:
   - https://www.replysystems.com/de/edivote-pro-software/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
-# EdiVote® 3.0
+# EdiVote®
 
 ## Kurzantwort
 
-**EdiVote® 3.0** ist ein PowerPoint-Add-In von Infowhyse für interaktive Präsentationen. Fragen werden direkt in die Folien eingebaut; das Publikum antwortet per Reply®-Abstimmgerät oder Smartphone ([BYOPAD™](byopad-browser-abstimmung.md)), und die Ergebnisse erscheinen live in der Präsentation. Unterstützt wird Microsoft PowerPoint für Windows ab Version 2016 bis Office 365 (nicht die reine Browser-Variante und nicht Office für Mac).
+**EdiVote®** ist ein PowerPoint-Add-In von Infowhyse für interaktive Präsentationen. Fragen werden direkt in die Folien eingebaut; das Publikum antwortet per Reply®-Abstimmgerät oder Smartphone ([BYOPAD™](byopad-browser-abstimmung.md)), und die Ergebnisse erscheinen live in der Präsentation. Unterstützt wird Microsoft PowerPoint für Windows ab Version 2016 bis Office 365 (nicht die reine Browser-Variante und nicht Office für Mac).
 
 ## Funktionen
 
@@ -23,7 +23,7 @@ updated: 2026-09-26
 - **Teilnehmergruppen** und demografische Auswertung
 - **Erweiterte Microsoft-Excel-Berichte** mit Einblicken und Analysen
 - **Nahtlose Integration:** Fragen sind Folien; die Präsentation läuft wie gewohnt, ein Farbpunkt zeigt, ob die Abstimmung offen (grün) oder geschlossen (blau) ist
-- Kompatibel mit allen Reply® Interact-Geräten sowie [BYOPAD™](byopad-browser-abstimmung.md) 3.0
+- Kompatibel mit allen Reply® Interact-Geräten sowie [BYOPAD™](byopad-browser-abstimmung.md)
 - **Demo-Modus** (Authoring) mit bis zu 5 Keypads zum Ausprobieren
 
 ## Typische Einsatzfälle

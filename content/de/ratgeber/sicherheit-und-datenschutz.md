@@ -8,7 +8,7 @@ website_url: https://www.infowhyse.com/hybride-abstimmungen/
 website_urls:
   - https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/
   - https://www.infowhyse.com/digitale-abstimmung/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Sicherheit und Datenschutz bei elektronischen Abstimmungen
@@ -23,7 +23,6 @@ Bei Infowhyse laufen Präsenzabstimmungen per **verschlüsseltem Funk ohne Inter
 - **Kurze Reichweite:** das Signal wirkt im Wesentlichen nur im Veranstaltungsraum.
 - **Bestätigung an das Gerät:** Teilnehmer sehen, dass ihre Stimme angekommen ist.
 - **Ehrliche Einordnung:** Jede Verschlüsselung kann grundsätzlich mit genügend Aufwand gebrochen werden; das Ziel ist, Abfangen und Fälschen so schwer wie möglich zu machen.
-- **Reply® Mini+ Gen. 2:** Frequenzsprungverfahren (FHSS), Wi-Fi-Vermeidung, patentiertes Antwort-Verifizierungsprotokoll.
 
 ## Browserabstimmung (BYOPAD™)
 

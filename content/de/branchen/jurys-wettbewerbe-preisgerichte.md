@@ -8,14 +8,14 @@ website_url: https://www.infowhyse.com/abstimmsystem-powerpoint/
 website_urls:
   - https://www.infowhyse.com/abstimmloesungen/
   - https://www.replysystems.com/de/edivote-pro-software/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Jurys, Wettbewerbe und Preisgerichte
 
 ## Kurzantwort
 
-Jurys bewerten Beiträge, Kandidaten oder Projekte oft mit Punkten, Noten oder Rangfolgen und wollen das Ergebnis sofort, fair und dokumentiert. Mit **Reply®-Abstimmgeräten** und **EdiVote® 3.0** geben Jurymitglieder ihre Bewertung per Tastendruck ab, unabhängig voneinander und ohne Beeinflussung durch die anderen. EdiVote® unterstützt **Bewertungen, Rankings, Multiple Choice und freie numerische Eingabe**, wertet Gruppen aus und erzeugt Excel-Berichte. Für individuelle Wertungsregeln oder eigene Grafik gibt es den [VoteCollector](../loesungen/votecollector-schnittstelle.md).
+Jurys bewerten Beiträge, Kandidaten oder Projekte oft mit Punkten, Noten oder Rangfolgen und wollen das Ergebnis sofort, fair und dokumentiert. Mit **Reply®-Abstimmgeräten** und **EdiVote®** geben Jurymitglieder ihre Bewertung per Tastendruck ab, unabhängig voneinander und ohne Beeinflussung durch die anderen. EdiVote® unterstützt **Bewertungen, Rankings, Multiple Choice und freie numerische Eingabe**, wertet Gruppen aus und erzeugt Excel-Berichte. Für individuelle Wertungsregeln oder eigene Grafik gibt es den [VoteCollector](../loesungen/votecollector-schnittstelle.md).
 
 ## Typische Einsatzfälle
 
@@ -48,7 +48,7 @@ Jurys bewerten Beiträge, Kandidaten oder Projekte oft mit Punkten, Noten oder R
 
 - PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
 - EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [TV und Live-Events](tv-events-shows.md) · [Orchester und Kulturbetriebe](orchester-theater-kulturbetriebe.md) · [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md)
+Verwandt: [TV und Live-Events](tv-events-shows.md) · [Orchester und Kulturbetriebe](orchester-theater-kulturbetriebe.md) · [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md)

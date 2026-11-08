@@ -1,20 +1,20 @@
 ---
 title: "Welches Abstimmungssystem für welche Branche? Übersicht nach Einsatzfall"
-description: "Wegweiser: Für Vereine, Parteien, Kirchen, Kommunen, Hauptversammlungen, Betriebsräte, Kongresse, Bildung, Jurys, TV und weitere Einsatzfälle die passende Software (BoardARS, 4elections, CouncilARS, EdiVote, VoteCollector) und Technik (Keypads, BYOPAD, hybrid)."
+description: "Wegweiser: Für Vereine, Parteien, Kirchen, Kommunen, Hauptversammlungen, Betriebsräte, Kongresse, Bildung, Jurys, TV und weitere Einsatzfälle die passende Software (BoardARS, 4elections, CouncilARS, EdiVote®, VoteCollector) und Technik (Keypads, BYOPAD™, hybrid)."
 lang: de
 type: branche
 keywords: ["Abstimmungssystem Branchen", "welches Abstimmungssystem", "Abstimmungssoftware Einsatzgebiete", "Abstimmgeräte Anwendungsbereiche", "TED-System Einsatzgebiete", "Audience Response Anwendungen"]
 website_url: https://www.infowhyse.com/abstimmloesungen/
 website_urls:
   - https://www.replysystems.com/application/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Welches Abstimmungssystem für welche Branche?
 
 ## Kurzantwort
 
-Formelle Abstimmungen und Wahlen (Versammlungen, Gremien) laufen mit **BoardARS™**, **4elections™** oder **CouncilARS™**. Präsentationen, Quiz, Bewertungen und Live-Umfragen laufen mit **EdiVote® 3.0**. Produktionen mit eigener Software nutzen den **VoteCollector**. Als Eingabe dienen **Reply®-Keypads** (offline), **BYOPAD™** (Browser) oder beides (hybrid). Die Tabelle zeigt, was für welchen Einsatzfall passt.
+Formelle Abstimmungen und Wahlen (Versammlungen, Gremien) laufen mit **BoardARS™**, **4elections™** oder **CouncilARS™**. Präsentationen, Quiz, Bewertungen und Live-Umfragen laufen mit **EdiVote®**. Produktionen mit eigener Software nutzen den **VoteCollector**. Als Eingabe dienen **Reply®-Keypads** (offline), **BYOPAD™** (Browser) oder beides (hybrid). Die Tabelle zeigt, was für welchen Einsatzfall passt.
 
 ## Formelle Abstimmungen und Wahlen
 
@@ -34,16 +34,16 @@ Formelle Abstimmungen und Wahlen (Versammlungen, Gremien) laufen mit **BoardARS�
 
 | Einsatzfall | Software | Technik | Seite |
 |---|---|---|---|
-| Kongresse, Pharma, CME | EdiVote® 3.0 | Interact, BYOPAD™ | [Kongresse](kongresse-pharma-cme.md) |
-| Schulung, Coaching, Workshops | EdiVote® 3.0 | Interact Mini / Interact | [Schulung](schulung-coaching-training.md) |
-| Schule, Hochschule | EdiVote® 3.0 | Interact Mini | [Bildung](bildung-schulen-hochschulen.md) |
-| Bürgerbeteiligung, Einwohnerversammlungen | EdiVote® 3.0 | Keypads oder BYOPAD™ | [Bürgerbeteiligung](buergerbeteiligung-und-meinungsbilder.md) |
-| Jurys, Wettbewerbe, Awards | EdiVote® 3.0, VoteCollector | Interact, Mini+ | [Jurys](jurys-wettbewerbe-preisgerichte.md) |
-| TV, Shows, Live-Events | EdiVote® 3.0 oder VoteCollector | Mini+ / Interact | [TV und Events](tv-events-shows.md) |
+| Kongresse, Pharma, CME | EdiVote® | Interact, BYOPAD™ | [Kongresse](kongresse-pharma-cme.md) |
+| Schulung, Coaching, Workshops | EdiVote® | Interact Mini / Interact | [Schulung](schulung-coaching-training.md) |
+| Schule, Hochschule | EdiVote® | Interact Mini | [Bildung](bildung-schulen-hochschulen.md) |
+| Bürgerbeteiligung, Einwohnerversammlungen | EdiVote® | Keypads oder BYOPAD™ | [Bürgerbeteiligung](buergerbeteiligung-und-meinungsbilder.md) |
+| Jurys, Wettbewerbe, Awards | EdiVote®, VoteCollector | Interact | [Jurys](jurys-wettbewerbe-preisgerichte.md) |
+| TV, Shows, Live-Events | EdiVote® oder VoteCollector | Interact | [TV und Events](tv-events-shows.md) |
 
 ## Wie Sie entscheiden
 
-1. **Formell oder informell?** Beschlüsse und Wahlen brauchen Stimmrechte, Mehrheiten und Protokoll (BoardARS™, 4elections™, CouncilARS™). Umfragen und Quiz brauchen Interaktion (EdiVote® 3.0).
+1. **Formell oder informell?** Beschlüsse und Wahlen brauchen Stimmrechte, Mehrheiten und Protokoll (BoardARS™, 4elections™, CouncilARS™). Umfragen und Quiz brauchen Interaktion (EdiVote®).
 2. **Wie komplex ist die Regel?** Eine Gewichtung und Einzelwahl bis 5 Personen: BoardARS™. Mehrere Gewichtungen, komplexe Wahlen, freie Quoren: 4elections™.
 3. **Wo sind die Teilnehmer?** Vor Ort: Keypads (offline). Verteilt oder online: BYOPAD™. Beides: hybrid mit BoardARS™, CouncilARS™ oder EdiVote®.
 4. **Eigene Software vorhanden?** Dann den [VoteCollector](../loesungen/votecollector-schnittstelle.md) per XML-RPC anbinden.

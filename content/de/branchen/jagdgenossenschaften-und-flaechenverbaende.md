@@ -7,7 +7,7 @@ keywords: ["Jagdgenossenschaft Abstimmung", "Jagdgenossenschaftsversammlung Abst
 website_url: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 website_urls:
   - https://www.infowhyse.com/abstimmloesungen/
-updated: 2026-09-26
+updated: 2026-11-08
 ---
 
 # Abstimmungssystem für Jagdgenossenschaften und Flächenverbände
@@ -35,7 +35,7 @@ Empfohlene Geräte: [Reply® Interact Mini](../hardware/reply-interact-mini.md) 
 ## Mehr Informationen
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md)
