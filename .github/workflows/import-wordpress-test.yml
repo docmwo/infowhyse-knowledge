@@ -1,0 +1,41 @@
+name: Test WordPress Import
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Prüfen oder alle deutschen Artikel als Entwürfe importieren'
+        required: true
+        default: dry-run
+        type: choice
+        options:
+          - dry-run
+          - apply
+
+permissions:
+  contents: read
+
+concurrency:
+  group: wordpress-wissen-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install Markdown and YAML converters
+        run: python -m pip install markdown PyYAML
+      - name: Prüfen oder Entwürfe importieren
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          WP_USER: github-publisher
+          IMPORT_MODE: ${{ inputs.mode }}
+        run: |
+          case "$IMPORT_MODE" in
+            dry-run) python scripts/import_wordpress.py --dry-run ;;
+            apply) python scripts/import_wordpress.py --apply ;;
+            *) echo "Unbekannter Importmodus"; exit 1 ;;
+          esac

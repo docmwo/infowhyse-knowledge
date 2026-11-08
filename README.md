@@ -17,8 +17,8 @@ Herausgeber / Publisher: [Infowhyse GmbH](https://www.infowhyse.com) (Deutsch) �
 | Ordner | Inhalt |
 |---|---|
 | [`content/de/branchen`](content/de/branchen) | Für wen: Vereine, Genossenschaften/Hauptversammlungen, Kommunen, Eigentümer, Kongresse, Schulung, Bildung, TV/Events |
-| [`content/de/loesungen`](content/de/loesungen) | Was: CouncilARS, BoardARS/4elections, EdiVote, BYOPAD, Hybrid, Offline (TED) |
-| [`content/de/hardware`](content/de/hardware) | Reply Interact Mini, Interact, Interact Pro, Mini+ Gen. 2 und Vergleich |
+| [`content/de/loesungen`](content/de/loesungen) | Was: CouncilARS, BoardARS/4elections, EdiVote®, BYOPAD™, Hybrid, Offline (TED) |
+| [`content/de/hardware`](content/de/hardware) | Reply Interact Mini, Interact, Interact Pro und Vergleich |
 | [`content/de/ratgeber`](content/de/ratgeber) | Keypad oder Smartphone, mieten oder kaufen, Checklisten, Mehrheiten, Vollmachten, Sicherheit |
 | [`content/de/begriffe`](content/de/begriffe) · [`faq.md`](content/de/faq.md) | Glossar und häufige Fragen |
 | [`content/en`](content/en) | Englische Inhalte für Reply Systems |

@@ -45,7 +45,7 @@ Quelle / Source: https://www.infowhyse.com/funktionsweise-der-ted-abstimmungen/
 
 ## L
 
-**Live Voting:** Abstimmung während einer laufenden Veranstaltung mit Ergebnis innerhalb weniger Sekunden, z. B. Kongress, Schulung, TV-Show. → [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md)
+**Live Voting:** Abstimmung während einer laufenden Veranstaltung mit Ergebnis innerhalb weniger Sekunden, z. B. Kongress, Schulung, TV-Show. → [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md)
 
 ## N
 
@@ -80,7 +80,7 @@ Quelle / Source: https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/
 
 ## Kurzantwort
 
-Für Betriebsrats- und Personalratssitzungen, Betriebs- und Personalversammlungen sowie Mitarbeiterversammlungen eignet sich **BoardARS™** mit **Reply®-Abstimmgeräten** für Beschlüsse und Anträge, und **EdiVote® 3.0** für anonyme Stimmungsbilder und Live-Umfragen in Präsentationen. Beide funktionieren ohne Internet, was auch bei Werksgelände- und Firmennetzen mit Beschränkungen praktisch ist. Standorte lassen sich per BYOPAD™ zuschalten.
+Für Betriebsrats- und Personalratssitzungen, Betriebs- und Personalversammlungen sowie Mitarbeiterversammlungen eignet sich **BoardARS™** mit **Reply®-Abstimmgeräten** für Beschlüsse und Anträge, und **EdiVote®** für anonyme Stimmungsbilder und Live-Umfragen in Präsentationen. Beide funktionieren ohne Internet, was auch bei Werksgelände- und Firmennetzen mit Beschränkungen praktisch ist. Standorte lassen sich per BYOPAD™ zuschalten.
 
 ## Typische Einsatzfälle
 
@@ -104,7 +104,7 @@ Für Betriebsrats- und Personalratssitzungen, Betriebs- und Personalversammlunge
 |---|---|
 | Sitzung mit Beschlüssen | [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) mit [Interact Mini](../hardware/reply-interact-mini.md) |
 | Betriebsversammlung mit Anträgen | BoardARS™ mit Interact oder Interact Pro |
-| Live-Stimmungsbild in der Präsentation | [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) |
+| Live-Stimmungsbild in der Präsentation | [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) |
 | Mehrere Standorte | BoardARS™ mit [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
 
 ## Mehr Informationen
@@ -123,7 +123,7 @@ Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
 
 ## Kurzantwort
 
-Mit **EdiVote® 3.0** (PowerPoint-Add-In) und **Reply® Interact Mini** (5 Tasten) stellen Lehrende Quizfragen, Klassenumfragen und Lernspiele, die die Klasse sofort per Tastendruck beantwortet. Die Ergebnisse erscheinen direkt, und Berichte zeigen, welche Themen wiederholt werden sollten. Alternativ stimmen Lernende per Smartphone mit BYOPAD™ ab (Online- und Präsenzunterricht).
+Mit **EdiVote®** (PowerPoint-Add-In) und **Reply® Interact Mini** (5 Tasten) stellen Lehrende Quizfragen, Klassenumfragen und Lernspiele, die die Klasse sofort per Tastendruck beantwortet. Die Ergebnisse erscheinen direkt, und Berichte zeigen, welche Themen wiederholt werden sollten. Alternativ stimmen Lernende per Smartphone mit BYOPAD™ ab (Online- und Präsenzunterricht).
 
 ## Einsatzmöglichkeiten
 
@@ -145,7 +145,7 @@ Mit **EdiVote® 3.0** (PowerPoint-Add-In) und **Reply® Interact Mini** (5 Taste
 
 - PowerPoint für Windows (2016, 2019, Office 365; keine Browser-Version, nicht Mac)
 - Empfänger (Basisstation) und ein Set Reply® Interact Mini
-- EdiVote® 3.0 installiert und registriert
+- EdiVote® installiert und registriert
 
 ## Mehr Informationen
 
@@ -154,7 +154,7 @@ Mit **EdiVote® 3.0** (PowerPoint-Add-In) und **Reply® Interact Mini** (5 Taste
 - Geräte im Überblick: <https://www.infowhyse.com/abstimmgerate-von-reply/>
 - Beratung und Angebot: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) · [Reply® Interact Mini](../hardware/reply-interact-mini.md)
+Verwandt: [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) · [Reply® Interact Mini](../hardware/reply-interact-mini.md)
 
 ---
 
@@ -164,7 +164,7 @@ Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
 
 ## Kurzantwort
 
-Bei Bürgerversammlungen, Einwohnerversammlungen, Bürgerräten, Planungsworkshops und Bürgerdialogen machen **Live-Umfragen** Meinungen sofort sichtbar, ohne dass sich einzelne Personen exponieren müssen. Mit **EdiVote® 3.0** in PowerPoint stellen Moderatoren Fragen, die Anwesenden antworten anonym per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Die Ergebnisse erscheinen live und lassen sich **nach Gruppen** (z. B. Altersklasse oder Ortsteil) auswerten.
+Bei Bürgerversammlungen, Einwohnerversammlungen, Bürgerräten, Planungsworkshops und Bürgerdialogen machen **Live-Umfragen** Meinungen sofort sichtbar, ohne dass sich einzelne Personen exponieren müssen. Mit **EdiVote®** in PowerPoint stellen Moderatoren Fragen, die Anwesenden antworten anonym per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Die Ergebnisse erscheinen live und lassen sich **nach Gruppen** (z. B. Altersklasse oder Ortsteil) auswerten.
 
 ## Typische Einsatzfälle
 
@@ -186,7 +186,7 @@ Bei Bürgerversammlungen, Einwohnerversammlungen, Bürgerräten, Planungsworksho
 
 | Situation | Empfehlung |
 |---|---|
-| Präsenzveranstaltung, gemischtes Publikum | [Reply® Interact Mini](../hardware/reply-interact-mini.md) oder [Interact](../hardware/reply-interact.md) mit [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) |
+| Präsenzveranstaltung, gemischtes Publikum | [Reply® Interact Mini](../hardware/reply-interact-mini.md) oder [Interact](../hardware/reply-interact.md) mit [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) |
 | Online oder hybrid | [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
 | Große Veranstaltung mit vielen Gästen | Geräte mieten |
 
@@ -244,7 +244,6 @@ Nach Erfahrung von Infowhyse liegen die meisten Fehlerquellen nicht in der Techn
 ## Empfohlene Technik
 
 - **Präsenz:** [Reply® Interact Pro](../hardware/reply-interact-pro.md) (Akku, ca. 100 m Reichweite, Kandidatenwahl) oder [Interact](../hardware/reply-interact.md)
-- **Sehr große Systeme:** [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md)
 - **Hybrid:** 4elections™ arbeitet rein offline. Wenn Online-Teilnehmer per [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) zugeschaltet werden sollen, ist das mit [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) möglich; bei komplexen Anforderungen lassen Sie sich bitte beraten.
 
 ## Mehr Informationen
@@ -285,7 +284,7 @@ Empfohlene Geräte: [Reply® Interact Mini](../hardware/reply-interact-mini.md) 
 ## Mehr Informationen
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Gewichtete Stimmen und Vollmachten](../ratgeber/gewichtete-stimmen-und-vollmachten.md)
@@ -298,7 +297,7 @@ Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
 
 ## Kurzantwort
 
-Jurys bewerten Beiträge, Kandidaten oder Projekte oft mit Punkten, Noten oder Rangfolgen und wollen das Ergebnis sofort, fair und dokumentiert. Mit **Reply®-Abstimmgeräten** und **EdiVote® 3.0** geben Jurymitglieder ihre Bewertung per Tastendruck ab, unabhängig voneinander und ohne Beeinflussung durch die anderen. EdiVote® unterstützt **Bewertungen, Rankings, Multiple Choice und freie numerische Eingabe**, wertet Gruppen aus und erzeugt Excel-Berichte. Für individuelle Wertungsregeln oder eigene Grafik gibt es den [VoteCollector](../loesungen/votecollector-schnittstelle.md).
+Jurys bewerten Beiträge, Kandidaten oder Projekte oft mit Punkten, Noten oder Rangfolgen und wollen das Ergebnis sofort, fair und dokumentiert. Mit **Reply®-Abstimmgeräten** und **EdiVote®** geben Jurymitglieder ihre Bewertung per Tastendruck ab, unabhängig voneinander und ohne Beeinflussung durch die anderen. EdiVote® unterstützt **Bewertungen, Rankings, Multiple Choice und freie numerische Eingabe**, wertet Gruppen aus und erzeugt Excel-Berichte. Für individuelle Wertungsregeln oder eigene Grafik gibt es den [VoteCollector](../loesungen/votecollector-schnittstelle.md).
 
 ## Typische Einsatzfälle
 
@@ -331,10 +330,10 @@ Jurys bewerten Beiträge, Kandidaten oder Projekte oft mit Punkten, Noten oder R
 
 - PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
 - EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [TV und Live-Events](tv-events-shows.md) · [Orchester und Kulturbetriebe](orchester-theater-kulturbetriebe.md) · [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md)
+Verwandt: [TV und Live-Events](tv-events-shows.md) · [Orchester und Kulturbetriebe](orchester-theater-kulturbetriebe.md) · [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md)
 
 ---
 
@@ -412,7 +411,7 @@ Für Kirchengemeinderat, Pfarrgemeinderat, Kirchenvorstand, Gemeindeversammlung,
 ## Mehr Informationen
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Vereine und Verbände](vereine-und-verbaende.md)
@@ -478,7 +477,7 @@ Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
 
 ## Kurzantwort
 
-Für Kongresse, Fachkonferenzen, Pharma-Veranstaltungen und CME-Fortbildungen (Continuing Medical Education) verbindet **EdiVote® 3.0** Live-Abfragen mit PowerPoint. Das Publikum antwortet per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Ergebnisse erscheinen sofort in der Präsentation und lassen sich als Excel-Bericht auswerten.
+Für Kongresse, Fachkonferenzen, Pharma-Veranstaltungen und CME-Fortbildungen (Continuing Medical Education) verbindet **EdiVote®** Live-Abfragen mit PowerPoint. Das Publikum antwortet per **Reply®-Keypad** oder **Smartphone (BYOPAD™)**. Ergebnisse erscheinen sofort in der Präsentation und lassen sich als Excel-Bericht auswerten.
 
 ## Typische Einsatzzwecke
 
@@ -519,10 +518,10 @@ Empfehlung: bei Fachkongressen oft gemischt (Keypads im Saal, BYOPAD™ für Onl
 
 - PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
 - EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Verwandt: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) · [TV und Live-Events](tv-events-shows.md)
+Verwandt: [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) · [TV und Live-Events](tv-events-shows.md)
 
 ---
 
@@ -553,13 +552,13 @@ Sinfonieorchester, Opernhäuser, Theater und andere Kulturbetriebe entscheiden r
 ## Empfohlene Technik
 
 - Wenige Jurymitglieder, geheime Einzelwahl unter bis zu 5 Personen: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) mit [Reply® Interact Mini](../hardware/reply-interact-mini.md)
-- Bewertungen mit Skala: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) mit [Interact](../hardware/reply-interact.md)
+- Bewertungen mit Skala: [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) mit [Interact](../hardware/reply-interact.md)
 - Orchesterversammlung: BoardARS™, Interact Mini oder Interact
 
 ## Mehr Informationen
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [Geheime und namentliche Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md)
@@ -602,7 +601,7 @@ Für Parteitage, Kreis-, Orts- und Landesversammlungen sowie andere Delegiertenv
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Digitale Abstimmungen bei Mitgliederversammlungen (4elections): <https://www.ted-kaufen.de/digitale-abstimmungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [Vereine und Verbände](vereine-und-verbaende.md) · [Geheime und namentliche Abstimmung](../ratgeber/geheime-und-namentliche-abstimmung.md)
@@ -615,7 +614,7 @@ Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
 
 ## Kurzantwort
 
-Trainer, Coaches und Berater nutzen **EdiVote® 3.0** als PowerPoint-Add-In zusammen mit **Reply®-Abstimmgeräten** für Live-Umfragen, Wissensüberprüfungen, Quiz, Team- und Gruppenauswertungen. Excel-Berichte entstehen automatisch.
+Trainer, Coaches und Berater nutzen **EdiVote®** als PowerPoint-Add-In zusammen mit **Reply®-Abstimmgeräten** für Live-Umfragen, Wissensüberprüfungen, Quiz, Team- und Gruppenauswertungen. Excel-Berichte entstehen automatisch.
 
 ## Typische Einsatzfälle
 
@@ -642,13 +641,13 @@ Für verpflichtende Unterweisungen (z. B. Arbeitssicherheit, Compliance, Datensc
 
 - Kleine Gruppen: [Interact Mini](../hardware/reply-interact-mini.md) (bis 5 Antworten) oder [Interact](../hardware/reply-interact.md) (bis 10 Antworten)
 - Größere Gruppen: Geräte mieten je Termin
-- Software: [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md); Hinweis: PowerPoint für Windows
+- Software: [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md); Hinweis: PowerPoint für Windows
 
 ## Mehr Informationen
 
 - PowerPoint-Abstimmung: <https://www.infowhyse.com/abstimmsystem-powerpoint/>
 - EdiVote® Pro: <https://www.replysystems.com/de/edivote-pro-software/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 ---
@@ -659,7 +658,7 @@ Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
 
 ## Kurzantwort
 
-Für TV-Produktionen, Shows, Galas und Bühnenevents gibt es bei Infowhyse zwei Wege: **fertige Software** wie [EdiVote® 3.0](../loesungen/edivote-powerpoint-abstimmung.md) mit Reply®-Keypads, oder den **[VoteCollector](../loesungen/votecollector-schnittstelle.md)** für Produktionen, die bereits eigene Abstimmungs- oder Grafiksoftware einsetzen: Der VoteCollector (Software) wird per **XML-RPC** gesteuert und liefert die **Rohdaten** der Abstimmung zurück, die in der eigenen Software weiterverarbeitet werden. Die Funkgeräte arbeiten ohne WLAN und sind für sehr schnelle Erfassung ausgelegt.
+Für TV-Produktionen, Shows, Galas und Bühnenevents gibt es bei Infowhyse zwei Wege: **fertige Software** wie [EdiVote®](../loesungen/edivote-powerpoint-abstimmung.md) mit Reply®-Keypads, oder den **[VoteCollector](../loesungen/votecollector-schnittstelle.md)** für Produktionen, die bereits eigene Abstimmungs- oder Grafiksoftware einsetzen: Der VoteCollector (Software) wird per **XML-RPC** gesteuert und liefert die **Rohdaten** der Abstimmung zurück, die in der eigenen Software weiterverarbeitet werden. Die Funkgeräte arbeiten ohne WLAN und sind für sehr schnelle Erfassung ausgelegt.
 
 ## Zwei Wege im Vergleich
 
@@ -673,7 +672,6 @@ Für TV-Produktionen, Shows, Galas und Bühnenevents gibt es bei Infowhyse zwei 
 ## Typische Einsatzfälle
 
 - **Publikumsabstimmung im Studio oder in der Halle:** Das Saalpublikum entscheidet per Tastendruck, das Ergebnis läuft als Grafik in die Sendung.
-- **Quizformate mit Zeitwertung:** Das [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md) erfasst Antworten mit 0,05 Sekunden Auflösung („schnellster Finger“) und kann sehr große Gruppen abfragen.
 - **Team-Wettbewerbe und Gamification** bei Firmenevents und Produktpräsentationen
 - **Awards und Wettbewerbe:** Publikumspreis parallel zur Jury ([Jurys und Wettbewerbe](jurys-wettbewerbe-preisgerichte.md))
 - **Galas und Charity-Events** mit Live-Abfragen und Meinungsbildern
@@ -681,24 +679,22 @@ Für TV-Produktionen, Shows, Galas und Bühnenevents gibt es bei Infowhyse zwei 
 ## Anforderungen an Technik und Ablauf
 
 - **Zeitkritische Abläufe:** Start und Ende der Abstimmung müssen zu Regie, Moderation und Grafik passen.
-- **Zuverlässige Funkstrecke:** Studios und Hallen sind voll mit Funkmikrofonen, WLAN und Kamerafunk. Das Mini+ nutzt Frequenzsprungverfahren (FHSS) und Wi-Fi-Vermeidung.
+- **Zuverlässige Funkstrecke:** Studios und Hallen sind voll mit Funkmikrofonen, WLAN und Kamerafunk. Prüfen Sie die Funkbedingungen und testen Sie den Aufbau vor der Veranstaltung.
 - **Eindeutige Zuordnung** bei Teams und Einzelwertung
 - **Rohdaten oder fertige Grafik:** je nach Produktionsumgebung
 - **Testlauf** vor der Sendung oder Veranstaltung
 
 ## Geräte
 
-- Große Gruppen und Reaktionszeit: [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md)
 - Standard-Live-Voting mit bis zu 10 Antworten: [Reply® Interact](../hardware/reply-interact.md)
 - Einfache Ja/Nein- und Auswahlfragen: [Reply® Interact Mini](../hardware/reply-interact-mini.md)
-- Der VoteCollector unterstützt die Interact-Serie, Reply® Plus und Mini+.
+- Der VoteCollector unterstützt die Interact-Serie und Reply® Plus.
 - Geräte lassen sich **mieten** und kaufen; Reply Systems arbeitet mit Vertriebs- und Mietpartnern in über 20 Ländern zusammen.
 
 ## Mehr Informationen
 
 - Produktions- und AV-Unternehmen (Reply Systems, englisch): <https://www.replysystems.com/production-audio-visual-companies/>
-- Reply® Mini+: <https://www.replysystems.com/de/reply-miniplus-standard/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Anfrage zum VoteCollector und zu Produktionen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [VoteCollector](../loesungen/votecollector-schnittstelle.md) · [Kongresse und Pharma](kongresse-pharma-cme.md) · [Übersicht der Branchen](uebersicht-branchen.md)
@@ -711,7 +707,7 @@ Quelle / Source: https://www.infowhyse.com/abstimmloesungen/
 
 ## Kurzantwort
 
-Formelle Abstimmungen und Wahlen (Versammlungen, Gremien) laufen mit **BoardARS™**, **4elections™** oder **CouncilARS™**. Präsentationen, Quiz, Bewertungen und Live-Umfragen laufen mit **EdiVote® 3.0**. Produktionen mit eigener Software nutzen den **VoteCollector**. Als Eingabe dienen **Reply®-Keypads** (offline), **BYOPAD™** (Browser) oder beides (hybrid). Die Tabelle zeigt, was für welchen Einsatzfall passt.
+Formelle Abstimmungen und Wahlen (Versammlungen, Gremien) laufen mit **BoardARS™**, **4elections™** oder **CouncilARS™**. Präsentationen, Quiz, Bewertungen und Live-Umfragen laufen mit **EdiVote®**. Produktionen mit eigener Software nutzen den **VoteCollector**. Als Eingabe dienen **Reply®-Keypads** (offline), **BYOPAD™** (Browser) oder beides (hybrid). Die Tabelle zeigt, was für welchen Einsatzfall passt.
 
 ## Formelle Abstimmungen und Wahlen
 
@@ -731,16 +727,16 @@ Formelle Abstimmungen und Wahlen (Versammlungen, Gremien) laufen mit **BoardARS�
 
 | Einsatzfall | Software | Technik | Seite |
 |---|---|---|---|
-| Kongresse, Pharma, CME | EdiVote® 3.0 | Interact, BYOPAD™ | [Kongresse](kongresse-pharma-cme.md) |
-| Schulung, Coaching, Workshops | EdiVote® 3.0 | Interact Mini / Interact | [Schulung](schulung-coaching-training.md) |
-| Schule, Hochschule | EdiVote® 3.0 | Interact Mini | [Bildung](bildung-schulen-hochschulen.md) |
-| Bürgerbeteiligung, Einwohnerversammlungen | EdiVote® 3.0 | Keypads oder BYOPAD™ | [Bürgerbeteiligung](buergerbeteiligung-und-meinungsbilder.md) |
-| Jurys, Wettbewerbe, Awards | EdiVote® 3.0, VoteCollector | Interact, Mini+ | [Jurys](jurys-wettbewerbe-preisgerichte.md) |
-| TV, Shows, Live-Events | EdiVote® 3.0 oder VoteCollector | Mini+ / Interact | [TV und Events](tv-events-shows.md) |
+| Kongresse, Pharma, CME | EdiVote® | Interact, BYOPAD™ | [Kongresse](kongresse-pharma-cme.md) |
+| Schulung, Coaching, Workshops | EdiVote® | Interact Mini / Interact | [Schulung](schulung-coaching-training.md) |
+| Schule, Hochschule | EdiVote® | Interact Mini | [Bildung](bildung-schulen-hochschulen.md) |
+| Bürgerbeteiligung, Einwohnerversammlungen | EdiVote® | Keypads oder BYOPAD™ | [Bürgerbeteiligung](buergerbeteiligung-und-meinungsbilder.md) |
+| Jurys, Wettbewerbe, Awards | EdiVote®, VoteCollector | Interact | [Jurys](jurys-wettbewerbe-preisgerichte.md) |
+| TV, Shows, Live-Events | EdiVote® oder VoteCollector | Interact | [TV und Events](tv-events-shows.md) |
 
 ## Wie Sie entscheiden
 
-1. **Formell oder informell?** Beschlüsse und Wahlen brauchen Stimmrechte, Mehrheiten und Protokoll (BoardARS™, 4elections™, CouncilARS™). Umfragen und Quiz brauchen Interaktion (EdiVote® 3.0).
+1. **Formell oder informell?** Beschlüsse und Wahlen brauchen Stimmrechte, Mehrheiten und Protokoll (BoardARS™, 4elections™, CouncilARS™). Umfragen und Quiz brauchen Interaktion (EdiVote®).
 2. **Wie komplex ist die Regel?** Eine Gewichtung und Einzelwahl bis 5 Personen: BoardARS™. Mehrere Gewichtungen, komplexe Wahlen, freie Quoren: 4elections™.
 3. **Wo sind die Teilnehmer?** Vor Ort: Keypads (offline). Verteilt oder online: BYOPAD™. Beides: hybrid mit BoardARS™, CouncilARS™ oder EdiVote®.
 4. **Eigene Software vorhanden?** Dann den [VoteCollector](../loesungen/votecollector-schnittstelle.md) per XML-RPC anbinden.
@@ -804,7 +800,7 @@ Laut Infowhyse gehören unter anderem Sportverbände (z. B. Deutscher Schachbund
 Eines je stimmberechtigtem Teilnehmer bzw. je Delegiertem; bei Vollmachten kann ein Gerät mehrere Stimmen vertreten. Wir beraten anhand Ihrer Teilnehmerliste.
 
 **Können wir Geräte mieten?**
-Ja. <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+Ja. <https://www.infowhyse.com/anfrage/>
 
 **Was passiert bei geheimen Wahlen mit den Daten?**
 Es wird nur das Gesamtergebnis gespeichert, keine individuellen Stimmen.
@@ -813,7 +809,7 @@ Es wird nur das Gesamtergebnis gespeichert, keine individuellen Stimmen.
 
 - Vorstandssitzungen und Versammlungen: <https://www.infowhyse.com/vorstandssitzungen-und-versammlungen/>
 - Alle Abstimmlösungen: <https://www.infowhyse.com/abstimmloesungen/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Beratung: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Verwandt: [BoardARS™](../loesungen/boardars-abstimmung-mitgliederversammlung.md) · [4elections™](../loesungen/4elections-hauptversammlung-wahlen.md) · [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · [Versammlung vorbereiten](../ratgeber/versammlung-vorbereiten-checkliste.md)
@@ -844,10 +840,10 @@ Nein. Keypads brauchen keine App; BYOPAD™ läuft im Browser.
 Keypads bei kritischen Abstimmungen, schwachem Netz, gemischten Teilnehmern und wenn Ablenkung stört; Smartphone bei Online-Teilnehmern und kleineren Gruppen; hybrid bei gemischten Veranstaltungen. → [Keypad oder Smartphone](ratgeber/keypad-oder-smartphone.md)
 
 **Welches Abstimmgerät passt zu uns?**
-Interact Mini (5 Tasten) für Kommunen und einfache Abstimmungen, Interact (10 Tasten) für vielseitige Anwendungen, Interact Pro (Akku, ca. 100 m) für große Versammlungen und Wahlen, Mini+ Gen. 2 für sehr große Systeme und Wettbewerbe. → [Vergleich](hardware/abstimmgeraete-vergleich.md)
+Interact Mini (5 Tasten) für Kommunen und einfache Abstimmungen, Interact (10 Tasten) für vielseitige Anwendungen, Interact Pro (Akku, ca. 100 m) für große Versammlungen und Wahlen. → [Vergleich](hardware/abstimmgeraete-vergleich.md)
 
 **Wie viele Teilnehmer sind möglich?**
-Von wenigen bis zu mehreren tausend. Ein Mini+ System unterstützt laut Datenblatt bis zu 15.500 Geräte pro Raum.
+Die mögliche Teilnehmerzahl hängt von Geräten, Software und der Konfiguration ab. Lassen Sie die Kapazität für Ihre Veranstaltung prüfen.
 
 **Kann man Präsenz und Online in einer Abstimmung kombinieren?**
 Ja, mit Keypads für Präsenzteilnehmer und BYOPAD™ für Online-Teilnehmer. → [Hybride Abstimmung](loesungen/hybride-abstimmung.md)
@@ -869,7 +865,7 @@ Die Software liefert nachvollziehbare Ergebnisse und Protokolle. Ob das Verfahre
 ## Kosten und Bezug
 
 **Kann man Abstimmgeräte mieten?**
-Ja. → [Mieten oder kaufen](ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+Ja. → [Mieten oder kaufen](ratgeber/abstimmgeraete-mieten-oder-kaufen.md) · <https://www.infowhyse.com/anfrage/>
 
 **Fallen laufende Lizenzkosten an?**
 Softwarelizenzen wie CouncilARS™ sind Einmalkäufe und laufen nicht ab. Updates und Support sind im ersten Jahr enthalten, danach ist die Software-Maintenance optional.
@@ -891,27 +887,27 @@ Ja, über den [VoteCollector](loesungen/votecollector-schnittstelle.md): Er wird
 
 ---
 
-# Abstimmgeräte im Vergleich: Reply® Interact Mini, Interact, Interact Pro und Mini+
+# Abstimmgeräte im Vergleich: Reply® Interact Mini, Interact und Interact Pro
 
 Quelle / Source: https://www.infowhyse.com/abstimmgerate-von-reply/
 
 ## Kurzantwort
 
-Infowhyse liefert aktuell vier Reply®-Abstimmgeräte. Für **kommunale Gremien und einfache Abstimmungen** genügt das *Interact Mini* (5 Tasten). Für **Versammlungen, Schulungen und Quiz** mit mehr Antwortoptionen ist das *Interact* (10 Tasten) passend. Für **große Hauptversammlungen und Wahlen** empfiehlt sich das *Interact Pro* (Akku, ca. 100 m). Das *Mini+ Gen. 2* ist für **sehr große Systeme und Wettbewerbe** gedacht.
+Dieser Vergleich stellt drei Reply® Interact-Abstimmgeräte gegenüber. Für **kommunale Gremien und einfache Abstimmungen** genügt das *Interact Mini* (5 Tasten). Für **Versammlungen, Schulungen und Quiz** mit mehr Antwortoptionen ist das *Interact* (10 Tasten) passend. Für **große Hauptversammlungen und Wahlen** empfiehlt sich das *Interact Pro* (Akku, ca. 100 m).
 
 ## Vergleichstabelle
 
-| | Interact Mini | Interact | Interact Pro | Mini+ Gen. 2 |
-|---|---|---|---|---|
-| Hersteller-Typ | IN1100 | IN2100 | IN4100 | WRS7100 |
-| Tasten | 5 | 10 | 10 | 14 |
-| Display | LCD, 1 Zeichen | 5 Zeichen | Matrix-LCD | LED-Bestätigung |
-| Funk | 2,4 GHz | 2,4 GHz | 2,4 GHz | 2,4 GHz FHSS |
-| Reichweite | ca. 80 m | ca. 75 m | ca. 100 m | Innenraum ca. 90 × 90 m |
-| Strom | Batterie, ca. 250 h | Batterie, ca. 2 Jahre | Akku, ca. 90 h | Knopfzelle, ca. 25.000 Antworten |
-| Geschwindigkeit | 100 Stimmen/s | 100 Stimmen/s | 100 Stimmen/s | 200 Geräte/s |
-| Besonderheiten | farbige Ja/Nein/Enth.-Tasten | Wahlmodus, ID-Anmeldung, freie Zahleneingabe | Kandidatenwahl, Batch-Abstimmung, Nachricht ans Gerät | Speed Scoring 50 ms, bis 15.500 Geräte pro Raum |
-| Garantie | 2 Jahre | 2 Jahre | 2 Jahre | 2 Jahre |
+| | Interact Mini | Interact | Interact Pro |
+|---|---|---|---|
+| Hersteller-Typ | IN1100 | IN2100 | IN4100 |
+| Tasten | 5 | 10 | 10 |
+| Display | LCD, 1 Zeichen | 5 Zeichen | Matrix-LCD |
+| Funk | 2,4 GHz | 2,4 GHz | 2,4 GHz |
+| Reichweite | ca. 80 m | ca. 75 m | ca. 100 m |
+| Strom | Batterie, ca. 250 h | Batterie, ca. 2 Jahre | Akku, ca. 90 h |
+| Geschwindigkeit | 100 Stimmen/s | 100 Stimmen/s | 100 Stimmen/s |
+| Besonderheiten | farbige Ja/Nein/Enth.-Tasten | Wahlmodus, ID-Anmeldung, freie Zahleneingabe | Kandidatenwahl, Batch-Abstimmung, Nachricht ans Gerät |
+| Garantie | 2 Jahre | 2 Jahre | 2 Jahre |
 
 ## Entscheidungshilfe
 
@@ -921,7 +917,6 @@ Infowhyse liefert aktuell vier Reply®-Abstimmgeräte. Für **kommunale Gremien 
 | Verein, Verband, Genossenschaft bis mittlere Größe | Interact Mini oder Interact |
 | Große Hauptversammlung, Delegiertenversammlung, Wahlen mit Kandidaten | Interact Pro |
 | Schule, Hochschule, Seminar, Quiz | Interact Mini (bis 5 Antworten) oder Interact |
-| Mehr als 10 Antwortoptionen, sehr große Systeme, Reaktionszeit-Wertung | Mini+ Gen. 2 |
 | Teilnehmer sollen eigene Smartphones nutzen | [BYOPAD™](../loesungen/byopad-browser-abstimmung.md) |
 | Präsenz und Online gemischt | Keypads plus BYOPAD™: [Hybrid](../loesungen/hybride-abstimmung.md) |
 
@@ -929,10 +924,10 @@ Infowhyse liefert aktuell vier Reply®-Abstimmgeräte. Für **kommunale Gremien 
 
 - Abstimmgeräte von Reply: <https://www.infowhyse.com/abstimmgerate-von-reply/>
 - TED-Systeme und Clicker: <https://www.replysystems.com/de/ted-systeme-und-clicker/>
-- Mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
-- Kaufanfrage: <https://www.replysystems.com/de/kaufanfrage/>
+- Mieten: <https://www.infowhyse.com/anfrage/>
+- Kaufanfrage: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
-Modelle im Detail: [Interact Mini](reply-interact-mini.md) · [Interact](reply-interact.md) · [Interact Pro](reply-interact-pro.md) · [Mini+ Gen. 2](reply-mini-plus-gen2.md)
+Modelle im Detail: [Interact Mini](reply-interact-mini.md) · [Interact](reply-interact.md) · [Interact Pro](reply-interact-pro.md)
 
 ---
 
@@ -965,7 +960,7 @@ Hersteller-Kurzübersicht: Reply® Interact Mini IN1100.
 
 - **Kommunale Gremien:** Das Interact Mini ist das Standardgerät für CouncilARS™ (Gemeinderat, Stadtrat, Kreistag).
 - **Mitgliederversammlungen:** Mit BoardARS™ für Beschlüsse und Einzelwahlen bis 5 Personen; mit 4elections™ für komplexere Wahlen.
-- **Schulen, Hochschulen, Schulungen:** Quiz, Klassenumfragen und Wissensabfragen mit EdiVote® 3.0.
+- **Schulen, Hochschulen, Schulungen:** Quiz, Klassenumfragen und Wissensabfragen mit EdiVote®.
 - **Unternehmen:** einfache Meinungsbilder und Basisabstimmungen.
 
 Wenn mehr als 5 Antwortoptionen nötig sind, siehe [Reply® Interact](reply-interact.md) mit 10 Tasten.
@@ -985,7 +980,7 @@ Ja, siehe [Mieten oder kaufen](../ratgeber/abstimmgeraete-mieten-oder-kaufen.md)
 
 - Reply® Interact Mini bei Reply Systems: <https://www.replysystems.com/de/reply-interact-mini-de/>
 - Abstimmgeräte von Reply bei Infowhyse: <https://www.infowhyse.com/abstimmgerate-von-reply/>
-- Geräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
+- Geräte mieten: <https://www.infowhyse.com/anfrage/>
 - Angebot anfragen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.md)
@@ -1073,49 +1068,6 @@ Hersteller-Kurzübersicht: Reply® Interact IN2100.
 - Reply® Interact bei Reply Systems: <https://www.replysystems.com/de/reply-interact-de/>
 - Abstimmgeräte von Reply bei Infowhyse: <https://www.infowhyse.com/abstimmgerate-von-reply/>
 - Software dazu (EdiVote®, BoardARS™, 4elections™): <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
-- Angebot anfragen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
-
-Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.md)
-
----
-
-# Reply® Mini+ (Generation 2) – Abstimmgerät für sehr große Systeme und Wettbewerbe
-
-Quelle / Source: https://www.replysystems.com/de/reply-miniplus-standard/
-
-## Kurzantwort
-
-Das Reply® Mini+ (2. Generation, Modell **WRS7100**) ist ein leichtes Funk-Keypad mit **14 Tasten** für sehr große Systeme: Eine Basisstation verwaltet bis zu 500 Geräte pro Kanal, im Standard bis zu 15.500 Geräte pro Raum. Es eignet sich für Großveranstaltungen, Wettbewerbe mit Reaktionszeit-Wertung und Anwendungen, in denen viele Tasten oder mehrstellige Eingaben nötig sind.
-
-## Technische Daten (laut Hersteller-Datenblatt)
-
-| Merkmal | Wert |
-|---|---|
-| Tasten | 14 Tasten für Mehrfachauswahl und mehrstellige Eingaben, zusätzlich „Send“, „Raised Hand“ und „Link“ |
-| Anzeige | grüne und rote LED als Bestätigung der Eingabe |
-| Funk | 2,4 GHz Frequenzsprungverfahren (FHSS), Wi-Fi-Vermeidung, patentiertes Antwort-Verifizierungsprotokoll |
-| Reichweite | für Innenräume von ca. 300 × 300 Fuß (ca. 90 × 90 m) ausgelegt; abhängig von Raum und Störquellen |
-| Kapazität | 500 Geräte pro Kanal-Kennung an einer Basisstation; 31 Kennungen = 15.500 Geräte pro Raum (Standard); Arena-Konfiguration bis zu 18.000 Nutzer je Veranstaltungsort |
-| Geschwindigkeit | 200 Geräte pro Sekunde; mehrere Basisstationen parallel erfassen bis zu 37.500 Geräte in unter 5 Sekunden |
-| Reaktionszeit | „Speed Scoring“ mit 0,05 Sekunden Auflösung (schnellster Finger) |
-| Stromversorgung | eine austauschbare Lithium-Knopfzelle, ca. 25.000 Antworten |
-| Größe / Gewicht | ca. 7,6 × 3,8 × 1 cm, ca. 23 g |
-| Basisstation | WRS970 (USB oder Ethernet) oder WRS971 (USB-Stick) |
-| Zertifizierung | FCC, IC, CE; RoHS- und WEEE-konform |
-| Garantie | 2 Jahre |
-
-## Wann passt das Mini+?
-
-- Sehr große Systeme mit mehreren tausend Geräten
-- Wettbewerbe und Quizformate, bei denen die Antwortgeschwindigkeit gewertet wird
-- Anwendungen mit vielen Antwortmöglichkeiten
-
-Für klassische Versammlungen und Gremien genügen meist [Reply® Interact](reply-interact.md) oder [Interact Pro](reply-interact-pro.md).
-
-## Mehr Informationen
-
-- Reply® Mini+ bei Reply Systems: <https://www.replysystems.com/de/reply-miniplus-standard/>
-- Software für TED-Abstimmungen: <https://www.replysystems.com/de/software-fuer-ted-abstimmungen/>
 - Angebot anfragen: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
 Vergleich aller Modelle: [Abstimmgeräte im Vergleich](abstimmgeraete-vergleich.md)
@@ -1241,17 +1193,17 @@ Verwandt: [Branche Vereine und Verbände](../branchen/vereine-und-verbaende.md) 
 
 ---
 
-# Reply® BYOPAD™ 3.0 – Abstimmen per Smartphone im Browser
+# Reply® BYOPAD™ – Abstimmen per Smartphone im Browser
 
 Quelle / Source: https://www.infowhyse.com/hybride-abstimmungen/
 
 ## Kurzantwort
 
-**Reply® BYOPAD™ 3.0** („Bring Your Own Pad“) ist die browserbasierte Abstimmungslösung von Infowhyse: Teilnehmer stimmen mit Smartphone, Tablet oder Notebook ab, **ohne App, ohne Download und ohne Installation**. Sie funktioniert bei Präsenz-, Online- und hybriden Veranstaltungen, alleine oder zusammen mit Reply®-Keypads.
+**Reply® BYOPAD™** („Bring Your Own Pad“) ist die browserbasierte Abstimmungslösung von Infowhyse: Teilnehmer stimmen mit Smartphone, Tablet oder Notebook ab, **ohne App, ohne Download und ohne Installation**. Sie funktioniert bei Präsenz-, Online- und hybriden Veranstaltungen, alleine oder zusammen mit Reply®-Keypads.
 
 ## So funktioniert es
 
-1. Der Moderator startet in EdiVote® ein BYOPAD-Session mit einem **Event-Code**.
+1. Der Moderator startet in EdiVote® eine BYOPAD™-Session mit einem **Event-Code**.
 2. Teilnehmer rufen die Abstimmungsseite (`byopad.online`) auf und geben den Event-Code ein, alternativ per QR-Code.
 3. Fragen erscheinen auf dem Gerät, die Stimmen werden sofort erfasst und in der Präsentation visualisiert.
 
@@ -1268,7 +1220,7 @@ Der Betrieb setzt eine Internetverbindung von Moderator und Teilnehmern voraus.
 - **Virtuelles Tastenfeld** (vollständig, entspricht dem Reply® Interact) oder als Ja/Nein/Enthaltung-Tastenfeld
 - **Live-Modus:** Frage und Antwortoptionen werden auf dem Smartphone angezeigt
 
-## Funktionen (mit EdiVote® Pro 3.0)
+## Funktionen (mit EdiVote® Pro)
 
 Lizenzierung nach Teilnehmerzahl (Keypad-Kapazität); Rankings, Ratings und freie Zahleneingabe; Ja/Nein/Enthaltung-Anträge mit Regeln und gewichteten Abstimmungen; Kandidatenwahlen; demografische Daten und Punktevergabe; Excel-Berichte; moderierte und unmoderierte Textfunktion; mehr als 10 Antwortoptionen. Bei Nutzung mit CouncilARS™ oder BoardARS™ stehen nicht alle diese Funktionen zur Verfügung, da diese Programme eigene Funktionen mitbringen.
 
@@ -1278,11 +1230,11 @@ Keine Nutzerregistrierung nötig, keine Speicherung unnötiger personenbezogener
 
 ## Hybrid: Keypads plus Smartphones
 
-BYOPAD™ 3.0 lässt sich mit Reply® Interact Mini, Interact, Interact Pro und Mini+ kombinieren, sodass Präsenzteilnehmer mit Geräten und Online-Teilnehmer per Browser in **einer** Abstimmung stimmen. Siehe [Hybride Abstimmung](hybride-abstimmung.md).
+BYOPAD™ lässt sich mit Reply® Interact Mini, Interact und Interact Pro kombinieren, sodass Präsenzteilnehmer mit Geräten und Online-Teilnehmer per Browser in **einer** Abstimmung stimmen. Siehe [Hybride Abstimmung](hybride-abstimmung.md).
 
-## Wann Keypads, wann BYOPAD?
+## Wann Keypads, wann BYOPAD™?
 
-- BYOPAD: kleine bis mittlere Gruppen, Online-Zuschaltung, keine Geräteausgabe gewünscht, geringere Kosten
+- BYOPAD™: kleine bis mittlere Gruppen, Online-Zuschaltung, keine Geräteausgabe gewünscht, geringere Kosten
 - Keypads: kritische Abstimmungen, schwaches Netz, heterogene Teilnehmer, keine Ablenkung
 
 Ausführlich: [Keypad oder Smartphone](../ratgeber/keypad-oder-smartphone.md).
@@ -1370,13 +1322,13 @@ Verwandt: [Branche Kommunen](../branchen/kommunen-gemeinderat-kreistag.md) · [N
 
 ---
 
-# EdiVote® 3.0 – Abstimmung und Quiz direkt in PowerPoint
+# EdiVote® – Abstimmung und Quiz direkt in PowerPoint
 
 Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
 
 ## Kurzantwort
 
-**EdiVote® 3.0** ist ein PowerPoint-Add-In von Infowhyse für interaktive Präsentationen. Fragen werden direkt in die Folien eingebaut; das Publikum antwortet per Reply®-Abstimmgerät oder Smartphone ([BYOPAD™](byopad-browser-abstimmung.md)), und die Ergebnisse erscheinen live in der Präsentation. Unterstützt wird Microsoft PowerPoint für Windows ab Version 2016 bis Office 365 (nicht die reine Browser-Variante und nicht Office für Mac).
+**EdiVote®** ist ein PowerPoint-Add-In von Infowhyse für interaktive Präsentationen. Fragen werden direkt in die Folien eingebaut; das Publikum antwortet per Reply®-Abstimmgerät oder Smartphone ([BYOPAD™](byopad-browser-abstimmung.md)), und die Ergebnisse erscheinen live in der Präsentation. Unterstützt wird Microsoft PowerPoint für Windows ab Version 2016 bis Office 365 (nicht die reine Browser-Variante und nicht Office für Mac).
 
 ## Funktionen
 
@@ -1385,7 +1337,7 @@ Quelle / Source: https://www.infowhyse.com/abstimmsystem-powerpoint/
 - **Teilnehmergruppen** und demografische Auswertung
 - **Erweiterte Microsoft-Excel-Berichte** mit Einblicken und Analysen
 - **Nahtlose Integration:** Fragen sind Folien; die Präsentation läuft wie gewohnt, ein Farbpunkt zeigt, ob die Abstimmung offen (grün) oder geschlossen (blau) ist
-- Kompatibel mit allen Reply® Interact-Geräten sowie [BYOPAD™](byopad-browser-abstimmung.md) 3.0
+- Kompatibel mit allen Reply® Interact-Geräten sowie [BYOPAD™](byopad-browser-abstimmung.md)
 - **Demo-Modus** (Authoring) mit bis zu 5 Keypads zum Ausprobieren
 
 ## Typische Einsatzfälle
@@ -1450,7 +1402,7 @@ Bei einer hybriden Abstimmung stimmen Teilnehmer vor Ort mit **Reply® Interact*
 
 - Vereine, Verbände, Board Meetings: [BoardARS™](boardars-abstimmung-mitgliederversammlung.md). [4elections™](4elections-hauptversammlung-wahlen.md) arbeitet rein offline und ist nicht hybridfähig.
 - Kommunale Gremien: [CouncilARS™](councilars-kommunale-abstimmung.md)
-- Präsentationen und Schulungen: [EdiVote® 3.0](edivote-powerpoint-abstimmung.md)
+- Präsentationen und Schulungen: [EdiVote®](edivote-powerpoint-abstimmung.md)
 
 ## Mehr Informationen
 
@@ -1516,7 +1468,7 @@ Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
 
 ## Kurzantwort
 
-Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits eigene Software** für Abstimmungen oder zur Produktion von Ausgaben (z. B. Grafiken für TV und Events) einsetzen. Er lässt sich per **XML-RPC** steuern und liefert die **Rohdaten** der Abstimmung zurück. Diese Daten können in der eigenen Software weiterverarbeitet, ausgewertet und dargestellt werden. So lassen sich Reply®-Abstimmgeräte in bestehende Produktionsumgebungen einbinden, ohne die eigene Software zu ersetzen. Unterstützt werden die **Reply® Interact Serie** (Interact Mini, Interact, Interact Pro) sowie **Reply® Plus** und **Reply® Mini+**.
+Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits eigene Software** für Abstimmungen oder zur Produktion von Ausgaben (z. B. Grafiken für TV und Events) einsetzen. Er lässt sich per **XML-RPC** steuern und liefert die **Rohdaten** der Abstimmung zurück. Diese Daten können in der eigenen Software weiterverarbeitet, ausgewertet und dargestellt werden. So lassen sich Reply®-Abstimmgeräte in bestehende Produktionsumgebungen einbinden, ohne die eigene Software zu ersetzen. Unterstützt werden die **Reply® Interact Serie** (Interact Mini, Interact, Interact Pro) sowie **Reply® Plus**.
 
 ## Für wen?
 
@@ -1538,7 +1490,7 @@ Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits
 |---|---|
 | Sie haben eigene Grafik-, Show- oder Abstimmungssoftware | VoteCollector |
 | Sie brauchen eigene Regeln, eigene Wertung, eigene Grafik | VoteCollector |
-| Sie wollen eine schlüsselfertige Lösung für Vortrag, Quiz oder Umfrage | [EdiVote® 3.0](edivote-powerpoint-abstimmung.md) |
+| Sie wollen eine schlüsselfertige Lösung für Vortrag, Quiz oder Umfrage | [EdiVote®](edivote-powerpoint-abstimmung.md) |
 | Formelle Abstimmung in Gremien oder Versammlungen | [CouncilARS™](councilars-kommunale-abstimmung.md), [BoardARS™](boardars-abstimmung-mitgliederversammlung.md), [4elections™](4elections-hauptversammlung-wahlen.md) |
 
 ## Unterstützte Geräte
@@ -1549,9 +1501,8 @@ Der **VoteCollector** ist eine Software von Infowhyse für Firmen, die **bereits
 | [Reply® Interact](../hardware/reply-interact.md) | ja |
 | [Reply® Interact Pro](../hardware/reply-interact-pro.md) | ja |
 | Reply® Plus | ja |
-| [Reply® Mini+ Gen. 2](../hardware/reply-mini-plus-gen2.md) | ja |
 
-Die Interact-Serie, Reply® Plus und Mini+ lassen sich auch gemischt betreiben.
+Die Interact-Serie und Reply® Plus lassen sich auch gemischt betreiben.
 
 ## Technische Details und Voraussetzungen
 
@@ -1568,7 +1519,7 @@ Verwandt: [TV, Shows und Live-Events](../branchen/tv-events-shows.md) · [Abstim
 
 # Abstimmgeräte mieten oder kaufen? Entscheidungshilfe
 
-Quelle / Source: https://www.replysystems.com/de/abstimmgeraete-mieten/
+Quelle / Source: https://www.infowhyse.com/anfrage/
 
 ## Kurzantwort
 
@@ -1608,8 +1559,8 @@ Quelle / Source: https://www.replysystems.com/de/abstimmgeraete-mieten/
 
 ## Mehr Informationen
 
-- Abstimmgeräte mieten: <https://www.replysystems.com/de/abstimmgeraete-mieten/>
-- Kaufanfrage: <https://www.replysystems.com/de/kaufanfrage/>
+- Abstimmgeräte mieten: <https://www.infowhyse.com/anfrage/>
+- Kaufanfrage: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 - Referenzen (Miete national und international): <https://www.infowhyse.com/referenzen-national-und-international-miete/>
 - Kontakt: <https://www.infowhyse.com/kontakt-zu-infowhyse/>
 
@@ -1924,7 +1875,6 @@ Bei Infowhyse laufen Präsenzabstimmungen per **verschlüsseltem Funk ohne Inter
 - **Kurze Reichweite:** das Signal wirkt im Wesentlichen nur im Veranstaltungsraum.
 - **Bestätigung an das Gerät:** Teilnehmer sehen, dass ihre Stimme angekommen ist.
 - **Ehrliche Einordnung:** Jede Verschlüsselung kann grundsätzlich mit genügend Aufwand gebrochen werden; das Ziel ist, Abfangen und Fälschen so schwer wie möglich zu machen.
-- **Reply® Mini+ Gen. 2:** Frequenzsprungverfahren (FHSS), Wi-Fi-Vermeidung, patentiertes Antwort-Verifizierungsprotokoll.
 
 ## Browserabstimmung (BYOPAD™)
 
@@ -2051,16 +2001,16 @@ Die **Infowhyse GmbH** mit Sitz in Friedberg (Hessen) ist ein spezialisierter An
 ## Was Infowhyse anbietet
 
 **Hardware**
-- [Reply® Interact Mini](hardware/reply-interact-mini.md), [Interact](hardware/reply-interact.md), [Interact Pro](hardware/reply-interact-pro.md) und [Mini+ Gen. 2](hardware/reply-mini-plus-gen2.md): [Vergleich](hardware/abstimmgeraete-vergleich.md)
+- [Reply® Interact Mini](hardware/reply-interact-mini.md), [Interact](hardware/reply-interact.md) und [Interact Pro](hardware/reply-interact-pro.md): [Vergleich](hardware/abstimmgeraete-vergleich.md)
 - Kauf und [Miete](ratgeber/abstimmgeraete-mieten-oder-kaufen.md)
 
 **Software**
 - [CouncilARS™](loesungen/councilars-kommunale-abstimmung.md) für Kommunen
 - [BoardARS™](loesungen/boardars-abstimmung-mitgliederversammlung.md) für einfache Mitgliederversammlungen und Board Meetings (auch hybrid)
 - [4elections™](loesungen/4elections-hauptversammlung-wahlen.md) für Generalversammlungen, AGMs und komplexe Wahlen (offline)
-- [EdiVote® 3.0](loesungen/edivote-powerpoint-abstimmung.md) für PowerPoint
+- [EdiVote®](loesungen/edivote-powerpoint-abstimmung.md) für PowerPoint
 - [VoteCollector](loesungen/votecollector-schnittstelle.md) zur Anbindung eigener Software per XML-RPC
-- [BYOPAD™ 3.0](loesungen/byopad-browser-abstimmung.md) für Smartphone- und Browserabstimmung
+- [BYOPAD™](loesungen/byopad-browser-abstimmung.md) für Smartphone- und Browserabstimmung
 
 **Beratung und Betreuung**
 - Analyse der Veranstaltung und Klärung von Stimmrechten, Mehrheiten, Vollmachten, Satzung
@@ -2108,14 +2058,14 @@ Quelle / Source: https://www.replysystems.com/about-us/
 
 ## What is offered
 
-**Keypads:** [Reply® Interact Mini, Interact, Interact Pro and Mini+ Gen. 2](products/reply-keypads-overview.md)
+**Keypads:** [Reply® Interact Mini, Interact and Interact Pro](products/reply-keypads-overview.md)
 
 **Software**
 - [BoardARS™](solutions/boardars-board-meetings.md) for simple member meetings and board meetings (offline, online, hybrid)
 - [4elections™](solutions/4elections-agms.md) for AGMs, general meetings and complex elections (offline)
 - [CouncilARS™](solutions/council-voting.md) for councils and committees
-- [EdiVote® 3.0](solutions/education-and-training.md) for PowerPoint-based audience response, quizzes, training and education
-- [Reply® BYOPAD™ 3.0](solutions/hybrid-voting-byopad.md) for browser and smartphone voting
+- [EdiVote®](solutions/education-and-training.md) for PowerPoint-based audience response, quizzes, training and education
+- [Reply® BYOPAD™](solutions/hybrid-voting-byopad.md) for browser and smartphone voting
 - [VoteCollector](solutions/votecollector-xmlrpc.md) to connect your own software via XML-RPC (TV, events, integrators)
 
 **Service:** purchase and rental, preparation and testing, onsite support, personal contacts instead of a call centre.
@@ -2151,7 +2101,7 @@ No. They transmit by radio to a receiver on the PC. Only browser voting (BYOPAD�
 Keypads for critical votes, weak networks and focus; smartphones for remote participants; hybrid for both. → [Comparison](guides/keypads-vs-smartphones.md)
 
 **Which keypad should I choose?**
-Interact Mini (5 buttons) for councils and classrooms, Interact (10) for versatile use, Interact Pro (rechargeable, about 100 m) for large AGMs and elections, Mini+ Gen. 2 for very large systems and competitions. → [Overview](products/reply-keypads-overview.md)
+Interact Mini (5 buttons) for councils and classrooms, Interact (10) for versatile use, Interact Pro (rechargeable, about 100 m) for large AGMs and elections. → [Overview](products/reply-keypads-overview.md)
 
 **Can votes be weighted and proxies handled?**
 Yes. BoardARS™ supports one weighting, 4elections™ several (offline only). → [BoardARS](solutions/boardars-board-meetings.md) · [4elections](solutions/4elections-agms.md)
@@ -2163,7 +2113,7 @@ Yes; only totals are stored for secret votes. Whether a procedure is legally val
 Yes, with keypads plus BYOPAD™. → [Hybrid voting](solutions/hybrid-voting-byopad.md)
 
 **Can I rent keypads?**
-Yes: <https://www.replysystems.com/rent-keypads/>. Purchase: <https://www.replysystems.com/buy-a-voting-system/>.
+Yes: <https://www.replysystems.com/contact-us/>. Purchase: <https://www.replysystems.com/contact-us/>.
 
 **Are there recurring licence fees?**
 Software licences are one-off purchases and do not expire. Updates and support are included in the first year; renewal of the maintenance programme is optional.
@@ -2188,7 +2138,7 @@ Quelle / Source: https://www.replysystems.com/how-it-works/
 
 **Audience response system (ARS):** system that collects and displays answers or votes from a group in real time. → [Guide](guides/audience-response-systems-guide.md)
 
-**BYOD / BYOPAD™:** participants use their own smartphone, tablet or laptop to vote. BYOPAD™ is Reply's browser-based tool. → [BYOPAD](solutions/hybrid-voting-byopad.md)
+**BYOD / BYOPAD™:** participants use their own smartphone, tablet or laptop to vote. BYOPAD™ is Reply's browser-based tool. → [BYOPAD™](solutions/hybrid-voting-byopad.md)
 
 **Clicker:** informal term for a voting keypad.
 
@@ -2253,7 +2203,7 @@ Keypads are preferred for critical votes, weak networks, mixed audiences and to 
 ## Choosing a system
 
 - Formal voting? You need voting rights, proxies, weighted votes, majorities and reports: [BoardARS™](../solutions/boardars-board-meetings.md) and [4elections™](../solutions/4elections-agms.md), [CouncilARS™](../solutions/council-voting.md).
-- Presentations and training? [EdiVote® 3.0](../solutions/education-and-training.md).
+- Presentations and training? [EdiVote®](../solutions/education-and-training.md).
 - Remote participants? [BYOPAD™](../solutions/hybrid-voting-byopad.md).
 - Which keypad? [Keypad overview](../products/reply-keypads-overview.md).
 
@@ -2264,8 +2214,8 @@ Keypads are preferred for critical votes, weak networks, mixed audiences and to 
 - Applications: <https://www.replysystems.com/application/>
 - Keypads and clickers: <https://www.replysystems.com/reply-keypads-and-clickers/>
 - Audience response software: <https://www.replysystems.com/audience-response-software/>
-- Rent keypads: <https://www.replysystems.com/rent-keypads/>
-- Buy a voting system: <https://www.replysystems.com/buy-a-voting-system/>
+- Rent keypads: <https://www.replysystems.com/contact-us/>
+- Buy a voting system: <https://www.replysystems.com/contact-us/>
 
 ---
 
@@ -2296,7 +2246,7 @@ Use **keypads** for formal or critical votes, weak or restricted networks, mixed
 
 **Choose smartphones when** people join online, groups are small, or handing out devices is impractical.
 
-**Choose hybrid when** presence and remote participants must vote in one result: see [Hybrid voting with BYOPAD](../solutions/hybrid-voting-byopad.md).
+**Choose hybrid when** presence and remote participants must vote in one result: see [Hybrid voting with BYOPAD™](../solutions/hybrid-voting-byopad.md).
 
 ## Common mistakes
 
@@ -2314,27 +2264,27 @@ Related: [Audience response systems explained](audience-response-systems-guide.m
 
 ---
 
-# Reply® voting keypads compared: Interact Mini, Interact, Interact Pro and Mini+ Gen. 2
+# Reply® voting keypads compared: Interact Mini, Interact and Interact Pro
 
 Quelle / Source: https://www.replysystems.com/reply-keypads-and-clickers/
 
 ## Short answer
 
-Four Reply® keypads are currently available. **Interact Mini** (5 buttons) suits councils, schools and simple votes. **Interact** (10 buttons) covers meetings, training, quizzes and elections. **Interact Pro** (rechargeable, about 100 m range) is made for large AGMs and elections. **Mini+ Gen. 2** (14 buttons) serves very large systems and competitions.
+This overview compares three Reply® Interact keypads. **Interact Mini** (5 buttons) suits councils, schools and simple votes. **Interact** (10 buttons) covers meetings, training, quizzes and elections. **Interact Pro** (rechargeable, about 100 m range) is made for large AGMs and elections.
 
 ## Comparison
 
-| | Interact Mini | Interact | Interact Pro | Mini+ Gen. 2 |
-|---|---|---|---|---|
-| Model | IN1100 | IN2100 | IN4100 | WRS7100 |
-| Buttons | 5 | 10 | 10 | 14 |
-| Display | LCD, 1 character | 5 characters | matrix LCD | LED confirmation |
-| Radio | 2.4 GHz | 2.4 GHz | 2.4 GHz | 2.4 GHz FHSS |
-| Range | about 80 m | about 75 m | about 100 m | indoor, about 90 × 90 m |
-| Power | battery, about 250 h | battery, about 2 years | rechargeable, about 90 h | coin cell, about 25,000 responses |
-| Speed | 100 votes/s | 100 votes/s | 100 votes/s | 200 keypads/s |
-| Highlights | colour-coded Yes/No/Abstain | election mode, ID login, free numeric entry | candidate elections, batch voting, message to device | speed scoring 50 ms, up to 15,500 per room |
-| Warranty | 2 years | 2 years | 2 years | 2 years |
+| | Interact Mini | Interact | Interact Pro |
+|---|---|---|---|
+| Model | IN1100 | IN2100 | IN4100 |
+| Buttons | 5 | 10 | 10 |
+| Display | LCD, 1 character | 5 characters | matrix LCD |
+| Radio | 2.4 GHz | 2.4 GHz | 2.4 GHz |
+| Range | about 80 m | about 75 m | about 100 m |
+| Power | battery, about 250 h | battery, about 2 years | rechargeable, about 90 h |
+| Speed | 100 votes/s | 100 votes/s | 100 votes/s |
+| Highlights | colour-coded Yes/No/Abstain | election mode, ID login, free numeric entry | candidate elections, batch voting, message to device |
+| Warranty | 2 years | 2 years | 2 years |
 
 ## Which keypad?
 
@@ -2344,9 +2294,8 @@ Four Reply® keypads are currently available. **Interact Mini** (5 buttons) suit
 | Classroom, seminar | Interact Mini or Interact |
 | Association or member meeting | Interact Mini or Interact |
 | Large AGM, delegate assembly, candidate elections | Interact Pro |
-| Very large systems, many answer options, fastest-finger quiz | Mini+ Gen. 2 |
 
-All Interact models work with EdiVote® 3.0. Keypads can be combined with Reply® BYOPAD™ for hybrid meetings. Mini+ figures are taken from the manufacturer datasheet.
+All Interact models work with EdiVote®. Keypads can be combined with Reply® BYOPAD™ for hybrid meetings.
 
 ## More information
 
@@ -2354,9 +2303,8 @@ All Interact models work with EdiVote® 3.0. Keypads can be combined with Reply�
 - Interact Mini: <https://www.replysystems.com/reply-interact-mini/>
 - Interact: <https://www.replysystems.com/reply-interact/>
 - Interact Pro: <https://www.replysystems.com/reply-interact-pro/>
-- Mini+: <https://www.replysystems.com/reply-miniplus/>
-- Rent keypads: <https://www.replysystems.com/rent-keypads/>
-- Buy: <https://www.replysystems.com/buy-a-voting-system/>
+- Rent keypads: <https://www.replysystems.com/contact-us/>
+- Buy: <https://www.replysystems.com/contact-us/>
 - Contact: <https://www.replysystems.com/contact-us/>
 
 ---
@@ -2434,7 +2382,7 @@ For several different weightings, complex election modes, free quorums or electi
 
 - BoardARS™: <https://www.replysystems.com/digitise-your-board-votes-board-meetings-and-agms-with-boardars/>
 - Audience response software: <https://www.replysystems.com/audience-response-software/>
-- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Rent keypads: <https://www.replysystems.com/contact-us/>
 - Contact: <https://www.replysystems.com/contact-us/>
 
 Related: [Hybrid voting](hybrid-voting-byopad.md) · [Keypad overview](../products/reply-keypads-overview.md)
@@ -2489,13 +2437,13 @@ Related: [Keypad overview](../products/reply-keypads-overview.md) · [Hybrid vot
 
 ---
 
-# Audience response for training, classrooms and conferences: EdiVote 3.0 for PowerPoint
+# Audience response for training, classrooms and conferences: EdiVote® for PowerPoint
 
 Quelle / Source: https://www.replysystems.com/edivote-pro/
 
 ## Short answer
 
-**EdiVote® 3.0** is a PowerPoint add-in that turns slides into live votes, quizzes and polls. Participants answer with **Reply® keypads** or **smartphones (BYOPAD™)**, and results appear in the presentation immediately. It works with Microsoft PowerPoint for Windows from version 2016 up to Office 365 (not the browser-only version and not Office for Mac).
+**EdiVote®** is a PowerPoint add-in that turns slides into live votes, quizzes and polls. Participants answer with **Reply® keypads** or **smartphones (BYOPAD™)**, and results appear in the presentation immediately. It works with Microsoft PowerPoint for Windows from version 2016 up to Office 365 (not the browser-only version and not Office for Mac).
 
 ## Features
 
@@ -2504,7 +2452,7 @@ Quelle / Source: https://www.replysystems.com/edivote-pro/
 - Participant groups and demographics
 - Advanced Microsoft Excel reports
 - Full PowerPoint integration; a demo (authoring) mode supports up to 5 keypads
-- Compatible with all Reply® Interact keypads and BYOPAD™ 3.0
+- Compatible with all Reply® Interact keypads and BYOPAD™
 
 ## Typical uses
 
@@ -2525,24 +2473,24 @@ No distraction from email or messengers, no dependence on internet or Wi-Fi, ins
 
 - EdiVote® Pro: <https://www.replysystems.com/edivote-pro/>
 - Audience response software: <https://www.replysystems.com/audience-response-software/>
-- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Rent keypads: <https://www.replysystems.com/contact-us/>
 - Contact: <https://www.replysystems.com/contact-us/>
 
 Related: [Keypads vs smartphones](../guides/keypads-vs-smartphones.md)
 
 ---
 
-# Hybrid voting and smartphone voting with Reply BYOPAD 3.0
+# Hybrid voting and smartphone voting with Reply BYOPAD™
 
 Quelle / Source: https://www.replysystems.com/byopad/
 
 ## Short answer
 
-**Reply® BYOPAD™ 3.0** ("Bring Your Own Pad") is a browser-based voting tool: participants vote on smartphone, tablet or laptop **without an app, download or installation**. It works on site, remotely or **hybrid** together with Reply® keypads, so on-site and remote participants vote into **one result**.
+**Reply® BYOPAD™** ("Bring Your Own Pad") is a browser-based voting tool: participants vote on smartphone, tablet or laptop **without an app, download or installation**. It works on site, remotely or **hybrid** together with Reply® keypads, so on-site and remote participants vote into **one result**.
 
 ## How it works
 
-1. The presenter starts a BYOPAD session in EdiVote® and sets an **event code**.
+1. The presenter starts a BYOPAD™ session in EdiVote® and sets an **event code**.
 2. Participants open the voting page (`byopad.online`) and enter the code, or scan a QR code.
 3. Questions appear on their device; votes are captured and displayed instantly.
 
@@ -2555,7 +2503,7 @@ Internet access is required for presenter and participants.
 
 ## Works with
 
-EdiVote® Pro 3.0 (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro, Mini+ and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there. 4elections™ works offline only.
+EdiVote® Pro (full feature set), and in hybrid mode with Reply® Interact Mini, Interact, Interact Pro and other Reply® keypads. BYOPAD™ can also be used with CouncilARS™ and BoardARS™, though not all EdiVote® features apply there. 4elections™ works offline only.
 
 ## Data protection
 
@@ -2581,12 +2529,11 @@ Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
 
 ## Short answer
 
-For TV productions, shows, galas and stage events there are two routes: **ready-made software** such as [EdiVote® 3.0](education-and-training.md) with Reply® keypads, or the **[VoteCollector](votecollector-xmlrpc.md)** for productions that already run their own voting or graphics software. The VoteCollector (software) is controlled via **XML-RPC** and returns **raw data** for processing in your own system. The radio keypads work without Wi-Fi and are built for fast capture.
+For TV productions, shows, galas and stage events there are two routes: **ready-made software** such as [EdiVote®](education-and-training.md) with Reply® keypads, or the **[VoteCollector](votecollector-xmlrpc.md)** for productions that already run their own voting or graphics software. The VoteCollector (software) is controlled via **XML-RPC** and returns **raw data** for processing in your own system. The radio keypads work without Wi-Fi and are built for fast capture.
 
 ## Typical uses
 
 - Studio or hall audience votes with the result shown as on-air graphics
-- Quiz formats with timing: the [Reply® Mini+ Gen. 2](../products/reply-keypads-overview.md) records responses at 0.05 s resolution ("fastest finger")
 - Team competitions and gamification at corporate events
 - Awards with audience vote alongside a jury
 - Galas and charity events with live polls
@@ -2594,19 +2541,19 @@ For TV productions, shows, galas and stage events there are two routes: **ready-
 ## Requirements
 
 - Time-critical cues with director, host and graphics
-- A reliable radio link in RF-crowded venues (Mini+ uses frequency hopping and Wi-Fi avoidance)
+- A reliable radio link in RF-crowded venues
 - Clear assignment of keypads to teams and players
 - Raw data or ready-made graphics, depending on your production setup
 - A dress rehearsal before the show
 
 ## Rental
 
-The VoteCollector supports the Interact series, Reply® Plus and Mini+. Reply® keypads can be rented or purchased. Reply Systems works with resellers and rental partners in more than 20 countries.
+The VoteCollector supports the Interact series and Reply® Plus. Reply® keypads can be rented or purchased. Reply Systems works with resellers and rental partners in more than 20 countries.
 
 ## More information
 
 - Production and AV companies: <https://www.replysystems.com/production-audio-visual-companies/>
-- Rent keypads: <https://www.replysystems.com/rent-keypads/>
+- Rent keypads: <https://www.replysystems.com/contact-us/>
 - Contact: <https://www.replysystems.com/contact-us/>
 
 Related: [VoteCollector](votecollector-xmlrpc.md) · [Keypad overview](../products/reply-keypads-overview.md)
@@ -2619,7 +2566,7 @@ Quelle / Source: https://www.replysystems.com/production-audio-visual-companies/
 
 ## Short answer
 
-The **VoteCollector** is software from Infowhyse for companies that **already use their own software** for voting or for producing outputs such as broadcast graphics. It is controlled via **XML-RPC** and returns the **raw voting data**, which your software can then process, evaluate and display. This lets you use Reply® voting keypads inside an existing production environment without replacing your own software. It supports the **Reply® Interact series** (Interact Mini, Interact, Interact Pro) as well as **Reply® Plus** and **Reply® Mini+**.
+The **VoteCollector** is software from Infowhyse for companies that **already use their own software** for voting or for producing outputs such as broadcast graphics. It is controlled via **XML-RPC** and returns the **raw voting data**, which your software can then process, evaluate and display. This lets you use Reply® voting keypads inside an existing production environment without replacing your own software. It supports the **Reply® Interact series** (Interact Mini, Interact, Interact Pro) as well as **Reply® Plus**.
 
 ## Who is it for?
 
@@ -2641,12 +2588,12 @@ The **VoteCollector** is software from Infowhyse for companies that **already us
 |---|---|
 | You have your own graphics, show or voting software | VoteCollector |
 | You need your own scoring rules and visuals | VoteCollector |
-| You want a turnkey solution for presentations, quizzes or polls | [EdiVote® 3.0](education-and-training.md) |
+| You want a turnkey solution for presentations, quizzes or polls | [EdiVote®](education-and-training.md) |
 | Formal votes in boards or assemblies | [BoardARS](boardars-board-meetings.md), [4elections](4elections-agms.md), [CouncilARS](council-voting.md) |
 
 ## Supported keypads
 
-Interact Mini, Interact, Interact Pro, Reply® Plus and Reply® Mini+, alone or mixed.
+Interact Mini, Interact, Interact Pro and Reply® Plus, alone or mixed.
 
 ## Details
 
