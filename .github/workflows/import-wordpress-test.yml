@@ -14,9 +14,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Install Markdown converter
-        run: python -m pip install markdown
+        
+     - name: Install Markdown and YAML converters
+       run: python -m pip install markdown PyYAML
 
       - name: Import one article as draft
         env:
