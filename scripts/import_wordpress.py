@@ -65,7 +65,19 @@ def api(method, path="", data=None, params=None):
         with urllib.request.urlopen(
             request, timeout=30
         ) as response:
-            return json.load(response)
+            raw = response.read()
+            try:
+                return json.loads(raw)
+            except (ValueError, UnicodeDecodeError) as error:
+                content_type = response.headers.get("Content-Type", "unbekannt")
+                raise RuntimeError(
+                    f"WordPress liefert kein gültiges JSON: {method} {url}; "
+                    f"HTTP {response.status}; Content-Type: {content_type}; "
+                    f"Antwortlänge: {len(raw)} Bytes. "
+                    "Mögliche Ursachen sind eine leere Antwort, eine HTML-Seite "
+                    "oder eine vorgeschaltete Sicherheitsprüfung. "
+                    "Die Antwort wird nicht als erfolgreicher Import behandelt."
+                ) from error
 
     except urllib.error.HTTPError as error:
         details = error.read().decode(
@@ -84,12 +96,14 @@ def find_article(slug, parent=0):
         "GET",
         params={
             "slug": slug,
-            "status": "draft,publish,future,private,pending,trash",
-            "parent": parent,
+            "status": "draft,publish,future,private,pending",
             "per_page": 100,
             "context": "edit",
         },
     )
+
+    if not isinstance(results, list) or any(not isinstance(item, dict) for item in results):
+        raise RuntimeError(f"Unerwartete WordPress-Suchantwort für '{slug}'.")
 
     matches = [
         item
