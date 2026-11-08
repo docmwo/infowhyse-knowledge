@@ -12,6 +12,10 @@ import markdown
 import yaml
 
 
+# --------------------------------------------------
+# WordPress-Konfiguration
+# --------------------------------------------------
+
 BASE_URL = os.environ["WP_URL"].rstrip("/")
 API_URL = f"{BASE_URL}/wp-json/wp/v2/wissen"
 
@@ -27,6 +31,10 @@ auth = base64.b64encode(
 ).decode("ascii")
 
 
+# --------------------------------------------------
+# WordPress REST API
+# --------------------------------------------------
+
 def api(method, path="", data=None, params=None):
     url = API_URL + path
 
@@ -39,6 +47,7 @@ def api(method, path="", data=None, params=None):
     }
 
     body = None
+
     if data is not None:
         body = json.dumps(data).encode("utf-8")
         headers["Content-Type"] = "application/json"
@@ -65,6 +74,10 @@ def api(method, path="", data=None, params=None):
         ) from error
 
 
+# --------------------------------------------------
+# Vorhandene Artikel suchen
+# --------------------------------------------------
+
 def find_article(slug, parent=0):
     results = api(
         "GET",
@@ -77,7 +90,8 @@ def find_article(slug, parent=0):
     )
 
     matches = [
-        item for item in results
+        item
+        for item in results
         if item.get("parent", 0) == parent
     ]
 
@@ -88,6 +102,10 @@ def find_article(slug, parent=0):
 
     return matches[0] if matches else None
 
+
+# --------------------------------------------------
+# Entwurf erstellen oder aktualisieren
+# --------------------------------------------------
 
 def upsert_draft(slug, parent, title, content):
     existing = find_article(slug, parent)
@@ -107,6 +125,7 @@ def upsert_draft(slug, parent, title, content):
                 "content": content,
             },
         )
+
         print(f"Entwurf aktualisiert: {slug}")
         return result
 
@@ -120,9 +139,14 @@ def upsert_draft(slug, parent, title, content):
             "status": "draft",
         },
     )
+
     print(f"Entwurf erstellt: {slug}")
     return result
 
+
+# --------------------------------------------------
+# Markdown mit YAML-Frontmatter lesen
+# --------------------------------------------------
 
 def read_markdown(source):
     text = source.read_text(encoding="utf-8")
@@ -136,18 +160,17 @@ def read_markdown(source):
                 "YAML-Frontmatter ist nicht abgeschlossen."
             )
 
-        metadata = yaml.safe_load(
-            parts[0][4:]
-        ) or {}
-
+        metadata = yaml.safe_load(parts[0][4:]) or {}
         text = parts[1]
 
     return metadata, text
 
 
+# --------------------------------------------------
+# Interne Markdown-Links umwandeln
+# --------------------------------------------------
+
 def convert_links(text):
-    # Relative Markdown-Links innerhalb von content/de/
-    # auf die zukünftigen Wissensartikel-URLs abbilden.
     def replace(match):
         label, target = match.groups()
 
@@ -162,7 +185,9 @@ def convert_links(text):
             SOURCE.parent / target
         ).resolve()
 
-        root = pathlib.Path("content/de").resolve()
+        root = pathlib.Path(
+            "content/de"
+        ).resolve()
 
         try:
             relative = resolved.relative_to(root)
@@ -170,7 +195,11 @@ def convert_links(text):
             return match.group(0)
 
         slug = relative.with_suffix("").as_posix()
-        return f"[{label}]({BASE_URL}/wissen/{slug}/)"
+
+        return (
+            f"[{label}]"
+            f"({BASE_URL}/wissen/{slug}/)"
+        )
 
     return re.sub(
         r"\[([^\]]+)\]\(([^)\s]+\.md)\)",
@@ -178,6 +207,75 @@ def convert_links(text):
         text,
     )
 
+
+# --------------------------------------------------
+# Yoast SEO: Schreibberechtigung testen
+# --------------------------------------------------
+
+def test_yoast_fields(article_id):
+    print("\nPrüfe Yoast-Schreibberechtigung ...")
+
+    test_values = {
+        "_yoast_wpseo_title":
+            "EdiVote – PowerPoint-Abstimmung",
+
+        "_yoast_wpseo_metadesc":
+            "EdiVote PowerPoint-Abstimmung – "
+            "SEO-Importtest aus GitHub.",
+
+        "_yoast_wpseo_focuskw":
+            "PowerPoint Abstimmung",
+    }
+
+    # Nur SEO-Metadaten aktualisieren.
+    # Der Artikelstatus bleibt unverändert.
+    api(
+        "POST",
+        f"/{article_id}",
+        {
+            "meta": test_values,
+        },
+    )
+
+    # Gespeicherte Werte erneut aus WordPress lesen.
+    saved = api(
+        "GET",
+        f"/{article_id}",
+        params={
+            "context": "edit",
+        },
+    )
+
+    if saved.get("status") != "draft":
+        raise RuntimeError(
+            "Sicherheitsprüfung fehlgeschlagen: "
+            "Artikel ist kein Entwurf."
+        )
+
+    meta = saved.get("meta", {})
+
+    for field, expected in test_values.items():
+        actual = meta.get(field)
+
+        if actual != expected:
+            raise RuntimeError(
+                f"Yoast-Feld wurde nicht korrekt "
+                f"gespeichert: {field}. "
+                f"Erwartet: {expected!r}, "
+                f"erhalten: {actual!r}"
+            )
+
+        print(f"Erfolgreich gespeichert: {field}")
+
+    print(
+        "\nAlle drei Yoast-Felder erfolgreich "
+        "gespeichert und überprüft!"
+    )
+
+
+# --------------------------------------------------
+# Hauptprogramm
+# --------------------------------------------------
 
 def main():
     metadata, content = read_markdown(SOURCE)
@@ -191,13 +289,19 @@ def main():
         SOURCE.stem,
     )
 
+    # Markdown-Links in WordPress-Links umwandeln
     content = convert_links(content)
 
+    # Markdown in HTML umwandeln
     html = markdown.markdown(
         content,
-        extensions=["extra", "sane_lists"],
+        extensions=[
+            "extra",
+            "sane_lists",
+        ],
     )
 
+    # Übergeordneten Artikel erstellen/aktualisieren
     parent = upsert_draft(
         slug="loesungen",
         parent=0,
@@ -205,6 +309,7 @@ def main():
         content="",
     )
 
+    # EdiVote-Testartikel erstellen/aktualisieren
     article = upsert_draft(
         slug="edivote-powerpoint-abstimmung",
         parent=parent["id"],
@@ -212,13 +317,24 @@ def main():
         content=html,
     )
 
-    print("Import erfolgreich!")
+    print("\nImport erfolgreich!")
     print("Artikel-ID:", article["id"])
+
     print(
         "Erwartete URL:",
         f"{BASE_URL}/wissen/loesungen/"
         "edivote-powerpoint-abstimmung/",
     )
+
+    # Sicherheit: Nur vorhandenen Entwurf testen
+    if article.get("status") != "draft":
+        raise RuntimeError(
+            "Yoast-Test abgebrochen: "
+            "Artikel ist kein Entwurf."
+        )
+
+    # Yoast-Felder schreiben und überprüfen
+    test_yoast_fields(article["id"])
 
 
 if __name__ == "__main__":
