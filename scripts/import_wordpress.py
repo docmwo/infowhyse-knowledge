@@ -1,3 +1,4 @@
+import html as html_lib
 import argparse
 import base64
 import json
@@ -308,7 +309,7 @@ def update_yoast_fields(article_id, expected_values):
 PARENT_TITLES = {
     "branchen": "Branchen",
     "loesungen": "Lösungen",
-    "hardware": "Hardware",
+    "hardware": "Abstimmgeräte",
     "ratgeber": "Ratgeber",
     "begriffe": "Begriffe",
 }
@@ -335,7 +336,7 @@ def prepare_articles():
             section = relative.parts[0] if len(relative.parts) == 2 else None
             if section is not None and section not in PARENT_TITLES:
                 raise RuntimeError(f"Unbekannter Ordner: {section}")
-            if section is None and relative.name in PARENT_TITLES:
+            if section is None and relative.name in {*PARENT_TITLES, "start"}:
                 raise RuntimeError("Artikel kollidiert mit einem Bereichs-Slug.")
             metadata, content = read_markdown(source)
             seo = yoast_values(metadata)
@@ -345,7 +346,8 @@ def prepare_articles():
                                      extensions=["extra", "sane_lists"])
             articles.append({"path": relative.as_posix(), "slug": relative.name,
                              "section": section, "title": metadata["title"],
-                             "content": html, "meta": seo})
+                             "content": html, "meta": seo,
+                             "description": metadata["description"]})
         except (RuntimeError, ValueError, yaml.YAMLError) as error:
             errors.append(f"{source.relative_to(REPO_ROOT)}: {error}")
     if errors:
@@ -353,13 +355,107 @@ def prepare_articles():
     return articles
 
 
+GENERATED_MARKER = "<!-- infowhyse:generated-navigation:v1 -->"
+SECTION_INTROS = {
+    "branchen": "Finden Sie passende Abstimmungslösungen für Ihre Branche und Ihre Versammlung.",
+    "loesungen": "Vergleichen Sie Software und Verfahren für Wahlen, Abstimmungen und Live-Umfragen.",
+    "hardware": "Lernen Sie Reply-Abstimmgeräte kennen und vergleichen Sie die Modelle.",
+    "ratgeber": "Planen Sie Ihre Abstimmung mit Checklisten, Entscheidungshilfen und Praxiswissen.",
+    "begriffe": "Schlagen Sie Begriffe rund um elektronische Abstimmungen nach.",
+}
+
+
+def knowledge_url(path):
+    return f"{BASE_URL}/wissen/{path}/"
+
+
+def link(path, label):
+    return (f'<a href="{html_lib.escape(knowledge_url(path), quote=True)}">'
+            f'{html_lib.escape(label)}</a>')
+
+
+def navigation_content(articles):
+    """Übersichten aus denselben Quelldaten wie die Artikel erzeugen."""
+    by_path = {article["path"]: article for article in articles}
+    for required in ("faq", "begriffe/glossar"):
+        if required not in by_path:
+            raise RuntimeError(f"Navigation benötigt den Artikel: {required}")
+    sections = {}
+    for section in PARENT_TITLES:
+        children = sorted((a for a in articles if a["section"] == section),
+                          key=lambda a: a["title"].casefold())
+        if not children:
+            raise RuntimeError(f"Bereich ohne Artikel: {section}")
+        items = "\n".join(
+            f'<li><h2>{link(a["path"], a["title"])}</h2>'
+            f'<p>{html_lib.escape(a["description"])}</p></li>' for a in children
+        )
+        sections[section] = (
+            GENERATED_MARKER + '<nav aria-label="Brotkrümelnavigation">'
+            + link("start", "Wissen") + ' / '
+            + html_lib.escape(PARENT_TITLES[section]) + '</nav>'
+            + f'<p>{html_lib.escape(SECTION_INTROS[section])}</p><ul>{items}</ul>'
+        )
+    entries = [
+        ("branchen", "Branchen", SECTION_INTROS["branchen"]),
+        ("loesungen", "Lösungen", SECTION_INTROS["loesungen"]),
+        ("hardware", "Abstimmgeräte", SECTION_INTROS["hardware"]),
+        ("ratgeber", "Ratgeber", SECTION_INTROS["ratgeber"]),
+        ("begriffe/glossar", "Glossar", "Begriffe verständlich erklärt."),
+        ("faq", "Häufige Fragen", "Antworten auf häufige Fragen zu Abstimmungssystemen."),
+    ]
+    cards = "".join(
+        '<li style="border:1px solid #ddd;border-radius:8px;padding:1.25rem;">'
+        f'<h2>{link(path, title)}</h2><p>{html_lib.escape(description)}</p></li>'
+        for path, title, description in entries
+    )
+    home = (GENERATED_MARKER
+            + '<p>Wie stimmen Sie sicher und passend zu Ihrer Veranstaltung ab? '
+            'Hier finden Sie Lösungen, Geräte und praktische Hilfen für Ihre Planung.</p>'
+            + '<ul style="list-style:none;padding:0;display:grid;'
+            'grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:1rem;">'
+            + cards + '</ul><p>' + link("ueber-infowhyse", "Über Infowhyse") + '</p>')
+    if "ueber-infowhyse" not in by_path:
+        raise RuntimeError("Navigation benötigt ueber-infowhyse.md.")
+    for article in articles:
+        section = article["section"]
+        crumbs = link("start", "Wissen")
+        if section:
+            crumbs += " / " + link(section, PARENT_TITLES[section])
+        article["content"] = (
+            '<nav aria-label="Brotkrümelnavigation">' + crumbs + ' / '
+            + html_lib.escape(article["title"]) + '</nav>' + article["content"]
+            + '<p>' + (link(section, "Zur Bereichsübersicht") if section
+                       else link("start", "Zur Wissensübersicht")) + '</p>'
+        )
+    return home, sections
+
+
+def check_generated_target(existing, slug):
+    if not existing:
+        return
+    verify_identity(existing, slug, 0)
+    content = existing.get("content", {}).get("raw")
+    if not isinstance(content, str):
+        raise RuntimeError(f"Bereichsinhalt nicht lesbar: {slug}")
+    if content.strip() and GENERATED_MARKER not in content:
+        raise RuntimeError(
+            f"'{slug}' enthält manuell gepflegte Inhalte. "
+            "Automatisches Überschreiben abgebrochen."
+        )
+
+
 def preflight(articles):
     """Alle betroffenen vorhandenen Artikel vor dem ersten POST prüfen."""
+    start = find_article("start", 0)
+    check_generated_target(start, "start")
+    print("Wissen-Startseite: " + ("aktualisieren" if start else "neu"))
     parents = {}
     for section in sorted({a["section"] for a in articles if a["section"]}):
         existing = find_article(section, 0)
         if existing and existing.get("status") != "draft":
             raise RuntimeError(f"Bereich '{section}' ist kein Entwurf.")
+        check_generated_target(existing, section)
         parents[section] = existing
         print(f"Bereich {section}: " + ("Entwurf vorhanden" if existing else "neu"))
     for article in articles:
@@ -382,19 +478,29 @@ def main():
     configure()
     articles = prepare_articles()
     print(f"Lokal geprüft: {len(articles)} deutsche Artikel; keine englischen Inhalte.")
+    home_content, section_contents = navigation_content(articles)
     parents = preflight(articles)
     if not args.apply:
         print("Prüfmodus abgeschlossen. Keine Änderungen an WordPress.")
         return
+    # Vorhandene URLs und Parent-Zuordnungen bleiben erhalten.
+    check_generated_target(find_article("start", 0), "start")
+    home = upsert_draft("start", 0, "Wissen", home_content)
+    update_yoast_fields(home["id"], {
+        "_yoast_wpseo_title": "Wissen zu Abstimmungssystemen | Infowhyse",
+        "_yoast_wpseo_metadesc": "Branchen, Abstimmungslösungen, Reply-Abstimmgeräte und Ratgeber: Finden Sie das passende Wissen für Ihre Veranstaltung.",
+        "_yoast_wpseo_focuskw": "Abstimmungssysteme",
+    })
     parent_ids = {}
     for section in parents:
-        # Bestehende Bereichsinhalte bewahren; neue Bereiche bleiben zunächst leer.
-        existing = find_article(section, 0)
-        if existing:
-            verify_identity(existing, section, 0)
-            parent_ids[section] = existing["id"]
-        else:
-            parent_ids[section] = upsert_draft(section, 0, PARENT_TITLES[section], "")["id"]
+        check_generated_target(find_article(section, 0), section)
+        saved = upsert_draft(section, 0, PARENT_TITLES[section], section_contents[section])
+        parent_ids[section] = saved["id"]
+        update_yoast_fields(saved["id"], {
+            "_yoast_wpseo_title": PARENT_TITLES[section] + " | Infowhyse Wissen",
+            "_yoast_wpseo_metadesc": SECTION_INTROS[section],
+            "_yoast_wpseo_focuskw": PARENT_TITLES[section],
+        })
     for article in articles:
         parent_id = parent_ids.get(article["section"], 0)
         if parent_id:
@@ -406,7 +512,8 @@ def main():
         persisted = api("GET", f"/{saved['id']}", params={"context": "edit"})
         verify_identity(persisted, article["slug"], parent_id)
         print(f"Geprüft: {BASE_URL}/wissen/{article['path']}/ (ID {saved['id']})")
-    print(f"Import erfolgreich: {len(articles)} Artikel als Entwürfe geprüft.")
+    print(f"Import erfolgreich: {len(articles)} Artikel, 5 Bereiche und Wissen-Startseite als Entwürfe geprüft.")
+    print("Menüziel Wissen:", knowledge_url("start"))
 
 
 if __name__ == "__main__":
