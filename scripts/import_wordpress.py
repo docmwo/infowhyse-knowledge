@@ -120,21 +120,18 @@ def find_article(slug, parent=0):
     return matches[0] if matches else None
 
 # --------------------------------------------------
-# Entwurf erstellen oder aktualisieren
+# Artikel aktualisieren; neue Artikel ausschließlich als Entwurf erstellen
 # --------------------------------------------------
 
-def upsert_draft(slug, parent, title, content):
+def upsert_article(slug, parent, title, content):
     existing = find_article(slug, parent)
 
     if existing:
         existing = api("GET", f"/{existing['id']}", params={"context": "edit"})
         if existing.get("parent", 0) != parent or existing.get("slug") != slug:
             raise RuntimeError(f"Artikelzuordnung geändert: {slug}")
-        if existing["status"] != "draft":
-            raise RuntimeError(
-                f"Artikel '{slug}' ist kein Entwurf. "
-                "Automatische Änderung abgebrochen."
-            )
+        verify_identity(existing, slug, parent)
+        original_status = existing["status"]
 
         result = api(
             "POST",
@@ -145,8 +142,8 @@ def upsert_draft(slug, parent, title, content):
             },
         )
 
-        verify_identity(result, slug, parent)
-        print(f"Entwurf aktualisiert: {slug}")
+        verify_identity(result, slug, parent, original_status)
+        print(f"Artikel aktualisiert ({original_status}): {slug}")
         return result
 
     result = api(
@@ -160,7 +157,7 @@ def upsert_draft(slug, parent, title, content):
         },
     )
 
-    verify_identity(result, slug, parent)
+    verify_identity(result, slug, parent, "draft")
     print(f"Entwurf erstellt: {slug}")
     return result
 
@@ -247,15 +244,13 @@ def yoast_values(metadata):
     }
 
 
-def update_yoast_fields(article_id, expected_values):
+def update_yoast_fields(article_id, expected_values, expected_status):
     print("\nÜbernehme Yoast-Metadaten aus YAML ...")
 
-    # Entwurfsstatus unmittelbar vor dem Schreiben erneut prüfen.
+    # Den beim Inhaltsimport bestätigten Status vor dem SEO-Schreiben prüfen.
     current = api("GET", f"/{article_id}", params={"context": "edit"})
-    if current.get("status") != "draft":
-        raise RuntimeError(
-            "Yoast-Import abgebrochen: Artikel ist kein Entwurf."
-        )
+    if current.get("status") != expected_status or expected_status not in ("draft", "publish"):
+        raise RuntimeError("Yoast-Import abgebrochen: Artikelstatus geändert oder nicht freigegeben.")
 
     # Nur SEO-Metadaten aktualisieren.
     # Der Artikelstatus bleibt unverändert.
@@ -276,10 +271,10 @@ def update_yoast_fields(article_id, expected_values):
         },
     )
 
-    if saved.get("status") != "draft":
+    if saved.get("status") != expected_status:
         raise RuntimeError(
             "Sicherheitsprüfung fehlgeschlagen: "
-            "Artikel ist kein Entwurf."
+            "Artikelstatus wurde unerwartet geändert."
         )
 
     meta = saved.get("meta", {})
@@ -315,11 +310,12 @@ PARENT_TITLES = {
 }
 
 
-def verify_identity(article, slug, parent):
-    if (article.get("status") != "draft"
+def verify_identity(article, slug, parent, expected_status=None):
+    if (article.get("status") not in ("draft", "publish")
+            or (expected_status is not None and article.get("status") != expected_status)
             or article.get("slug") != slug
             or article.get("parent", 0) != parent):
-        raise RuntimeError(f"Entwurfsstatus oder Artikelzuordnung unerwartet: {slug}")
+        raise RuntimeError(f"Artikelstatus oder Artikelzuordnung unerwartet: {slug}")
 
 
 def prepare_articles():
@@ -453,26 +449,24 @@ def preflight(articles):
     parents = {}
     for section in sorted({a["section"] for a in articles if a["section"]}):
         existing = find_article(section, 0)
-        if existing and existing.get("status") != "draft":
-            raise RuntimeError(f"Bereich '{section}' ist kein Entwurf.")
         check_generated_target(existing, section)
         parents[section] = existing
-        print(f"Bereich {section}: " + ("Entwurf vorhanden" if existing else "neu"))
+        print(f"Bereich {section}: " + (existing["status"] + " vorhanden" if existing else "neu"))
     for article in articles:
         section = article["section"]
         parent = parents.get(section) if section else None
         existing = (find_article(article["slug"], parent["id"] if parent else 0)
                     if not section or parent else None)
-        if existing and existing.get("status") != "draft":
-            raise RuntimeError(f"Artikel '{article['path']}' ist kein Entwurf.")
+        if existing:
+            verify_identity(existing, article["slug"], parent["id"] if parent else 0)
         print(("AKTUALISIEREN " if existing else "NEU ") + article["path"])
     return parents
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Deutsche Wissensartikel als Entwürfe importieren.")
+    parser = argparse.ArgumentParser(description="Wissensartikel aktualisieren; Status bewahren, neue Inhalte als Entwurf.")
     mode = parser.add_mutually_exclusive_group()
-    mode.add_argument("--apply", action="store_true", help="Entwürfe schreiben und SEO prüfen")
+    mode.add_argument("--apply", action="store_true", help="Artikel schreiben und SEO prüfen; bestehende Veröffentlichung bewahren")
     mode.add_argument("--dry-run", action="store_true", help="Nur prüfen (Standard)")
     args = parser.parse_args()
     configure()
@@ -485,34 +479,34 @@ def main():
         return
     # Vorhandene URLs und Parent-Zuordnungen bleiben erhalten.
     check_generated_target(find_article("start", 0), "start")
-    home = upsert_draft("start", 0, "Wissen", home_content)
+    home = upsert_article("start", 0, "Wissen", home_content)
     update_yoast_fields(home["id"], {
         "_yoast_wpseo_title": "Wissen zu Abstimmungssystemen | Infowhyse",
         "_yoast_wpseo_metadesc": "Branchen, Abstimmungslösungen, Reply-Abstimmgeräte und Ratgeber: Finden Sie das passende Wissen für Ihre Veranstaltung.",
         "_yoast_wpseo_focuskw": "Abstimmungssysteme",
-    })
+    }, home["status"])
     parent_ids = {}
     for section in parents:
         check_generated_target(find_article(section, 0), section)
-        saved = upsert_draft(section, 0, PARENT_TITLES[section], section_contents[section])
+        saved = upsert_article(section, 0, PARENT_TITLES[section], section_contents[section])
         parent_ids[section] = saved["id"]
         update_yoast_fields(saved["id"], {
             "_yoast_wpseo_title": PARENT_TITLES[section] + " | Infowhyse Wissen",
             "_yoast_wpseo_metadesc": SECTION_INTROS[section],
             "_yoast_wpseo_focuskw": PARENT_TITLES[section],
-        })
+        }, saved["status"])
     for article in articles:
         parent_id = parent_ids.get(article["section"], 0)
         if parent_id:
             parent = api("GET", f"/{parent_id}", params={"context": "edit"})
             verify_identity(parent, article["section"], 0)
-        saved = upsert_draft(article["slug"], parent_id,
+        saved = upsert_article(article["slug"], parent_id,
                              article["title"], article["content"])
-        update_yoast_fields(saved["id"], article["meta"])
+        update_yoast_fields(saved["id"], article["meta"], saved["status"])
         persisted = api("GET", f"/{saved['id']}", params={"context": "edit"})
-        verify_identity(persisted, article["slug"], parent_id)
+        verify_identity(persisted, article["slug"], parent_id, saved["status"])
         print(f"Geprüft: {BASE_URL}/wissen/{article['path']}/ (ID {saved['id']})")
-    print(f"Import erfolgreich: {len(articles)} Artikel, 5 Bereiche und Wissen-Startseite als Entwürfe geprüft.")
+    print(f"Import erfolgreich: {len(articles)} Artikel, 5 Bereiche und Wissen-Startseite geprüft; vorhandener Status bewahrt, neue Inhalte als Entwurf.")
     print("Menüziel Wissen:", knowledge_url("start"))
 
 
