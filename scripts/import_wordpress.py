@@ -5,6 +5,7 @@ import json
 import os
 import pathlib
 import re
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -67,6 +68,34 @@ def api(method, path="", data=None, params=None):
             request, timeout=30
         ) as response:
             raw = response.read()
+    # Nur Leseabfragen mit temporärer Serverantwort wiederholen.
+    # POST niemals automatisch wiederholen: Die Speicherung könnte erfolgt sein.
+    delays = (2, 5, 10)
+    attempts = len(delays) + 1 if method == "GET" else 1
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                raw = response.read()
+                status = response.status
+                content_type = response.headers.get("Content-Type", "unbekannt")
+                server = response.headers.get("Server", "unbekannt")
+            if status == 202:
+                if method == "GET" and attempt < len(delays):
+                    delay = delays[attempt]
+                    print(f"Leseabfrage: HTTP 202; erneuter Versuch in {delay} Sekunden.", flush=True)
+                    time.sleep(delay)
+                    continue
+                raise RuntimeError(
+                    f"REST-Abfrage abgewiesen oder zurückgestellt: {method} {url}; "
+                    f"HTTP {status}; Content-Type: {content_type}; Server: {server}; "
+                    f"Antwortlänge: {len(raw)} Bytes. "
+                    "Bitte Hosting-/Sicherheitsprotokoll für diese Anfrage prüfen. "
+                    "Authentifizierte REST-Zugriffe aus GitHub Actions müssen "
+                    "ohne Browser-Challenge möglich sein. "
+                    "Schreibabfragen werden nicht automatisch wiederholt."
+                )
+            if status not in (200, 201):
+                raise RuntimeError(f"Unerwarteter REST-Status: {method} {url}; HTTP {status}.")
             try:
                 return json.loads(raw)
             except (ValueError, UnicodeDecodeError) as error:
@@ -74,11 +103,21 @@ def api(method, path="", data=None, params=None):
                 raise RuntimeError(
                     f"WordPress liefert kein gültiges JSON: {method} {url}; "
                     f"HTTP {response.status}; Content-Type: {content_type}; "
+                    f"HTTP {status}; Content-Type: {content_type}; Server: {server}; "
                     f"Antwortlänge: {len(raw)} Bytes. "
                     "Mögliche Ursachen sind eine leere Antwort, eine HTML-Seite "
                     "oder eine vorgeschaltete Sicherheitsprüfung. "
                     "Die Antwort wird nicht als erfolgreicher Import behandelt."
+                    "Bitte Hosting-/Sicherheitsprotokoll prüfen."
                 ) from error
+        except urllib.error.HTTPError as error:
+            details = error.read().decode("utf-8", errors="replace")
+            if method == "GET" and error.code in (429, 502, 503, 504) and attempt < len(delays):
+                delay = delays[attempt]
+                print(f"Leseabfrage: HTTP {error.code}; erneuter Versuch in {delay} Sekunden.", flush=True)
+                time.sleep(delay)
+                continue
+            raise RuntimeError(f"WordPress API HTTP {error.code}: {details}") from error
 
     except urllib.error.HTTPError as error:
         details = error.read().decode(
