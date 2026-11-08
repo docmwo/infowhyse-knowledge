@@ -30,5 +30,10 @@ jobs:
             echo "WordPress connection successful!"
           else
             echo "WordPress connection failed (HTTP $response)"
+            echo "Response content type:"
+            file --mime-type /tmp/wp-response.json
+            echo "Response preview:"
+            head -c 500 /tmp/wp-response.json
+            echo
             exit 1
           fi
