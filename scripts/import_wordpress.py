@@ -63,11 +63,6 @@ def api(method, path="", data=None, params=None):
         method=method,
     )
 
-    try:
-        with urllib.request.urlopen(
-            request, timeout=30
-        ) as response:
-            raw = response.read()
     # Nur Leseabfragen mit temporärer Serverantwort wiederholen.
     # POST niemals automatisch wiederholen: Die Speicherung könnte erfolgt sein.
     delays = (2, 5, 10)
@@ -99,15 +94,10 @@ def api(method, path="", data=None, params=None):
             try:
                 return json.loads(raw)
             except (ValueError, UnicodeDecodeError) as error:
-                content_type = response.headers.get("Content-Type", "unbekannt")
                 raise RuntimeError(
                     f"WordPress liefert kein gültiges JSON: {method} {url}; "
-                    f"HTTP {response.status}; Content-Type: {content_type}; "
                     f"HTTP {status}; Content-Type: {content_type}; Server: {server}; "
                     f"Antwortlänge: {len(raw)} Bytes. "
-                    "Mögliche Ursachen sind eine leere Antwort, eine HTML-Seite "
-                    "oder eine vorgeschaltete Sicherheitsprüfung. "
-                    "Die Antwort wird nicht als erfolgreicher Import behandelt."
                     "Bitte Hosting-/Sicherheitsprotokoll prüfen."
                 ) from error
         except urllib.error.HTTPError as error:
@@ -118,14 +108,6 @@ def api(method, path="", data=None, params=None):
                 time.sleep(delay)
                 continue
             raise RuntimeError(f"WordPress API HTTP {error.code}: {details}") from error
-
-    except urllib.error.HTTPError as error:
-        details = error.read().decode(
-            "utf-8", errors="replace"
-        )
-        raise RuntimeError(
-            f"WordPress API HTTP {error.code}: {details}"
-        ) from error
 
 # --------------------------------------------------
 # Vorhandene Artikel suchen
