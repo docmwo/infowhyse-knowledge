@@ -1,4 +1,3 @@
-
 import base64
 import json
 import os
@@ -10,7 +9,6 @@ import urllib.request
 
 import markdown
 import yaml
-
 
 # --------------------------------------------------
 # WordPress-Konfiguration
@@ -29,7 +27,6 @@ PASSWORD = os.environ["WP_APP_PASSWORD"]
 auth = base64.b64encode(
     f"{USERNAME}:{PASSWORD}".encode("utf-8")
 ).decode("ascii")
-
 
 # --------------------------------------------------
 # WordPress REST API
@@ -73,7 +70,6 @@ def api(method, path="", data=None, params=None):
             f"WordPress API HTTP {error.code}: {details}"
         ) from error
 
-
 # --------------------------------------------------
 # Vorhandene Artikel suchen
 # --------------------------------------------------
@@ -101,7 +97,6 @@ def find_article(slug, parent=0):
         )
 
     return matches[0] if matches else None
-
 
 # --------------------------------------------------
 # Entwurf erstellen oder aktualisieren
@@ -143,7 +138,6 @@ def upsert_draft(slug, parent, title, content):
     print(f"Entwurf erstellt: {slug}")
     return result
 
-
 # --------------------------------------------------
 # Markdown mit YAML-Frontmatter lesen
 # --------------------------------------------------
@@ -164,7 +158,6 @@ def read_markdown(source):
         text = parts[1]
 
     return metadata, text
-
 
 # --------------------------------------------------
 # Interne Markdown-Links umwandeln
@@ -207,25 +200,47 @@ def convert_links(text):
         text,
     )
 
-
 # --------------------------------------------------
-# Yoast SEO: Schreibberechtigung testen
+# Yoast SEO aus YAML-Metadaten übernehmen
 # --------------------------------------------------
 
-def test_yoast_fields(article_id):
-    print("\nPrüfe Yoast-Schreibberechtigung ...")
+def yoast_values(metadata):
+    if not isinstance(metadata, dict):
+        raise RuntimeError("YAML-Frontmatter muss eine Zuordnung sein.")
 
-    test_values = {
-        "_yoast_wpseo_title":
-            "EdiVote – PowerPoint-Abstimmung",
+    for field in ("title", "description"):
+        value = metadata.get(field)
+        if not isinstance(value, str) or not value.strip():
+            raise RuntimeError(f"YAML-Feld '{field}' muss ein nicht leerer Text sein.")
 
-        "_yoast_wpseo_metadesc":
-            "EdiVote PowerPoint-Abstimmung – "
-            "SEO-Importtest aus GitHub.",
+    keywords = metadata.get("keywords")
+    if (
+        not isinstance(keywords, list)
+        or not keywords
+        or not isinstance(keywords[0], str)
+        or not keywords[0].strip()
+    ):
+        raise RuntimeError(
+            "YAML-Feld 'keywords' muss eine Liste mit einem nicht leeren "
+            "ersten Text-Element sein."
+        )
 
-        "_yoast_wpseo_focuskw":
-            "PowerPoint Abstimmung",
+    return {
+        "_yoast_wpseo_title": metadata["title"],
+        "_yoast_wpseo_metadesc": metadata["description"],
+        "_yoast_wpseo_focuskw": keywords[0],
     }
+
+
+def update_yoast_fields(article_id, expected_values):
+    print("\nÜbernehme Yoast-Metadaten aus YAML ...")
+
+    # Entwurfsstatus unmittelbar vor dem Schreiben erneut prüfen.
+    current = api("GET", f"/{article_id}", params={"context": "edit"})
+    if current.get("status") != "draft":
+        raise RuntimeError(
+            "Yoast-Import abgebrochen: Artikel ist kein Entwurf."
+        )
 
     # Nur SEO-Metadaten aktualisieren.
     # Der Artikelstatus bleibt unverändert.
@@ -233,7 +248,7 @@ def test_yoast_fields(article_id):
         "POST",
         f"/{article_id}",
         {
-            "meta": test_values,
+            "meta": expected_values,
         },
     )
 
@@ -254,7 +269,7 @@ def test_yoast_fields(article_id):
 
     meta = saved.get("meta", {})
 
-    for field, expected in test_values.items():
+    for field, expected in expected_values.items():
         actual = meta.get(field)
 
         if actual != expected:
@@ -272,7 +287,6 @@ def test_yoast_fields(article_id):
         "gespeichert und überprüft!"
     )
 
-
 # --------------------------------------------------
 # Hauptprogramm
 # --------------------------------------------------
@@ -280,14 +294,9 @@ def test_yoast_fields(article_id):
 def main():
     metadata, content = read_markdown(SOURCE)
 
-    title = metadata.get("title") or next(
-        (
-            line[2:].strip()
-            for line in content.splitlines()
-            if line.startswith("# ")
-        ),
-        SOURCE.stem,
-    )
+    # Vor jeder WordPress-Änderung alle benötigten SEO-Werte validieren.
+    seo_meta = yoast_values(metadata)
+    title = metadata["title"]
 
     # Markdown-Links in WordPress-Links umwandeln
     content = convert_links(content)
@@ -317,7 +326,6 @@ def main():
         content=html,
     )
 
-    print("\nImport erfolgreich!")
     print("Artikel-ID:", article["id"])
 
     print(
@@ -333,9 +341,9 @@ def main():
             "Artikel ist kein Entwurf."
         )
 
-    # Yoast-Felder schreiben und überprüfen
-    test_yoast_fields(article["id"])
-
+    # Yoast-Felder schreiben und per separatem GET überprüfen.
+    update_yoast_fields(article["id"], seo_meta)
+    print("\nImport erfolgreich; Entwurf und Yoast-Metadaten überprüft!")
 
 if __name__ == "__main__":
     main()
