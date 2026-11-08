@@ -1,6 +1,6 @@
 ---
-title: "EdiVote® 3.0 – Abstimmung und Quiz direkt in PowerPoint"
-description: "EdiVote® 3.0 ist ein PowerPoint-Add-In für Live-Umfragen, Quiz, Rankings und Bewertungen mit Reply®-Keypads oder Smartphones. Excel-Berichte, Teams, Gruppen. Für Vorträge, Schulungen, Kongresse, CME."
+title: "EdiVote® 3.1 – Abstimmung und Quiz direkt in PowerPoint"
+description: "EdiVote® 3.1 ist ein PowerPoint-Add-In für Live-Umfragen, Quiz, Rankings und Bewertungen mit Reply®-Keypads oder Smartphones. Excel-Berichte, Teams, Gruppen. Für Vorträge, Schulungen, Kongresse, CME."
 lang: de
 type: loesung
 keywords: ["EdiVote", "PowerPoint Abstimmung", "Abstimmsystem PowerPoint", "Live Voting Vortrag", "Quiz PowerPoint Keypad", "Audience Response PowerPoint"]
@@ -10,11 +10,11 @@ website_urls:
 updated: 2026-09-26
 ---
 
-# EdiVote® 3.0
+# EdiVote® 3.1
 
 ## Kurzantwort
 
-**EdiVote® 3.0** ist ein PowerPoint-Add-In von Infowhyse für interaktive Präsentationen. Fragen werden direkt in die Folien eingebaut; das Publikum antwortet per Reply®-Abstimmgerät oder Smartphone ([BYOPAD™](byopad-browser-abstimmung.md)), und die Ergebnisse erscheinen live in der Präsentation. Unterstützt wird Microsoft PowerPoint für Windows ab Version 2016 bis Office 365 (nicht die reine Browser-Variante und nicht Office für Mac).
+**EdiVote® 3.1** ist ein PowerPoint-Add-In von Infowhyse für interaktive Präsentationen. Fragen werden direkt in die Folien eingebaut; das Publikum antwortet per Reply®-Abstimmgerät oder Smartphone ([BYOPAD™](byopad-browser-abstimmung.md)), und die Ergebnisse erscheinen live in der Präsentation. Unterstützt wird Microsoft PowerPoint für Windows ab Version 2016 bis Office 365 (nicht die reine Browser-Variante und nicht Office für Mac).
 
 ## Funktionen
 
