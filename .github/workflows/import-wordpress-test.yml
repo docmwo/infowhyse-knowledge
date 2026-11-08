@@ -14,77 +14,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
-     - name: Install Markdown and YAML converters
-       run: python -m pip install markdown PyYAML
+
+      - name: Install Markdown and YAML converters
+        run: python -m pip install markdown PyYAML
 
       - name: Import one article as draft
         env:
           WP_URL: ${{ secrets.WP_URL }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
           WP_USER: github-publisher
-        run: |
-          python - <<'PY'
-          import json
-          import os
-          import pathlib
-          import urllib.request
-          import urllib.error
-          import base64
-          import markdown
-
-          source = pathlib.Path(
-              "content/de/loesungen/edivote-powerpoint-abstimmung.md"
-          )
-
-          content = source.read_text(encoding="utf-8")
-          title = next(
-              (line.removeprefix("# ").strip()
-               for line in content.splitlines()
-               if line.startswith("# ")),
-              source.stem.replace("-", " ").title()
-          )
-
-          html = markdown.markdown(
-              content, extensions=["extra", "sane_lists"]
-          )
-
-          payload = json.dumps({
-              "title": title,
-              "content": html,
-              "status": "draft",
-              "categories": [252]
-          }).encode("utf-8")
-
-          url = os.environ["WP_URL"].rstrip("/")
-          username = os.environ["WP_USER"]
-          password = os.environ["WP_APP_PASSWORD"]
-
-          auth = base64.b64encode(
-              f"{username}:{password}".encode()
-          ).decode()
-
-          request = urllib.request.Request(
-              f"{url}/wp-json/wp/v2/posts",
-              data=payload,
-              headers={
-                  "Authorization": f"Basic {auth}",
-                  "Content-Type": "application/json",
-                  "Accept": "application/json"
-              },
-              method="POST"
-          )
-
-          try:
-              with urllib.request.urlopen(
-                  request, timeout=30
-              ) as response:
-                  result = json.load(response)
-                  assert result["status"] == "draft"
-                  print("Draft created successfully!")
-                  print("Post ID:", result["id"])
-                  print("Title:", result["title"]["rendered"])
-          except urllib.error.HTTPError as error:
-              print("Import failed (HTTP", error.code, ")")
-              raise SystemExit(1)
-          PY
+        run: python scripts/import_wordpress.py
