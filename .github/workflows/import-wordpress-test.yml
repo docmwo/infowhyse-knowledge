@@ -1,69 +1,41 @@
-
 name: Test WordPress Import
 
 on:
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Prüfen oder alle deutschen Artikel als Entwürfe importieren'
+        required: true
+        default: dry-run
+        type: choice
+        options:
+          - dry-run
+          - apply
 
 permissions:
   contents: read
 
+concurrency:
+  group: wordpress-wissen-import
+  cancel-in-progress: false
+
 jobs:
   import:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Install Markdown and YAML converters
         run: python -m pip install markdown PyYAML
-
-      - name: Import one article as draft
+      - name: Prüfen oder Entwürfe importieren
         env:
           WP_URL: ${{ secrets.WP_URL }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
           WP_USER: github-publisher
-        run: python scripts/import_wordpress.py
-
-      - name: Check Yoast REST API fields
-        env:
-          WP_URL: ${{ secrets.WP_URL }}
-          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
-          WP_USER: github-publisher
+          IMPORT_MODE: ${{ inputs.mode }}
         run: |
-          python - <<'PY'
-          import base64
-          import json
-          import os
-          import urllib.request
-
-          url = os.environ["WP_URL"].rstrip("/")
-          credentials = (
-              f'{os.environ["WP_USER"]}:'
-              f'{os.environ["WP_APP_PASSWORD"]}'
-          )
-          auth = base64.b64encode(
-              credentials.encode()
-          ).decode()
-
-          request = urllib.request.Request(
-              f"{url}/wp-json/wp/v2/types/wissen"
-              "?context=edit",
-              headers={
-                  "Authorization": f"Basic {auth}",
-                  "Accept": "application/json"
-              }
-          )
-
-          with urllib.request.urlopen(
-              request, timeout=30
-          ) as response:
-              data = json.load(response)
-
-          print("REST API accessible:", data["slug"])
-
-          print(
-              "Yoast fields require a separate "
-              "authenticated metadata test."
-          )
-          PY
+          case "$IMPORT_MODE" in
+            dry-run) python scripts/import_wordpress.py --dry-run ;;
+            apply) python scripts/import_wordpress.py --apply ;;
+            *) echo "Unbekannter Importmodus"; exit 1 ;;
+          esac
