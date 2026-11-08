@@ -1,3 +1,4 @@
+import argparse
 import base64
 import json
 import os
@@ -14,19 +15,23 @@ import yaml
 # WordPress-Konfiguration
 # --------------------------------------------------
 
-BASE_URL = os.environ["WP_URL"].rstrip("/")
-API_URL = f"{BASE_URL}/wp-json/wp/v2/wissen"
+REPO_ROOT = pathlib.Path(__file__).resolve().parents[1]
+CONTENT_ROOT = REPO_ROOT / "content/de"
+BASE_URL = ""
+API_URL = ""
+auth = ""
 
-SOURCE = pathlib.Path(
-    "content/de/loesungen/edivote-powerpoint-abstimmung.md"
-)
 
-USERNAME = os.environ["WP_USER"]
-PASSWORD = os.environ["WP_APP_PASSWORD"]
-
-auth = base64.b64encode(
-    f"{USERNAME}:{PASSWORD}".encode("utf-8")
-).decode("ascii")
+def configure():
+    global BASE_URL, API_URL, auth
+    BASE_URL = os.environ["WP_URL"].rstrip("/")
+    parsed = urllib.parse.urlsplit(BASE_URL)
+    if parsed.scheme != "https" or not parsed.netloc or parsed.query or parsed.fragment:
+        raise RuntimeError("WP_URL muss eine HTTPS-Basisadresse sein.")
+    API_URL = f"{BASE_URL}/wp-json/wp/v2/wissen"
+    auth = base64.b64encode(
+        f"{os.environ['WP_USER']}:{os.environ['WP_APP_PASSWORD']}".encode("utf-8")
+    ).decode("ascii")
 
 # --------------------------------------------------
 # WordPress REST API
@@ -79,7 +84,8 @@ def find_article(slug, parent=0):
         "GET",
         params={
             "slug": slug,
-            "status": "draft,publish,future,private,pending",
+            "status": "draft,publish,future,private,pending,trash",
+            "parent": parent,
             "per_page": 100,
             "context": "edit",
         },
@@ -106,6 +112,9 @@ def upsert_draft(slug, parent, title, content):
     existing = find_article(slug, parent)
 
     if existing:
+        existing = api("GET", f"/{existing['id']}", params={"context": "edit"})
+        if existing.get("parent", 0) != parent or existing.get("slug") != slug:
+            raise RuntimeError(f"Artikelzuordnung geändert: {slug}")
         if existing["status"] != "draft":
             raise RuntimeError(
                 f"Artikel '{slug}' ist kein Entwurf. "
@@ -121,6 +130,7 @@ def upsert_draft(slug, parent, title, content):
             },
         )
 
+        verify_identity(result, slug, parent)
         print(f"Entwurf aktualisiert: {slug}")
         return result
 
@@ -135,6 +145,7 @@ def upsert_draft(slug, parent, title, content):
         },
     )
 
+    verify_identity(result, slug, parent)
     print(f"Entwurf erstellt: {slug}")
     return result
 
@@ -163,42 +174,31 @@ def read_markdown(source):
 # Interne Markdown-Links umwandeln
 # --------------------------------------------------
 
-def convert_links(text):
+def convert_links(text, source):
     def replace(match):
         label, target = match.groups()
-
-        if (
-            not target.endswith(".md")
-            or "://" in target
-            or target.startswith("/")
-        ):
+        parsed = urllib.parse.urlsplit(target)
+        if parsed.scheme or parsed.netloc or parsed.path.startswith("/"):
             return match.group(0)
-
-        resolved = (
-            SOURCE.parent / target
-        ).resolve()
-
-        root = pathlib.Path(
-            "content/de"
-        ).resolve()
-
+        if not parsed.path.endswith(".md"):
+            return match.group(0)
+        resolved = (source.parent / urllib.parse.unquote(parsed.path)).resolve()
         try:
-            relative = resolved.relative_to(root)
+            relative = resolved.relative_to(CONTENT_ROOT.resolve())
         except ValueError:
-            return match.group(0)
-
+            raise RuntimeError(f"Interner Link außerhalb content/de: {source}: {target}")
+        if not resolved.is_file():
+            raise RuntimeError(f"Internes Linkziel fehlt: {source}: {target}")
         slug = relative.with_suffix("").as_posix()
+        url = f"{BASE_URL}/wissen/{slug}/"
+        if parsed.query:
+            url += "?" + parsed.query
+        if parsed.fragment:
+            url += "#" + parsed.fragment
+        return f"[{label}]({url})"
 
-        return (
-            f"[{label}]"
-            f"({BASE_URL}/wissen/{slug}/)"
-        )
+    return re.sub(r"(?<!!)\[([^\]]+)\]\(([^)\s]+)\)", replace, text)
 
-    return re.sub(
-        r"\[([^\]]+)\]\(([^)\s]+\.md)\)",
-        replace,
-        text,
-    )
 
 # --------------------------------------------------
 # Yoast SEO aus YAML-Metadaten übernehmen
@@ -291,59 +291,109 @@ def update_yoast_fields(article_id, expected_values):
 # Hauptprogramm
 # --------------------------------------------------
 
+PARENT_TITLES = {
+    "branchen": "Branchen",
+    "loesungen": "Lösungen",
+    "hardware": "Hardware",
+    "ratgeber": "Ratgeber",
+    "begriffe": "Begriffe",
+}
+
+
+def verify_identity(article, slug, parent):
+    if (article.get("status") != "draft"
+            or article.get("slug") != slug
+            or article.get("parent", 0) != parent):
+        raise RuntimeError(f"Entwurfsstatus oder Artikelzuordnung unerwartet: {slug}")
+
+
+def prepare_articles():
+    sources = sorted(CONTENT_ROOT.rglob("*.md"))
+    if not sources:
+        raise RuntimeError(f"Keine Artikel gefunden: {CONTENT_ROOT}")
+    articles = []
+    errors = []
+    for source in sources:
+        try:
+            relative = source.relative_to(CONTENT_ROOT).with_suffix("")
+            if len(relative.parts) > 2:
+                raise RuntimeError("Mehr als eine Ordnerebene wird nicht unterstützt.")
+            section = relative.parts[0] if len(relative.parts) == 2 else None
+            if section is not None and section not in PARENT_TITLES:
+                raise RuntimeError(f"Unbekannter Ordner: {section}")
+            if section is None and relative.name in PARENT_TITLES:
+                raise RuntimeError("Artikel kollidiert mit einem Bereichs-Slug.")
+            metadata, content = read_markdown(source)
+            seo = yoast_values(metadata)
+            if metadata.get("lang") != "de":
+                raise RuntimeError("Erwartet lang: de.")
+            html = markdown.markdown(convert_links(content, source),
+                                     extensions=["extra", "sane_lists"])
+            articles.append({"path": relative.as_posix(), "slug": relative.name,
+                             "section": section, "title": metadata["title"],
+                             "content": html, "meta": seo})
+        except (RuntimeError, ValueError, yaml.YAMLError) as error:
+            errors.append(f"{source.relative_to(REPO_ROOT)}: {error}")
+    if errors:
+        raise RuntimeError("Vorprüfung fehlgeschlagen:\n" + "\n".join(errors))
+    return articles
+
+
+def preflight(articles):
+    """Alle betroffenen vorhandenen Artikel vor dem ersten POST prüfen."""
+    parents = {}
+    for section in sorted({a["section"] for a in articles if a["section"]}):
+        existing = find_article(section, 0)
+        if existing and existing.get("status") != "draft":
+            raise RuntimeError(f"Bereich '{section}' ist kein Entwurf.")
+        parents[section] = existing
+        print(f"Bereich {section}: " + ("Entwurf vorhanden" if existing else "neu"))
+    for article in articles:
+        section = article["section"]
+        parent = parents.get(section) if section else None
+        existing = (find_article(article["slug"], parent["id"] if parent else 0)
+                    if not section or parent else None)
+        if existing and existing.get("status") != "draft":
+            raise RuntimeError(f"Artikel '{article['path']}' ist kein Entwurf.")
+        print(("AKTUALISIEREN " if existing else "NEU ") + article["path"])
+    return parents
+
+
 def main():
-    metadata, content = read_markdown(SOURCE)
+    parser = argparse.ArgumentParser(description="Deutsche Wissensartikel als Entwürfe importieren.")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--apply", action="store_true", help="Entwürfe schreiben und SEO prüfen")
+    mode.add_argument("--dry-run", action="store_true", help="Nur prüfen (Standard)")
+    args = parser.parse_args()
+    configure()
+    articles = prepare_articles()
+    print(f"Lokal geprüft: {len(articles)} deutsche Artikel; keine englischen Inhalte.")
+    parents = preflight(articles)
+    if not args.apply:
+        print("Prüfmodus abgeschlossen. Keine Änderungen an WordPress.")
+        return
+    parent_ids = {}
+    for section in parents:
+        # Bestehende Bereichsinhalte bewahren; neue Bereiche bleiben zunächst leer.
+        existing = find_article(section, 0)
+        if existing:
+            verify_identity(existing, section, 0)
+            parent_ids[section] = existing["id"]
+        else:
+            parent_ids[section] = upsert_draft(section, 0, PARENT_TITLES[section], "")["id"]
+    for article in articles:
+        parent_id = parent_ids.get(article["section"], 0)
+        if parent_id:
+            parent = api("GET", f"/{parent_id}", params={"context": "edit"})
+            verify_identity(parent, article["section"], 0)
+        saved = upsert_draft(article["slug"], parent_id,
+                             article["title"], article["content"])
+        update_yoast_fields(saved["id"], article["meta"])
+        persisted = api("GET", f"/{saved['id']}", params={"context": "edit"})
+        verify_identity(persisted, article["slug"], parent_id)
+        print(f"Geprüft: {BASE_URL}/wissen/{article['path']}/ (ID {saved['id']})")
+    print(f"Import erfolgreich: {len(articles)} Artikel als Entwürfe geprüft.")
 
-    # Vor jeder WordPress-Änderung alle benötigten SEO-Werte validieren.
-    seo_meta = yoast_values(metadata)
-    title = metadata["title"]
-
-    # Markdown-Links in WordPress-Links umwandeln
-    content = convert_links(content)
-
-    # Markdown in HTML umwandeln
-    html = markdown.markdown(
-        content,
-        extensions=[
-            "extra",
-            "sane_lists",
-        ],
-    )
-
-    # Übergeordneten Artikel erstellen/aktualisieren
-    parent = upsert_draft(
-        slug="loesungen",
-        parent=0,
-        title="Lösungen",
-        content="",
-    )
-
-    # EdiVote-Testartikel erstellen/aktualisieren
-    article = upsert_draft(
-        slug="edivote-powerpoint-abstimmung",
-        parent=parent["id"],
-        title=title,
-        content=html,
-    )
-
-    print("Artikel-ID:", article["id"])
-
-    print(
-        "Erwartete URL:",
-        f"{BASE_URL}/wissen/loesungen/"
-        "edivote-powerpoint-abstimmung/",
-    )
-
-    # Sicherheit: Nur vorhandenen Entwurf testen
-    if article.get("status") != "draft":
-        raise RuntimeError(
-            "Yoast-Test abgebrochen: "
-            "Artikel ist kein Entwurf."
-        )
-
-    # Yoast-Felder schreiben und per separatem GET überprüfen.
-    update_yoast_fields(article["id"], seo_meta)
-    print("\nImport erfolgreich; Entwurf und Yoast-Metadaten überprüft!")
 
 if __name__ == "__main__":
     main()
